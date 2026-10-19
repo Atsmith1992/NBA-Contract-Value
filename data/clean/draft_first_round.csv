@@ -1,0 +1,91 @@
+﻿draft_year,pick,draft_team,player,player_id,match_status
+2023,1,SAS,Victor Wembanyama,wembavi01,matched
+2023,2,CHO,Brandon Miller,millebr02,matched
+2023,3,POR,Scoot Henderson,hendesc01,matched
+2023,4,HOU,Amen Thompson,thompam01,matched
+2023,5,DET,Ausar Thompson,thompau01,matched
+2023,6,ORL,Anthony Black,blackan01,matched
+2023,7,IND,Bilal Coulibaly,coulibi01,matched
+2023,8,WAS,Jarace Walker,walkeja02,matched
+2023,9,UTA,Taylor Hendricks,hendrta01,matched
+2023,10,DAL,Cason Wallace,wallaca01,matched
+2023,11,ORL,Jett Howard,howarje01,matched
+2023,12,OKC,Dereck Lively II,livelde01,matched
+2023,13,TOR,Gradey Dick,dickgr01,matched
+2023,14,NOP,Jordan Hawkins,hawkijo01,matched
+2023,15,ATL,Kobe Bufkin,bufkiko01,matched
+2023,16,UTA,Keyonte George,georgke01,matched
+2023,17,LAL,Jalen Hood-Schifino,hoodsja01,matched
+2023,18,MIA,Jaime Jaquez Jr.,jaqueja01,matched
+2023,19,GSW,Brandin Podziemski,podzibr01,matched
+2023,20,HOU,Cam Whitmore,whitmca01,matched
+2023,21,BRK,Noah Clowney,clownno01,matched
+2023,22,BRK,Dariq Whitehead,whiteda01,matched
+2023,23,POR,Kris Murray,murrakr01,matched
+2023,24,SAC,Olivier-Maxence Prosper,prospol01,matched
+2023,25,MEM,Marcus Sasser,sassema01,matched
+2023,26,IND,Ben Sheppard,sheppbe01,matched
+2023,27,CHO,Nick Smith Jr.,smithni01,matched
+2023,28,UTA,Brice Sensabaugh,sensabr01,matched
+2023,29,IND,Julian Strawther,strawju01,matched
+2023,30,LAC,Kobe Brown,brownko01,matched
+2024,1,ATL,Zaccharie Risacher,risacza01,matched
+2024,2,WAS,Alex Sarr,sarral01,matched
+2024,3,HOU,Reed Sheppard,sheppre01,matched
+2024,4,SAS,Stephon Castle,castlst01,matched
+2024,5,DET,Ron Holland,hollaro01,matched
+2024,6,CHO,Tidjane Salaün,salauti01,matched
+2024,7,POR,Donovan Clingan,clingdo01,matched
+2024,8,SAS,Rob Dillingham,dilliro01,matched
+2024,9,MEM,Zach Edey,edeyza01,matched
+2024,10,UTA,Cody Williams,willico04,matched
+2024,11,CHI,Matas Buzelis,buzelma01,matched
+2024,12,OKC,Nikola Topić,topicni01,matched
+2024,13,SAC,Devin Carter,cartede02,matched
+2024,14,POR,Bub Carrington,carrica01,matched
+2024,15,MIA,Kel'el Ware,wareke01,matched
+2024,16,PHI,Jared McCain,mccaija01,matched
+2024,17,LAL,Dalton Knecht,knechda01,matched
+2024,18,ORL,Tristan Da Silva,dasiltr01,matched
+2024,19,TOR,Ja'Kobe Walter,walteja01,matched
+2024,20,CLE,Jaylon Tyson,tysonja01,matched
+2024,21,NOP,Yves Missi,missiyv01,matched
+2024,22,PHO,DaRon Holmes,holmeda01,matched
+2024,23,MIL,AJ Johnson,johnsaj01,matched
+2024,24,NYK,Kyshawn George,georgky01,matched
+2024,25,NYK,Pacôme Dadiet,dadiepa01,matched
+2024,26,WAS,Dillon Jones,jonesdi01,matched
+2024,27,MIN,Terrence Shannon Jr.,shannte01,matched
+2024,28,DEN,Ryan Dunn,dunnry01,matched
+2024,29,UTA,Isaiah Collier,colliis01,matched
+2024,30,BOS,Baylor Scheierman,scheiba01,matched
+2025,1,DAL,Cooper Flagg,flaggco01,matched
+2025,2,SAS,Dylan Harper,harpedy01,matched
+2025,3,PHI,VJ Edgecombe,edgecvj01,matched
+2025,4,CHO,Kon Knueppel,knuepko01,matched
+2025,5,UTA,Ace Bailey,baileac01,matched
+2025,6,WAS,Tre Johnson,johnstr03,matched
+2025,7,NOP,Jeremiah Fears,fearsje01,matched
+2025,8,BRK,Egor Dëmin,demineg01,matched
+2025,9,TOR,Collin Murray-Boyles,murraco01,matched
+2025,10,HOU,Khaman Maluach,maluakh01,matched
+2025,11,POR,Cedric Coward,cowarce01,matched
+2025,12,CHI,Noa Essengue,essenno01,matched
+2025,13,ATL,Derik Queen,queende01,matched
+2025,14,SAS,Carter Bryant,bryanca01,matched
+2025,15,OKC,Thomas Sorber,,no NBA stats yet
+2025,16,MEM,Yang Hansen,yangha01,matched
+2025,17,MIN,Joan Beringer,berinjo01,matched
+2025,18,WAS,Walter Clayton,claytwa01,matched
+2025,19,BRK,Nolan Traoré,traorno01,matched
+2025,20,MIA,Kasparas Jakučionis,jakucka01,matched
+2025,21,UTA,Will Riley,rileywi01,matched
+2025,22,ATL,Drake Powell,poweldr01,matched
+2025,23,IND,Asa Newell,newelas01,matched
+2025,24,OKC,Nique Clifford,cliffni01,matched
+2025,25,ORL,Jase Richardson,richaja02,matched
+2025,26,BRK,Ben Saraf,sarafbe01,matched
+2025,27,BRK,Danny Wolf,wolfda01,matched
+2025,28,BOS,Hugo González,gonzahu01,matched
+2025,29,PHO,Liam McNeeley,mcneeli01,matched
+2025,30,LAC,Yanic Konan Niederhäuser,konanya01,matched

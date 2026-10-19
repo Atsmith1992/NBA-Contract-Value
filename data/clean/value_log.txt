@@ -1,0 +1,45 @@
+NBA Contract Value Finder - value calculation
+==================================================
+
+Contracted players with stats: 419 (55 contracts had no stats and were skipped)
+  excluded - Rookie-scale contract: 84
+  excluded - Under 1,500 minutes: 49
+  eligible for the pay line: 286
+
+Market pay line
+  salary = $0.9M + $4.58M x (win shares per season)
+  In words: each extra win share per season is worth about $4.6M in salary.
+  R-squared = 0.43 -> production explains about 43% of the differences in pay.
+
+Wrote data/clean/player_value.csv (419 rows)
+
+Value tiers (eligible players)
+  Steal: 51
+  Good value: 99
+  Fair: 42
+  Overpaid: 38
+  Big overpay: 56
+
+Top 10 best-value contracts
+  DeMar DeRozan              salary $  2.4M  market $ 34.3M  surplus  +31.9M
+  Shai Gilgeous-Alexander    salary $ 40.8M  market $ 71.9M  surplus  +31.1M
+  LeBron James               salary $  3.9M  market $ 33.9M  surplus  +30.0M
+  Payton Pritchard           salary $  7.8M  market $ 36.3M  surplus  +28.5M
+  Nikola Vučević             salary $  2.4M  market $ 27.0M  surplus  +24.6M
+  Mike Conley                salary $  2.4M  market $ 24.3M  surplus  +21.8M
+  Neemias Queta              salary $  2.7M  market $ 22.3M  surplus  +19.6M
+  Luke Kornet                salary $ 10.4M  market $ 29.9M  surplus  +19.5M
+  Jarrett Allen              salary $ 28.0M  market $ 44.7M  surplus  +16.7M
+  Harrison Barnes            salary $  8.0M  market $ 24.0M  surplus  +16.0M
+
+Top 10 most overpaid contracts
+  Joel Embiid                salary $ 58.1M  market $ 20.8M  surplus  -37.3M
+  Paul George                salary $ 54.1M  market $ 17.4M  surplus  -36.7M
+  Zach LaVine                salary $ 49.0M  market $ 13.0M  surplus  -36.0M
+  Ja Morant                  salary $ 42.2M  market $  7.9M  surplus  -34.2M
+  Stephen Curry              salary $ 62.6M  market $ 30.2M  surplus  -32.4M
+  Jaren Jackson Jr.          salary $ 49.0M  market $ 17.4M  surplus  -31.6M
+  Trae Young                 salary $ 49.5M  market $ 18.8M  surplus  -30.7M
+  Jordan Poole               salary $ 34.0M  market $  3.4M  surplus  -30.7M
+  Jaylen Brown               salary $ 57.1M  market $ 28.4M  surplus  -28.7M
+  Anthony Davis              salary $ 58.5M  market $ 31.1M  surplus  -27.3M

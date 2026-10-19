@@ -3,7 +3,7 @@ clean_data.py
 -------------
 Step 1 of the NBA Contract Value Finder pipeline.
 
-Reads the 5 raw Basketball-Reference exports in data/raw/, fixes their quirks,
+Reads the 8 raw Basketball-Reference exports in data/raw/, fixes their quirks,
 and writes clean, analysis-ready CSVs to data/clean/.
 
 Raw-data quirks this script handles:
@@ -18,12 +18,16 @@ Raw-data quirks this script handles:
   6. Salary text like "$62587158" -> a real number
   7. Contracts: the same player listed twice (old team still paying a
      waived contract) -> keep one row per player and log the duplicates
+  8. Draft tables have NO player ID column -> match draft picks to stats by
+     name, with a safety rule (see clean_drafts) and a log of every
+     pick that didn't match cleanly
 
 Outputs (in data/clean/):
-  advanced_3yr.csv     one row per player per season (2023-24 to 2025-26)
-  per_game_2026.csv    one row per player, 2025-26 per-game stats
-  contracts.csv        one row per player, 2026-27 salary and contract info
-  cleaning_log.txt     what was removed and why, plus data checks
+  advanced_3yr.csv         one row per player per season (2023-24 to 2025-26)
+  per_game_2026.csv        one row per player, 2025-26 per-game stats
+  contracts.csv            one row per player, 2026-27 salary and contract info
+  draft_first_round.csv    first-round picks 2023-2025 (still on rookie deals)
+  cleaning_log.txt         what was removed and why, plus data checks
 
 Uses only the Python standard library.
 Run it from the repo folder:   python clean_data.py
@@ -31,6 +35,7 @@ Run it from the repo folder:   python clean_data.py
 
 import csv
 import re
+import unicodedata
 from pathlib import Path
 
 # ---------------------------------------------------------------------------
@@ -52,6 +57,16 @@ ADVANCED_FILES = {
 }
 PER_GAME_FILE = "per_game_2026.csv"
 CONTRACTS_FILE = "contracts.csv"
+
+# Draft year -> raw file name. A first-round rookie deal lasts up to 4
+# seasons, so 2023, 2024 and 2025 first-round picks are all still on rookie
+# deals in 2026-27. (2026 picks have no NBA stats yet, so we don't need them.)
+DRAFT_FILES = {
+    2023: "draft_2023.csv",
+    2024: "draft_2024.csv",
+    2025: "draft_2025.csv",
+}
+FIRST_ROUND_LAST_PICK = 30  # picks 1-30 = first round
 
 # A traded player's combined row has a team code like 2TM, 3TM, 4TM.
 MULTI_TEAM = re.compile(r"^\d+TM$")
@@ -175,9 +190,11 @@ def read_raw_table(filename):
     reader = csv.reader(lines[header_index:])
     header = next(reader)
 
-    # The player ID is always the last column, but its name differs by file
-    # ("Player-additional" in stats files, "-9999" in contracts). Standardize it.
-    header[-1] = "player_id"
+    # In stats and contracts files the player ID is the last column, but its
+    # name differs ("Player-additional" vs "-9999"). Standardize it.
+    # Draft files have no ID column at all, so they're left alone.
+    if header[-1] in ("Player-additional", "-9999"):
+        header[-1] = "player_id"
 
     counts = {"repeated_headers": 0, "blank_lines": 0, "league_average": 0}
     rows = []
@@ -192,7 +209,7 @@ def read_raw_table(filename):
         if row.get("Player") == "League Average" or row.get("player_id") == "-9999":
             counts["league_average"] += 1
             continue
-        if not row.get("player_id"):
+        if "player_id" in header and not row.get("player_id"):
             raise ValueError(f"{filename}: a row has no player ID: {values[:3]}")
         rows.append(row)
 
@@ -309,6 +326,74 @@ def clean_contracts():
     return list(by_player.values())
 
 
+def normalize_name(name):
+    """
+    Make names comparable: 'Egor Dëmin' -> 'egor demin',
+    'P.J. Washington' -> 'pj washington'. Removes accents, periods and
+    apostrophes, lowercases, and squeezes extra spaces.
+    """
+    no_accents = unicodedata.normalize("NFKD", name)
+    no_accents = "".join(c for c in no_accents if not unicodedata.combining(c))
+    cleaned = re.sub(r"[.'’]", "", no_accents.lower())
+    return " ".join(cleaned.split())
+
+
+def clean_drafts(advanced):
+    """
+    List the first-round picks from 2023-2025 and attach their player ID.
+
+    The draft tables have no player ID, so we match on name. Safety rule:
+    a player can only match a draft pick if his FIRST season in our stats is
+    the draft year or later. That stops a 2024 pick from being matched to a
+    veteran with the same name who was already playing in 2023-24.
+    """
+    # From the stats: name -> player IDs, and each player's first season
+    ids_by_name = {}
+    first_season = {}
+    for row in advanced:
+        start_year = int(row["season"][:4])  # "2023-24" -> 2023
+        pid = row["player_id"]
+        first_season[pid] = min(first_season.get(pid, start_year), start_year)
+        ids_by_name.setdefault(normalize_name(row["player"]), set()).add(pid)
+
+    picks = []
+    for draft_year, filename in DRAFT_FILES.items():
+        for row in read_raw_table(filename):
+            name = row["Player"].strip()
+            pick = to_int(row["Pk"])
+            if not name or pick is None or pick > FIRST_ROUND_LAST_PICK:
+                continue  # skip second-rounders and forfeited (blank) picks
+
+            candidates = [
+                pid for pid in ids_by_name.get(normalize_name(name), set())
+                if first_season[pid] >= draft_year
+            ]
+            if len(candidates) == 1:
+                status, pid = "matched", candidates[0]
+            elif not candidates:
+                status, pid = "no NBA stats yet", ""
+            else:
+                status, pid = "ambiguous name", ""
+
+            picks.append({
+                "draft_year": draft_year,
+                "pick": pick,
+                "draft_team": row["Tm"].strip(),
+                "player": name,
+                "player_id": pid,
+                "match_status": status,
+            })
+
+    for year in DRAFT_FILES:
+        year_picks = [p for p in picks if p["draft_year"] == year]
+        matched = sum(1 for p in year_picks if p["match_status"] == "matched")
+        log(f"  {year} first round: {len(year_picks)} picks, {matched} matched to stats")
+    for p in picks:
+        if p["match_status"] != "matched":
+            log(f"    {p['draft_year']} #{p['pick']} {p['player']}: {p['match_status']}")
+    return picks
+
+
 # ---------------------------------------------------------------------------
 # Writing output and checking the results
 # ---------------------------------------------------------------------------
@@ -359,8 +444,11 @@ def run_checks(advanced, per_game, contracts):
         f"{matched} of {len(contracts)}")
     log(f"  No 2025-26 stats (mostly 2026 rookies or players who sat out): "
         f"{len(no_stats)}")
+    # The full list goes to the log file only, to keep the terminal readable
+    log_lines.append("  (full list)")
     for name in no_stats:
-        log(f"    - {name}")
+        log_lines.append(f"    - {name}")
+    print("  (full list in cleaning_log.txt)")
 
     return all(passed for _, passed in results)
 
@@ -378,13 +466,20 @@ def main():
     log("\nContracts")
     contracts = clean_contracts()
 
+    log("\nDraft (first-round picks still on rookie deals)")
+    drafts = clean_drafts(advanced)
+
     log("\nWriting clean files")
     write_csv("advanced_3yr.csv", advanced)
     write_csv("per_game_2026.csv", per_game)
     write_csv("contracts.csv", contracts)
+    write_csv("draft_first_round.csv", drafts)
 
     log("\nData checks")
     all_passed = run_checks(advanced, per_game, contracts)
+    ambiguous = [p for p in drafts if p["match_status"] == "ambiguous name"]
+    log(f"  {'PASS' if not ambiguous else 'FAIL'}  Draft: no ambiguous name matches")
+    all_passed = all_passed and not ambiguous
 
     log("\n" + ("All checks passed." if all_passed else "Some checks FAILED - see above."))
 

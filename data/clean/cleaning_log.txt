@@ -26,10 +26,20 @@ Contracts
     Haywood Highsmith: kept PHO (guaranteed 1000000), dropped PHO (guaranteed 1000000)
   contracts.csv: 474 players
 
+Draft (first-round picks still on rookie deals)
+  draft_2023.csv: skipped 1 line(s) above the header, 0 repeated header(s), 0 League Average row(s) -> 60 data rows
+  draft_2024.csv: skipped 1 line(s) above the header, 0 repeated header(s), 0 League Average row(s) -> 60 data rows
+  draft_2025.csv: skipped 2 line(s) above the header, 0 repeated header(s), 0 League Average row(s) -> 60 data rows
+  2023 first round: 30 picks, 30 matched to stats
+  2024 first round: 30 picks, 30 matched to stats
+  2025 first round: 30 picks, 29 matched to stats
+    2025 #15 Thomas Sorber: no NBA stats yet
+
 Writing clean files
   wrote data/clean/advanced_3yr.csv (1723 rows)
   wrote data/clean/per_game_2026.csv (582 rows)
   wrote data/clean/contracts.csv (474 rows)
+  wrote data/clean/draft_first_round.csv (90 rows)
 
 Data checks
   PASS  Advanced: one row per player per season
@@ -40,6 +50,7 @@ Data checks
 
   Contracts matched to 2025-26 stats by player ID: 408 of 474
   No 2025-26 stats (mostly 2026 rookies or players who sat out): 66
+  (full list)
     - Tyrese Haliburton
     - Kyrie Irving
     - Fred VanVleet
@@ -106,5 +117,6 @@ Data checks
     - Mamadi Diakite
     - Ricky Rubio
     - Didi Louzada
+  PASS  Draft: no ambiguous name matches
 
 All checks passed.
