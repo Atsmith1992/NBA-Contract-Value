@@ -1,0 +1,110 @@
+NBA Contract Value Finder - cleaning raw data
+==================================================
+
+Advanced stats (3 seasons)
+  advanced_2024.csv: skipped 0 line(s) above the header, 0 repeated header(s), 1 League Average row(s) -> 735 data rows
+  advanced_2024.csv: 78 traded players -> removed 163 single-team rows -> 572 players
+  advanced_2025.csv: skipped 0 line(s) above the header, 0 repeated header(s), 1 League Average row(s) -> 735 data rows
+  advanced_2025.csv: 81 traded players -> removed 166 single-team rows -> 569 players
+  advanced_2026.csv: skipped 0 line(s) above the header, 0 repeated header(s), 1 League Average row(s) -> 733 data rows
+  advanced_2026.csv: 72 traded players -> removed 151 single-team rows -> 582 players
+
+Per game stats (2025-26)
+  per_game_2026.csv: skipped 0 line(s) above the header, 0 repeated header(s), 1 League Average row(s) -> 733 data rows
+  per_game_2026.csv: 72 traded players -> removed 151 single-team rows -> 582 players
+
+Contracts
+  contracts.csv: skipped 1 line(s) above the header, 0 repeated header(s), 0 League Average row(s) -> 482 data rows
+  contracts.csv: 8 duplicate player row(s) removed:
+    Damian Lillard: kept MIL (guaranteed 90066412), dropped POR (guaranteed 13398800)
+    Bradley Beal: kept PHO (guaranteed 77532040), dropped LAC (guaranteed 6424800)
+    Klay Thompson: kept DAL (guaranteed 17460317), dropped MIA (guaranteed 5600000)
+    Jonathan Isaac: kept ORL (guaranteed 10449421), dropped ORL (guaranteed 10449421)
+    Kentavious Caldwell-Pope: kept MEM (guaranteed 17744971), dropped PHI (guaranteed 2449421)
+    Devin Carter: kept ATL (guaranteed 5158080), dropped BOS (guaranteed None)
+    Olivier-Maxence Prosper: kept MEM (guaranteed 2497812), dropped DAL (guaranteed 2004720)
+    Haywood Highsmith: kept PHO (guaranteed 1000000), dropped PHO (guaranteed 1000000)
+  contracts.csv: 474 players
+
+Writing clean files
+  wrote data/clean/advanced_3yr.csv (1723 rows)
+  wrote data/clean/per_game_2026.csv (582 rows)
+  wrote data/clean/contracts.csv (474 rows)
+
+Data checks
+  PASS  Advanced: one row per player per season
+  PASS  Per game: one row per player
+  PASS  Contracts: one row per player
+  PASS  Contracts: every player has a 2026-27 salary above $0
+  PASS  Advanced: all 3 seasons present
+
+  Contracts matched to 2025-26 stats by player ID: 408 of 474
+  No 2025-26 stats (mostly 2026 rookies or players who sat out): 66
+    - Tyrese Haliburton
+    - Kyrie Irving
+    - Fred VanVleet
+    - Damian Lillard
+    - AJ Dybantsa
+    - Darryn Peterson
+    - Cameron Boozer
+    - Caleb Wilson
+    - Keaton Wagler
+    - Mikel Brown Jr.
+    - Darius Acuff Jr.
+    - Kingston Flemings
+    - Morez Johnson Jr.
+    - Brayden Burries
+    - Yaxel Lendeborg
+    - Aday Mara
+    - Nate Ament
+    - Hannes Steinbach
+    - Dailyn Swain
+    - Thomas Sorber
+    - Bennett Stirtz
+    - Ebuka Okorie
+    - Christian Anderson Jr.
+    - Allen Graves
+    - Jayden Quaintance
+    - Karim López
+    - Labaron Philon Jr.
+    - Zuby Ejiofor
+    - Cameron Carr
+    - Sergio de Larrea
+    - Nassir Little
+    - Tarris Reed Jr.
+    - Tarik Biberovic
+    - Chris Cenac Jr.
+    - Joshua Jefferson
+    - Alex Karaban
+    - Koa Peat
+    - Trey Lyles
+    - Mario Hezonja
+    - Ben Simmons
+    - Georges Niang
+    - JaVale McGee
+    - Alex Toohey
+    - Baba Miller
+    - Isaiah Evans
+    - Bogoljub Markovic
+    - Meleek Thomas
+    - Emanuel Sharp
+    - Ryan Conwell
+    - Henri Veesaar
+    - Jaden Bradley
+    - Bruce Thornton
+    - Trevon Brazile
+    - Khalifa Diop
+    - Nate Bittle
+    - Tacko Fall
+    - Jameer Nelson Jr.
+    - Christoph Tilly
+    - Keba Keita
+    - Rienk Mast
+    - Tucker DeVries
+    - Milos Uzan
+    - Vasilije Micić
+    - Mamadi Diakite
+    - Ricky Rubio
+    - Didi Louzada
+
+All checks passed.
