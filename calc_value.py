@@ -21,6 +21,10 @@ Method (the same idea as a pay equity / market pricing analysis in HR):
      Positive = underpaid (a steal). Negative = overpaid.
   5. FLAGS, not deletions: players who missed all of 2025-26 stay in but
      are flagged, so injury risk is visible instead of hidden.
+  6. CONTEXT COLUMNS: contract type (veteran minimum, max-level, standard,
+     rookie scale) and age band. They don't change any score. They explain
+     the outliers: old players on minimum deals look like steals because the
+     model looks backward, and max players hit the league's salary ceiling.
 
 Output:
   data/clean/player_value.csv   one row per contracted player with stats
@@ -58,6 +62,20 @@ TIERS = [
     (-10_000_000, "Overpaid"),     # $2M to $10M overpaid
 ]
 LOWEST_TIER = "Big overpay"        # more than $10M overpaid
+
+# Contract type rules (used for context, not for scoring)
+# Max-level: around the smallest max contract (25% of the salary cap).
+# This is an approximation; adjust it if you use a different cap figure.
+MAX_LEVEL_FLOOR = 40_000_000
+# Veteran minimum: the largest minimum salary in our contracts data is
+# $3,876,529 (the minimum for players with 10+ years of service), so
+# anything at or below ~$4M for a player aged 30+ is a minimum-type deal.
+VET_MIN_CEILING = 4_000_000
+VET_MIN_AGE = 30
+
+# Age bands (age during 2025-26)
+AGE_BANDS = [(24, "Under 25"), (29, "25-29"), (33, "30-33")]
+OLDEST_BAND = "34+"
 
 log_lines = []
 
@@ -148,6 +166,24 @@ def tier_for(surplus):
     return LOWEST_TIER
 
 
+def age_band_for(age):
+    for top_age, label in AGE_BANDS:
+        if age <= top_age:
+            return label
+    return OLDEST_BAND
+
+
+def contract_type_for(row):
+    """Label the kind of deal, so outliers can be explained or filtered."""
+    if row["rookie_scale"] != "No":
+        return "Rookie scale"
+    if row["salary_2026_27"] >= MAX_LEVEL_FLOOR:
+        return "Max-level"
+    if row["salary_2026_27"] <= VET_MIN_CEILING and row["age_2025_26"] >= VET_MIN_AGE:
+        return "Veteran minimum"
+    return "Standard"
+
+
 # ---------------------------------------------------------------------------
 # Main
 # ---------------------------------------------------------------------------
@@ -183,6 +219,8 @@ def main():
         draft = rookie_ids.get(c["player_id"])
         row["rookie_scale"] = (f"Yes ({draft['draft_year']} #{draft['pick']})"
                                if draft else "No")
+        row["contract_type"] = contract_type_for(row)
+        row["age_band"] = age_band_for(row["age_2025_26"])
 
         # Step 2: eligibility, with the reason recorded when excluded
         if draft:
@@ -225,7 +263,8 @@ def main():
 
     # Column order for the output file (and Power BI)
     columns = [
-        "player_id", "player", "pos", "age_2025_26", "latest_team", "contract_team",
+        "player_id", "player", "pos", "age_2025_26", "age_band",
+        "latest_team", "contract_team", "contract_type",
         "salary_2026_27", "market_salary", "surplus_value", "value_tier",
         "ws_per_season", "vorp_per_season", "ws_2023_24", "ws_2024_25", "ws_2025_26",
         "ws_spread", "seasons_played", "total_minutes", "missed_2025_26",
@@ -252,9 +291,21 @@ def main():
                 f"market ${p['market_salary'] / 1e6:5.1f}M  "
                 f"surplus {p['surplus_value'] / 1e6:+6.1f}M{flag}")
 
+    log("\nContract types (eligible players): average surplus value")
+    for ctype in ("Standard", "Veteran minimum", "Max-level"):
+        group = [p["surplus_value"] for p in eligible if p["contract_type"] == ctype]
+        if group:
+            log(f"  {ctype:<16} {len(group):>3} players, "
+                f"average surplus {statistics.fmean(group) / 1e6:+.1f}M")
+
     ranked = sorted(eligible, key=lambda p: p["surplus_value"], reverse=True)
-    show("Top 10 best-value contracts", ranked[:10])
-    show("Top 10 most overpaid contracts", ranked[-10:][::-1])
+    show("Top 10 best-value contracts (all)", ranked[:10])
+    show("Top 10 most overpaid contracts (all)", ranked[-10:][::-1])
+
+    # The "real" steals: normal market contracts for players still in their prime
+    standard_prime = [p for p in ranked
+                      if p["contract_type"] == "Standard" and p["age_band"] != OLDEST_BAND]
+    show("Top 10 best-value STANDARD contracts, age under 34", standard_prime[:10])
 
     (CLEAN_DIR / "value_log.txt").write_text("\n".join(log_lines), encoding="utf-8")
     print("\nLog saved to data/clean/value_log.txt")

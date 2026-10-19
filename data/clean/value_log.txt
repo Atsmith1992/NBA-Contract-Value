@@ -20,7 +20,12 @@ Value tiers (eligible players)
   Overpaid: 38
   Big overpay: 56
 
-Top 10 best-value contracts
+Contract types (eligible players): average surplus value
+  Standard         221 players, average surplus +2.5M
+  Veteran minimum   21 players, average surplus +10.6M
+  Max-level         44 players, average surplus -17.7M
+
+Top 10 best-value contracts (all)
   DeMar DeRozan              salary $  2.4M  market $ 34.3M  surplus  +31.9M
   Shai Gilgeous-Alexander    salary $ 40.8M  market $ 71.9M  surplus  +31.1M
   LeBron James               salary $  3.9M  market $ 33.9M  surplus  +30.0M
@@ -32,7 +37,7 @@ Top 10 best-value contracts
   Jarrett Allen              salary $ 28.0M  market $ 44.7M  surplus  +16.7M
   Harrison Barnes            salary $  8.0M  market $ 24.0M  surplus  +16.0M
 
-Top 10 most overpaid contracts
+Top 10 most overpaid contracts (all)
   Joel Embiid                salary $ 58.1M  market $ 20.8M  surplus  -37.3M
   Paul George                salary $ 54.1M  market $ 17.4M  surplus  -36.7M
   Zach LaVine                salary $ 49.0M  market $ 13.0M  surplus  -36.0M
@@ -43,3 +48,15 @@ Top 10 most overpaid contracts
   Jordan Poole               salary $ 34.0M  market $  3.4M  surplus  -30.7M
   Jaylen Brown               salary $ 57.1M  market $ 28.4M  surplus  -28.7M
   Anthony Davis              salary $ 58.5M  market $ 31.1M  surplus  -27.3M
+
+Top 10 best-value STANDARD contracts, age under 34
+  Payton Pritchard           salary $  7.8M  market $ 36.3M  surplus  +28.5M
+  Neemias Queta              salary $  2.7M  market $ 22.3M  surplus  +19.6M
+  Luke Kornet                salary $ 10.4M  market $ 29.9M  surplus  +19.5M
+  Jarrett Allen              salary $ 28.0M  market $ 44.7M  surplus  +16.7M
+  Harrison Barnes            salary $  8.0M  market $ 24.0M  surplus  +16.0M
+  Maxime Raynaud             salary $  2.2M  market $ 17.4M  surplus  +15.3M
+  Ivica Zubac                salary $ 20.3M  market $ 35.6M  surplus  +15.2M
+  Moussa Diabaté             salary $  2.5M  market $ 17.6M  surplus  +15.1M
+  Saddiq Bey                 salary $  6.4M  market $ 21.3M  surplus  +14.9M
+  Goga Bitadze               salary $  7.6M  market $ 22.1M  surplus  +14.5M

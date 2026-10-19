@@ -1,420 +1,420 @@
-﻿player_id,player,pos,age_2025_26,latest_team,contract_team,salary_2026_27,market_salary,surplus_value,value_tier,ws_per_season,vorp_per_season,ws_2023_24,ws_2024_25,ws_2025_26,ws_spread,seasons_played,total_minutes,missed_2025_26,ppg_2025_26,rpg_2025_26,apg_2025_26,seasons_listed,rookie_scale,eligible,exclusion_reason
-derozde01,DeMar DeRozan,PF,36,SAC,DEN,2449421,34347691,31898270,Steal,7.3,1.73,9.2,7.1,5.6,1.48,3,8163,No,18.4,2.9,4.1,1,No,Yes,
-gilgesh01,Shai Gilgeous-Alexander,PG,27,OKC,OKC,40806150,71864828,31058678,Steal,15.5,7.93,14.6,16.7,15.2,0.88,3,7410,No,31.1,4.3,6.6,5,No,Yes,
-jamesle01,LeBron James,SF,41,LAL,PHI,3876529,33890165,30013636,Steal,7.2,4.3,8.5,7.7,5.4,1.31,3,6937,No,20.9,6.1,7.2,2,No,Yes,
-pritcpa01,Payton Pritchard,PG,28,BOS,BOS,7767857,36315053,28547196,Steal,7.73,2.47,6.1,8.6,8.5,1.16,3,6652,No,17.0,3.9,5.2,2,No,Yes,
-vucevni01,Nikola Vučević,C,35,2TM,ORL,2449421,27027274,24577853,Steal,5.7,1.9,5.4,7.3,4.4,1.2,3,6706,No,15.1,8.4,3.3,1,No,Yes,
-conlemi01,Mike Conley,PG,38,MIN,BOS,2449421,24282118,21832697,Steal,5.1,1.53,8.2,5.2,1.9,2.57,3,4940,No,4.5,1.7,2.9,1,No,Yes,
-quetane01,Neemias Queta,C,26,BOS,BOS,2667944,22314755,19646811,Steal,4.67,1.0,1.8,3.2,9.0,3.12,3,3122,No,10.2,8.4,1.7,5,No,Yes,
-kornelu01,Luke Kornet,C,30,SAS,SAS,10450000,29909688,19459688,Steal,6.33,1.7,5.1,7.0,6.9,0.87,3,3774,No,6.5,6.1,1.9,3,No,Yes,
-allenja01,Jarrett Allen,C,27,CLE,CLE,28000000,44733533,16733533,Steal,9.57,2.83,10.7,11.6,6.4,2.27,3,6257,No,15.4,8.5,1.8,3,No,Yes,
-barneha02,Harrison Barnes,PF,33,SAS,SAS,8000000,23961849,15961849,Steal,5.03,0.77,4.7,5.6,4.8,0.4,3,6597,No,9.9,2.8,1.9,1,No,Yes,
-jokicni01,Nikola Jokić,C,30,DEN,DEN,59033114,74609985,15576871,Steal,16.1,9.87,17.0,16.4,14.9,0.88,3,7573,No,27.7,12.9,10.7,2,No,Yes,
-raynama01,Maxime Raynaud,C,22,SAC,SAC,2150917,17419227,15268310,Steal,3.6,-0.2,,,3.6,,1,1964,No,12.5,7.5,1.4,2,No,Yes,
-zubaciv01,Ivica Zubac,C,28,2TM,IND,20342140,35583011,15240871,Steal,7.57,1.77,6.8,11.7,4.2,3.11,3,5864,No,14.1,10.6,2.2,2,No,Yes,
-diabamo01,Moussa Diabaté,C,24,CHO,CHO,2461462,17556484,15095022,Steal,3.63,0.63,0.3,3.2,7.4,2.91,3,3204,No,7.9,8.7,1.9,1,No,Yes,
-beysa01,Saddiq Bey,SF,26,NOP,NOP,6440678,21308198,14867520,Steal,4.45,0.75,3.5,,5.4,0.95,2,4308,No,17.7,5.6,2.5,4,No,Yes,
-bitadgo01,Goga Bitadze,C,26,ORL,ORL,7608696,22131745,14523049,Steal,4.63,1.27,3.7,5.8,4.4,0.87,3,3359,No,5.9,5.0,1.3,1,No,Yes,
-lopezbr01,Brook Lopez,C,37,LAC,LAC,9187500,23504323,14316823,Steal,4.93,1.37,5.9,6.6,2.3,1.88,3,6592,No,8.5,3.6,1.3,1,No,Yes,
-jonesty01,Tyus Jones,PG,29,3TM,DEN,2449421,16046648,13597227,Steal,3.3,0.77,4.5,4.4,1.0,1.63,3,5086,No,3.0,1.1,2.4,1,No,Yes,
-jonestr01,Tre Jones,PG,26,CHI,CHI,8000000,21536961,13536961,Steal,4.5,1.07,4.9,2.9,5.7,1.18,3,4795,No,14.1,3.1,5.4,2,No,Yes,
-horfoal01,Al Horford,C,39,GSW,GSW,6822000,20301641,13479641,Steal,4.23,1.57,6.2,4.4,2.1,1.68,3,4368,No,8.3,4.9,2.6,2,No,Yes,
-jackstr02,Trayce Jackson-Davis,C,25,2TM,TOR,2406205,15589122,13182917,Steal,3.2,0.8,4.8,3.4,1.4,1.4,3,2593,No,3.4,2.7,0.7,1,No,Yes,
-ighodos01,Oso Ighodaro,PF,23,PHO,PHO,2296271,15360359,13064088,Steal,3.15,0.35,,1.6,4.7,1.55,2,2853,No,6.5,5.1,2.3,2,No,Yes,
-drumman01,Andre Drummond,C,32,PHI,NYK,2449421,15451865,13002444,Steal,3.17,0.3,4.9,1.2,3.4,1.52,3,3333,No,6.4,8.4,1.3,1,No,Yes,
-capelca01,Clint Capela,C,31,HOU,HOU,7035000,20027125,12992125,Steal,4.17,0.63,6.3,3.2,3.0,1.51,3,3985,No,3.8,4.6,0.7,2,No,Yes,
-jamessi01,Sion James,SG,23,CHO,CHO,2411090,15131596,12720506,Steal,3.1,0.0,,,3.1,,1,1843,No,5.4,3.5,2.0,3,No,Yes,
-anderky01,Kyle Anderson,SF,32,3TM,TOR,2449421,14994338,12544917,Steal,3.07,0.93,4.5,2.8,1.9,1.08,3,3637,No,6.2,3.5,2.9,1,No,Yes,
-aytonde01,Deandre Ayton,C,27,LAL,WAS,8104000,20621909,12517909,Steal,4.3,0.67,3.9,2.8,6.2,1.42,3,4948,No,12.5,8.0,0.8,1,No,Yes,
-mitchaj01,Ajay Mitchell,SG,23,OKC,OKC,2850000,15360359,12510359,Steal,3.15,0.75,,1.5,4.8,1.65,2,2070,No,13.6,3.3,3.6,2,No,Yes,
-spencca01,Cam Spencer,SG,25,MEM,MEM,2411090,14902833,12491743,Steal,3.05,1.0,,0.8,5.3,2.25,2,1966,No,11.1,2.5,5.6,3,No,Yes,
-reedpa01,Paul Reed,C,26,DET,DET,5602689,18014010,12411321,Steal,3.73,1.0,5.1,1.6,4.5,1.53,3,2929,No,7.8,4.5,1.2,1,No,Yes,
-divindo01,Donte DiVincenzo,SG,29,MIN,MIN,12535000,24876901,12341901,Steal,5.23,2.17,6.6,3.9,5.2,1.1,3,6460,No,12.2,4.1,3.8,1,No,Yes,
-looneke01,Kevon Looney,C,29,NOP,LAL,2449421,14674070,12224649,Steal,3.0,0.5,4.0,4.3,0.7,1.63,3,2645,No,2.8,5.6,1.6,1,No,Yes,
-hartjo01,Josh Hart,SF,30,NYK,NYK,20923760,32975113,12051353,Steal,7.0,2.5,5.7,9.2,6.1,1.56,3,7598,No,12.0,7.4,4.8,2,No,Yes,
-hayesja02,Jaxson Hayes,C,25,LAL,UTA,6000000,18014010,12014010,Steal,3.73,0.5,2.5,3.7,5.0,1.02,3,3177,No,7.5,4.1,0.9,2,No,Yes,
-avdijde01,Deni Avdija,SF,25,POR,POR,13125000,25059912,11934912,Steal,5.27,2.1,3.2,5.6,7.0,1.57,3,6617,No,24.2,6.9,6.7,2,No,Yes,
-hausesa01,Sam Hauser,PF,28,BOS,BOS,10848215,22772282,11924067,Steal,4.77,1.27,4.9,4.4,5.0,0.26,3,5216,No,9.2,3.8,1.5,3,No,Yes,
-okongon01,Onyeka Okongwu,C,25,ATL,ATL,16120000,27942326,11822326,Steal,5.9,1.27,4.5,7.2,6.0,1.1,3,5766,No,15.2,7.6,3.1,2,No,Yes,
-richani01,Nick Richards,C,28,2TM,MIA,2449421,14216544,11767123,Steal,2.9,-0.4,5.1,3.0,0.6,1.84,3,3716,No,5.8,5.1,0.3,1,No,Yes,
-mcbrimi01,Miles McBride,SG,25,NYK,NYK,3956523,15451865,11495342,Steal,3.17,0.77,3.6,3.2,2.7,0.37,3,4001,No,12.0,2.4,2.6,1,No,Yes,
-larsspe01,Pelle Larsson,SG,24,MIA,MIA,2296271,13530255,11233984,Steal,2.75,0.1,,1.4,4.1,1.35,2,2631,No,11.4,3.5,3.4,5,No,Yes,
-paytoga02,Gary Payton II,SG,33,GSW,GSW,2449421,13621760,11172339,Steal,2.77,0.8,1.8,3.0,3.5,0.71,3,2749,No,7.5,3.6,1.7,1,No,Yes,
-joeis01,Isaiah Joe,SG,26,OKC,DET,11323006,22452013,11129007,Steal,4.7,1.37,3.5,5.1,5.5,0.86,3,4556,No,11.1,2.5,1.3,2,No,Yes,
-harrito02,Tobias Harris,PF,33,DET,SAS,15044000,25974964,10930964,Steal,5.47,1.47,5.9,5.2,5.3,0.31,3,6420,No,13.3,5.1,2.5,2,No,Yes,
-kennalu01,Luke Kennard,SG,29,2TM,PHO,6064000,16961701,10897701,Steal,3.5,0.83,2.1,3.9,4.5,1.02,3,4152,No,8.4,2.3,2.2,2,No,Yes,
-gaffoda01,Daniel Gafford,C,27,DAL,DAL,17263584,28079584,10816000,Steal,5.93,1.57,7.8,5.9,4.1,1.51,3,4236,No,9.5,6.9,1.1,3,No,Yes,
-goberru01,Rudy Gobert,C,33,MIN,MIN,36500000,47295679,10795679,Steal,10.13,2.23,11.6,10.1,8.7,1.18,3,7362,No,10.9,11.5,1.7,2,No,Yes,
-filipky01,Kyle Filipowski,C,22,UTA,UTA,3000000,13759018,10759018,Steal,2.8,0.4,,2.5,3.1,0.3,2,3323,No,11.4,7.2,2.6,2,No,Yes,
-niangge01,Georges Niang,PF,32,2TM,GSW,2449421,13072729,10623308,Steal,2.65,-0.25,2.4,2.9,,0.25,2,3528,Yes,,,,1,No,Yes,
-bonaad01,Adem Bona,C,22,PHI,PHI,2296271,12843966,10547695,Steal,2.6,-0.25,,2.3,2.9,0.3,2,2139,No,4.8,4.3,0.5,2,No,Yes,
-dunnkr01,Kris Dunn,PG,31,LAC,LAC,5684800,16183906,10499106,Steal,3.33,0.8,2.0,4.0,4.0,0.94,3,5262,No,7.3,3.3,3.6,1,No,Yes,
-wellsja01,Jaylen Wells,SG,22,MEM,MEM,2296271,12615203,10318932,Steal,2.55,-0.3,,3.5,1.6,0.95,2,3864,No,12.5,3.2,1.6,2,No,Yes,
-lylestr01,Trey Lyles,PF,30,SAC,MIN,2449421,12386440,9937019,Good value,2.5,0.35,2.4,2.6,,0.1,2,2507,Yes,,,,1,No,Yes,
-hardati02,Tim Hardaway Jr.,SG,33,DEN,MIA,6500000,16366917,9866917,Good value,3.37,0.07,2.2,3.5,4.4,0.9,3,6400,No,13.5,2.6,1.4,1,No,Yes,
-sextoco01,Collin Sexton,SG,27,2TM,LAL,9366000,18929063,9563063,Good value,3.93,1.23,5.5,2.4,3.9,1.27,3,5447,No,15.4,2.3,3.3,2,No,Yes,
-baglema01,Marvin Bagley III,PF,26,2TM,DEN,2449421,11791656,9342235,Good value,2.37,0.43,2.7,0.6,3.8,1.33,3,2519,No,10.5,6.1,1.4,1,No,Yes,
-alexani01,Nickeil Alexander-Walker,SG,27,ATL,ATL,14403710,23687334,9283624,Good value,4.97,1.33,4.3,4.3,6.3,0.94,3,6597,No,20.8,3.4,3.7,3,No,Yes,
-willima07,Mark Williams,C,24,PHO,PHO,11728395,20942177,9213782,Good value,4.37,1.1,2.1,4.7,6.3,1.73,3,3095,No,11.7,8.0,1.0,3,No,Yes,
-bryanth01,Thomas Bryant,C,28,CLE,CLE,2449421,11608646,9159225,Good value,2.33,0.4,1.6,3.1,2.3,0.61,3,2136,No,6.2,3.4,0.6,1,No,Yes,
-simonan01,Anfernee Simons,SG,26,2TM,PHI,6000000,15131596,9131596,Good value,3.1,0.87,2.2,4.2,2.9,0.83,3,5246,No,14.3,2.5,2.4,2,No,Yes,
-wiggiaa01,Aaron Wiggins,SG,27,OKC,ATL,9224300,18014010,8789710,Good value,3.73,0.87,3.7,5.4,2.1,1.35,3,4386,No,9.4,3.1,1.7,3,No,Yes,
-willike04,Kenrich Williams,PF,31,OKC,OKC,5000000,13759018,8759018,Good value,2.8,0.5,2.5,3.6,2.3,0.57,3,3016,No,6.5,3.3,1.4,1,No,Yes,
-achiupr01,Precious Achiuwa,C,26,SAC,SAC,5477000,14079286,8602286,Good value,2.87,0.13,3.4,2.3,2.9,0.45,3,4539,No,10.1,6.7,1.4,2,No,Yes,
-harteis01,Isaiah Hartenstein,C,27,OKC,OKC,23148148,31739792,8591644,Good value,6.73,2.17,8.1,6.8,5.3,1.14,3,4623,No,9.2,9.4,3.5,3,No,Yes,
-matkoka01,Karlo Matković,PF,24,NOP,NOP,2296271,10785099,8488828,Good value,2.15,0.3,,1.6,2.7,0.55,2,1703,No,5.7,3.7,0.8,1,No,Yes,
-walkeja01,Jabari Walker,PF,23,PHI,PHI,2584539,11013862,8429323,Good value,2.2,-0.17,2.9,2.0,1.7,0.51,3,3211,No,4.3,3.0,0.5,1,No,Yes,
-batumni01,Nicolas Batum,PF,37,LAC,LAC,5881680,14079286,8197606,Good value,2.87,0.63,3.3,3.5,1.8,0.76,3,4191,No,4.0,2.5,0.9,1,No,Yes,
-konchjo01,John Konchar,SG,29,2TM,MIN,2055000,10236067,8181067,Good value,2.03,0.6,2.2,1.5,2.4,0.39,3,2846,No,4.4,4.3,2.1,3,No,Yes,
-willija07,Jaylin Williams,PF,23,OKC,OKC,7774648,15909391,8134743,Good value,3.27,1.13,2.4,3.3,4.1,0.69,3,2958,No,7.2,5.5,2.4,2,No,Yes,
-fontesi01,Simone Fontecchio,SF,30,MIA,MIA,2449421,10556336,8106915,Good value,2.1,0.27,2.1,1.6,2.6,0.41,3,4054,No,8.5,3.0,1.4,1,No,Yes,
-highsha01,Haywood Highsmith,SF,29,PHO,PHO,3449421,11471388,8021967,Good value,2.3,0.23,3.1,3.3,0.5,1.28,3,3275,No,5.4,1.9,1.0,1,No,Yes,
-greenja02,Javonte Green,SG,32,DET,DET,3943679,11928914,7985235,Good value,2.4,0.53,0.9,1.6,4.7,1.65,3,2934,No,6.9,2.8,0.7,1,No,Yes,
-champju01,Justin Champagnie,SF,24,WAS,WAS,2667944,10419078,7751134,Good value,2.07,0.37,0.3,2.8,3.1,1.26,3,2952,No,8.7,5.6,1.2,2,No,Yes,
-nancela02,Larry Nance Jr.,PF,33,CLE,IND,2449421,10098810,7649389,Good value,2.0,0.47,4.1,1.3,0.6,1.51,3,2128,No,3.7,2.7,1.0,1,No,Yes,
-bogdabo01,Bogdan Bogdanović,SG,33,LAC,HOU,2449421,10098810,7649389,Good value,2.0,0.43,3.9,1.9,0.2,1.51,3,4201,No,7.4,2.6,2.2,1,No,Yes,
-krejcvi01,Vít Krejčí,PG,25,2TM,POR,2667944,10236067,7568123,Good value,2.03,0.23,0.6,2.6,2.9,1.02,3,3086,No,8.5,2.3,1.5,2,No,Yes,
-hardeja01,James Harden,PG,36,2TM,CLE,30647619,38145157,7497538,Good value,8.13,3.93,8.4,8.3,7.7,0.31,3,7697,No,23.6,4.8,8.0,3,No,Yes,
-marshna01,Naji Marshall,SF,28,DAL,DAL,9428571,16824443,7395872,Good value,3.47,0.6,2.6,3.5,4.3,0.69,3,5360,No,15.2,4.7,3.3,4,No,Yes,
-brownbr01,Bruce Brown,SG,29,DEN,NYK,2449421,9778541,7329120,Good value,1.93,-0.4,2.2,0.7,2.9,0.92,3,4786,No,7.9,3.9,2.1,1,No,Yes,
-pippesc02,Scotty Pippen Jr.,PG,25,MEM,MEM,2461462,9778541,7317079,Good value,1.93,0.7,1.0,4.7,0.1,1.99,3,2422,No,11.4,2.2,4.7,2,No,Yes,
-simsje01,Jericho Sims,C,27,MIL,MIL,2801346,10098810,7297464,Good value,2.0,-0.2,1.5,1.3,3.2,0.85,3,2535,No,5.0,5.5,1.6,1,No,Yes,
-huffja01,Jay Huff,C,27,IND,IND,2667944,9961552,7293608,Good value,1.97,0.73,0.2,2.5,3.2,1.28,3,2516,No,9.5,4.0,1.5,2,No,Yes,
-whitede01,Derrick White,SG,31,BOS,BOS,30348000,37550373,7202373,Good value,8.0,3.53,8.5,8.5,7.0,0.71,3,7580,No,16.5,4.4,5.4,3,No,Yes,
-vanvlfr01,Fred VanVleet,PG,31,HOU,HOU,25000000,32060061,7060061,Good value,6.8,2.55,8.4,5.2,,1.6,2,4795,Yes,,,,1,No,Yes,
-porteke02,Kevin Porter Jr.,PG,25,MIL,MIL,5390700,12386440,6995740,Good value,2.5,0.9,,2.2,2.8,0.3,2,2743,No,17.4,5.2,7.4,1,No,Yes,
-portecr01,Craig Porter Jr.,PG,25,CLE,CLE,2406205,9183757,6777552,Good value,1.8,0.67,1.5,1.1,2.8,0.73,3,2310,No,4.5,3.4,3.2,1,No,Yes,
-merrisa01,Sam Merrill,SG,29,CLE,CLE,9160715,15909391,6748676,Good value,3.27,0.73,2.8,3.3,3.7,0.37,3,3847,No,12.8,2.6,2.4,3,No,Yes,
-laravja01,Jake LaRavia,PF,24,LAL,LAL,6000000,12706708,6706708,Good value,2.57,0.37,1.0,2.9,3.8,1.17,3,4216,No,8.2,4.0,1.8,1,No,Yes,
-barlodo01,Dominick Barlow,PF,22,PHI,PHI,3415000,10098810,6683810,Good value,2.0,0.13,1.1,1.0,3.9,1.34,3,2484,No,7.7,4.8,1.2,1,No,Yes,
-elliske01,Keon Ellis,SG,26,2TM,BRK,8780488,15451865,6671377,Good value,3.17,1.1,2.3,5.0,2.2,1.3,3,4404,No,6.7,1.9,1.0,2,No,Yes,
-sheadja01,Jamal Shead,PG,23,TOR,TOR,2296271,8954994,6658723,Good value,1.75,-0.45,,0.8,2.7,0.95,2,3319,No,6.6,1.7,5.4,4,No,Yes,
-jonesde02,Derrick Jones Jr.,SF,28,LAC,LAC,10476190,17098958,6622768,Good value,3.53,0.5,3.1,4.7,2.8,0.83,3,5006,No,10.1,3.5,1.4,1,No,Yes,
-sochaje01,Jeremy Sochan,PF,22,2TM,POR,2449421,9046500,6597079,Good value,1.77,-0.13,1.4,2.7,1.2,0.66,3,4026,No,3.6,2.4,0.9,1,No,Yes,
-onealro01,Royce O'Neale,SF,32,PHO,CHO,10875000,17419227,6544227,Good value,3.6,1.17,3.4,2.8,4.6,0.75,3,6004,No,9.8,4.8,2.7,2,No,Yes,
-brunsja01,Jalen Brunson,PG,29,NYK,NYK,37739521,44092996,6353475,Good value,9.43,3.93,11.2,8.3,8.8,1.27,3,7617,No,26.0,3.3,6.8,3,No,Yes,
-kuminjo01,Jonathan Kuminga,PF,23,2TM,MIN,6064000,12386440,6322440,Good value,2.5,0.4,4.6,1.9,1.0,1.53,3,3923,No,12.2,5.6,2.3,2,No,Yes,
-princta02,Taurean Prince,SF,31,MIL,DET,3815861,9961552,6145691,Good value,1.97,-0.17,1.9,3.5,0.5,1.23,3,4885,No,9.2,3.1,1.8,1,No,Yes,
-cartewe01,Wendell Carter Jr.,C,26,ORL,ORL,18102000,24144860,6042860,Good value,5.07,0.7,4.4,4.6,6.2,0.81,3,5452,No,11.8,7.4,2.0,3,No,Yes,
-smithja04,Jalen Smith,C,25,CHI,CHI,9428571,15451865,6023294,Good value,3.17,0.77,4.0,2.9,2.6,0.6,3,3104,No,10.2,6.7,1.2,1,No,Yes,
-russeda01,D'Angelo Russell,PG,29,DAL,MEM,5969250,11608646,5639396,Good value,2.33,0.8,5.1,1.9,0.0,2.1,3,4459,No,10.2,2.3,4.0,1,No,Yes,
-oubreke01,Kelly Oubre Jr.,SF,30,PHI,IND,8050000,13621760,5571760,Good value,2.77,0.0,3.0,2.6,2.7,0.17,3,5707,No,14.1,5.0,1.6,2,No,Yes,
-walshjo01,Jordan Walsh,PF,21,BOS,BOS,2406205,7673921,5267716,Good value,1.47,0.17,0.2,0.4,3.8,1.65,3,1698,No,5.4,4.0,0.8,4,No,Yes,
-porzikr01,Kristaps Porziņģis,C,30,2TM,GSW,19512195,24739644,5227449,Good value,5.2,1.97,7.9,5.3,2.4,2.25,3,3669,No,16.7,5.2,2.5,2,No,Yes,
-thybuma01,Matisse Thybulle,SG,28,POR,LAL,2449421,7673921,5224500,Good value,1.47,0.77,2.2,0.9,1.3,0.54,3,2279,No,5.8,2.0,0.9,1,No,Yes,
-rolliry01,Ryan Rollins,PG,23,MIL,MIL,4000000,9183757,5183757,Good value,1.8,0.6,0.3,1.7,3.4,1.27,3,3274,No,17.3,4.6,5.6,2,No,Yes,
-wadede01,Dean Wade,PF,29,CLE,PHI,9000000,14079286,5079286,Good value,2.87,0.67,2.5,3.0,3.1,0.26,3,3678,No,5.8,4.2,1.5,4,No,Yes,
-anthoco01,Cole Anthony,PG,25,MIL,MEM,3700000,8726231,5026231,Good value,1.7,0.43,3.6,2.0,-0.5,1.69,3,3578,No,6.7,2.5,3.5,2,No,Yes,
-tateja01,Jae'Sean Tate,SF,30,HOU,HOU,2449421,7353653,4904232,Good value,1.4,-0.03,1.8,1.6,0.8,0.43,3,2024,No,2.8,1.6,0.5,1,No,Yes,
-alvarjo01,Jose Alvarado,PG,27,2TM,NYK,4500000,9321015,4821015,Good value,1.83,0.33,2.1,1.2,2.2,0.45,3,3764,No,7.4,2.5,3.4,3,No,Yes,
-sharpda01,Day'Ron Sharpe,C,24,BRK,BRK,10000000,14811328,4811328,Good value,3.03,0.73,2.9,2.7,3.5,0.34,3,2989,No,8.7,6.7,2.3,2,No,Yes,
-gueyemo02,Mouhamed Gueye,PF,23,ATL,ATL,2406205,7216395,4810190,Good value,1.37,0.13,0.2,1.2,2.7,1.03,3,1785,No,4.4,3.6,0.9,1,No,Yes,
-mccontj01,T.J. McConnell,PG,33,IND,IND,11000000,15726380,4726380,Good value,3.23,1.3,3.9,3.2,2.6,0.53,3,3669,No,9.4,2.2,5.1,3,No,Yes,
-hachiru01,Rui Hachimura,PF,27,LAL,LAC,14000000,18654547,4654547,Good value,3.87,0.33,4.1,4.3,3.2,0.48,3,5622,No,11.5,3.3,0.8,2,No,Yes,
-wagnemo01,Moritz Wagner,C,28,ORL,BRK,9268293,13896276,4627983,Good value,2.83,0.77,5.6,2.0,0.9,2.01,3,2406,No,6.9,3.2,0.8,2,No,Yes,
-battlja01,Jamison Battle,SF,24,TOR,TOR,2296271,6896127,4599856,Good value,1.3,-0.1,,1.7,0.9,0.4,2,1559,No,3.1,1.5,0.4,1,No,Yes,
-edwarju01,Justin Edwards,SF,22,PHI,PHI,2411090,6896127,4485037,Good value,1.3,-0.15,,0.9,1.7,0.4,2,2132,No,6.0,1.5,1.3,2,No,Yes,
-smithdr01,Dru Smith,SG,28,MIA,MIA,2584539,7033385,4448846,Good value,1.33,0.53,0.3,0.7,3.0,1.19,3,1540,No,5.6,2.5,2.6,2,No,Yes,
-willizi02,Ziaire Williams,SF,24,BRK,LAL,2449421,6896127,4446706,Good value,1.3,-0.2,0.2,2.1,1.6,0.8,3,3860,No,10.2,2.4,1.1,1,No,Yes,
-watfotr01,Trendon Watford,PF,25,PHI,NOP,2449421,6896127,4446706,Good value,1.3,0.0,1.8,0.7,1.4,0.45,3,2633,No,6.5,3.3,2.5,1,No,Yes,
-goodwjo01,Jordan Goodwin,PG,27,PHO,PHO,5864198,10236067,4371869,Good value,2.03,0.67,1.2,1.0,3.9,1.32,3,3170,No,8.7,4.9,2.2,3,No,Yes,
-connapa01,Pat Connaughton,SG,33,CHO,CHO,3815861,8131447,4315586,Good value,1.57,0.13,2.8,1.2,0.7,0.9,3,2576,No,2.6,1.5,0.4,1,No,Yes,
-okogijo01,Josh Okogie,SG,27,HOU,UTA,6000000,10236067,4236067,Good value,2.03,0.43,2.1,1.3,2.7,0.57,3,2939,No,4.5,2.6,0.9,2,No,Yes,
-willibr03,Brandon Williams,PG,26,DAL,GSW,2449421,6575859,4126438,Good value,1.23,0.4,-0.1,1.3,2.5,1.06,3,2063,No,13.0,2.9,3.9,1,No,Yes,
-santogu01,Gui Santos,PF,23,GSW,GSW,4629630,8726231,4096601,Good value,1.7,0.23,0.7,1.7,2.7,0.82,3,2349,No,9.2,3.9,2.3,3,No,Yes,
-middlkh01,Khris Middleton,SF,34,2TM,WAS,5591122,9641283,4050161,Good value,1.9,0.3,3.4,2.0,0.3,1.27,3,3769,No,10.2,3.7,2.8,3,No,Yes,
-harriga01,Gary Harris,SG,31,MIL,DET,3815861,7673921,3858060,Good value,1.47,0.03,2.7,1.0,0.7,0.88,3,2669,No,2.7,1.3,1.1,1,No,Yes,
-robindu01,Duncan Robinson,SG,31,DET,DET,15992957,19844115,3851158,Good value,4.13,0.73,3.6,2.7,6.1,1.44,3,5804,No,12.2,2.7,2.1,2,No,Yes,
-nurkiju01,Jusuf Nurkić,C,31,UTA,UTA,10576923,14353802,3776879,Good value,2.93,0.9,5.8,1.5,1.5,2.03,3,4224,No,10.9,10.4,4.8,2,No,Yes,
-huertke01,Kevin Huerter,SF,27,2TM,DET,8333333,12066172,3732839,Good value,2.43,0.37,2.9,1.9,2.5,0.41,3,4790,No,10.0,3.5,2.6,3,No,Yes,
-hylanbo01,Bones Hyland,PG,25,MIN,MIN,2845883,6438601,3592718,Good value,1.2,0.4,0.0,0.5,3.1,1.36,3,1956,No,8.5,1.8,2.6,1,No,Yes,
-terryda01,Dalen Terry,SG,23,2TM,GSW,1357763,4928765,3571002,Good value,0.87,-0.17,0.8,1.1,0.7,0.17,3,2219,No,3.7,1.8,1.4,1,No,Yes,
-jacksis01,Isaiah Jackson,C,24,2TM,LAC,7000000,10419078,3419078,Good value,2.07,0.33,3.3,0.3,2.6,1.28,3,1763,No,6.7,5.3,0.9,2,No,Yes,
-pottemi01,Micah Potter,C,27,IND,POR,2801346,5981075,3179729,Good value,1.1,0.1,0.3,0.4,2.6,1.06,3,1799,No,9.7,5.0,1.5,1,No,Yes,
-allengr01,Grayson Allen,SG,30,PHO,CHO,18125000,21216693,3091693,Good value,4.43,1.4,6.9,2.5,3.9,1.84,3,5524,No,16.5,3.0,3.8,2,No,Yes,
-champju02,Julian Champagnie,SF,24,SAS,SAS,13888889,16961701,3072812,Good value,3.5,0.77,1.8,2.5,6.2,1.93,3,5666,No,11.1,5.8,1.5,3,No,Yes,
-mathube01,Bennedict Mathurin,SF,23,2TM,NOP,7804878,10876604,3071726,Good value,2.17,-0.43,1.4,3.0,2.1,0.65,3,5307,No,17.6,5.4,2.4,2,No,Yes,
-dortlu01,Luguentz Dort,SF,26,OKC,ATL,18222222,21079435,2857213,Good value,4.4,0.47,4.6,5.6,3.0,1.07,3,6168,No,8.3,3.6,1.2,1,No,Yes,
-okorois01,Isaac Okoro,SG,25,CHI,CHI,11814814,14536812,2721998,Good value,2.97,0.0,4.2,2.5,2.2,0.88,3,4635,No,9.3,2.7,1.6,1,No,Yes,
-jeromty01,Ty Jerome,SG,28,MEM,MEM,9220050,11928914,2708864,Good value,2.4,1.0,0.0,5.9,1.3,2.53,3,1747,No,19.7,2.8,5.7,2,No,Yes,
-johnske04,Keldon Johnson,SF,26,SAS,SAS,17500000,20164383,2664383,Good value,4.2,0.6,3.0,3.2,6.4,1.56,3,5787,No,13.2,5.4,1.4,1,No,Yes,
-isaacjo01,Jonathan Isaac,PF,28,ORL,ORL,10449421,12981224,2531803,Good value,2.63,0.73,3.6,3.4,0.9,1.23,3,2525,No,2.6,2.5,0.4,1,No,Yes,
-jacksgg01,GG Jackson II,PF,21,MEM,MEM,2406205,4928765,2522560,Good value,0.87,-0.07,1.2,0.1,1.3,0.54,3,2870,No,12.5,4.3,1.5,1,No,Yes,
-gillan01,Anthony Gill,PF,33,WAS,WAS,2449421,4928765,2479344,Good value,0.87,-0.27,0.4,0.5,1.7,0.59,3,1814,No,5.8,2.9,1.3,1,No,Yes,
-hieldbu01,Buddy Hield,SG,33,2TM,CHI,9658536,12066172,2407636,Good value,2.43,0.67,3.5,2.8,1.0,1.05,3,4842,No,7.6,2.3,1.4,2,No,Yes,
-phillju01,Julian Phillips,SF,22,2TM,HOU,2537526,4928765,2391239,Good value,0.87,-0.27,0.2,1.9,0.5,0.74,3,1874,No,2.9,1.0,0.2,1,No,Yes,
-smithja05,Jabari Smith Jr.,PF,22,HOU,HOU,23643411,25974964,2331553,Good value,5.47,0.83,5.6,4.2,6.6,0.98,3,6845,No,15.8,6.9,1.9,5,No,Yes,
-clarkjo01,Jordan Clarkson,SG,33,NYK,NYK,2449421,4745755,2296334,Good value,0.83,-0.47,0.2,0.4,1.9,0.76,3,3923,No,8.6,1.8,1.3,1,No,Yes,
-mamuksa01,Sandro Mamukelashvili,C,26,TOR,LAL,13000000,15268854,2268854,Good value,3.13,1.0,1.0,2.2,6.2,2.22,3,2883,No,11.2,4.9,1.9,4,No,Yes,
-gilleco01,Collin Gillespie,PG,26,PHO,PHO,10714286,12981224,2266938,Good value,2.63,1.03,0.4,1.3,6.2,2.55,3,2968,No,12.7,4.1,4.6,4,No,Yes,
-poeltja01,Jakob Poeltl,C,30,TOR,TOR,19500000,21674219,2174219,Good value,4.53,1.2,3.8,5.5,4.3,0.71,3,4154,No,10.7,7.0,2.0,4,No,Yes,
-moodymo01,Moses Moody,SG,23,GSW,GSW,12500000,14674070,2174070,Good value,3.0,0.6,2.4,3.5,3.1,0.45,3,4345,No,12.1,3.3,1.6,2,No,Yes,
-portibo01,Bobby Portis,PF,30,MIL,MIA,14521414,16504174,1982760,Fair,3.4,0.7,4.7,2.7,2.8,0.92,3,4871,No,13.7,6.4,1.6,2,No,Yes,
-chrisma02,Max Christie,SG,22,DAL,DAL,8285714,10236067,1950353,Fair,2.03,-0.13,0.7,2.7,2.7,0.94,3,5315,No,12.3,3.2,2.0,2,No,Yes,
-claxtni01,Nic Claxton,C,26,BRK,CHI,23147727,25059912,1912185,Fair,5.27,1.4,6.7,4.3,4.8,1.03,3,5918,No,11.7,6.9,3.7,2,No,Yes,
-millejo02,Jordan Miller,SF,26,LAC,LAC,5300000,7033385,1733385,Fair,1.33,0.23,0.1,0.4,3.5,1.54,3,1773,No,10.0,3.0,2.3,3,No,Yes,
-nesmiaa01,Aaron Nesmith,SF,26,IND,IND,11000000,12706708,1706708,Fair,2.57,0.23,4.1,2.9,0.7,1.41,3,4452,No,13.8,4.2,1.9,3,No,Yes,
-mcgowbr01,Bryce McGowens,SG,23,NOP,NOP,2584539,4288229,1703690,Fair,0.73,-0.3,0.6,-0.1,1.7,0.74,3,1794,No,8.1,2.1,1.5,2,No,Yes,
-mitchda01,Davion Mitchell,PG,27,MIA,MIA,12400000,14079286,1679286,Fair,2.87,-0.03,1.3,3.0,4.3,1.23,3,5128,No,9.3,2.7,6.5,1,No,Yes,
-shamela01,Landry Shamet,SG,28,NYK,NYK,5357143,6896127,1538984,Fair,1.3,-0.0,0.3,1.0,2.6,0.96,3,2659,No,9.3,1.8,1.4,4,No,Yes,
-toppiob01,Obi Toppin,PF,27,IND,IND,15000000,16504174,1504174,Fair,3.4,1.13,4.8,4.3,1.1,1.64,3,3699,No,11.6,4.4,2.3,2,No,Yes,
-collijo01,John Collins,PF,28,LAC,DET,17000000,18471537,1471537,Fair,3.83,0.7,4.4,2.5,4.6,0.95,3,4993,No,13.6,5.3,1.0,3,No,Yes,
-stewais01,Isaiah Stewart,C,24,DET,MEM,15000000,16366917,1366917,Fair,3.37,0.5,1.7,4.3,4.1,1.18,3,4174,No,10.0,5.0,1.1,2,No,Yes,
-braunch01,Christian Braun,SG,24,DEN,DEN,21551726,22909539,1357813,Fair,4.8,0.63,3.4,8.0,3.0,2.27,3,5729,No,12.0,4.8,2.7,5,No,Yes,
-camarto01,Toumani Camara,PF,25,POR,POR,18080358,19249331,1168973,Fair,4.0,0.47,2.0,5.2,4.8,1.42,3,7018,No,13.4,5.1,2.5,4,No,Yes,
-easonta01,Tari Eason,PF,24,HOU,HOU,14051724,14994338,942614,Fair,3.07,0.87,1.3,5.0,2.9,1.52,3,3449,No,10.5,6.3,1.5,5,No,Yes,
-postqu01,Quinten Post,PF,25,GSW,MEM,8285714,9183757,898043,Fair,1.8,0.35,,1.7,1.9,0.1,2,1845,No,7.7,4.0,1.4,3,No,Yes,
-cissosi01,Sidy Cissoko,SF,21,POR,POR,2497812,3235919,738107,Fair,0.5,-0.27,0.3,-0.1,1.3,0.59,3,1690,No,5.1,2.2,1.5,1,No,Yes,
-micicva01,Vasilije Micić,PG,32,2TM,MIL,666667,1357763,691096,Fair,-0.3,-0.9,0.4,-1.0,,0.7,2,1961,Yes,,,,2,No,Yes,
-sengual01,Alperen Şengün,C,23,HOU,HOU,35642202,36315053,672851,Fair,7.73,3.7,6.9,8.3,8.0,0.6,3,6839,No,20.4,8.9,6.2,4,No,Yes,
-jonessp01,Spencer Jones,SF,24,DEN,DEN,6000000,6667364,667364,Fair,1.25,-0.15,,-0.1,2.6,1.35,2,1542,No,5.5,3.3,0.8,2,No,Yes,
-carteje01,Jevon Carter,PG,30,2TM,ORL,2449421,3098661,649240,Fair,0.47,-0.1,0.2,0.3,0.9,0.31,3,2192,No,6.4,1.7,1.6,1,No,Yes,
-robinmi01,Mitchell Robinson,C,27,NYK,BOS,15044000,15589122,545122,Fair,3.2,0.8,2.5,1.3,5.8,1.9,3,2233,No,5.7,8.8,0.9,3,No,Yes,
-greenaj01,A.J. Green,SG,26,MIL,MIL,10044644,10556336,511692,Fair,2.1,-0.3,1.1,2.8,2.4,0.73,3,4543,No,10.4,2.7,1.9,4,No,Yes,
-colliza01,Zach Collins,C,28,CHI,CHI,8292683,8588974,296291,Fair,1.67,0.2,1.8,2.7,0.5,0.9,3,2687,No,9.7,5.6,1.5,2,No,Yes,
-leverca01,Caris LeVert,SG,31,DET,MIL,14809200,14994338,185138,Fair,3.07,0.93,3.6,4.0,1.6,1.05,3,4708,No,7.4,2.0,2.7,1,No,Yes,
-meltode01,De'Anthony Melton,PG,27,GSW,GSW,5477000,5523549,46549,Fair,1.0,0.2,2.1,0.2,0.7,0.8,3,2269,No,12.3,3.2,2.6,2,No,Yes,
-lillada01,Damian Lillard,PG,35,MIL,MIL,35915403,35949032,33629,Fair,7.65,2.95,7.7,7.6,,0.05,2,4672,Yes,,,,4,No,Yes,
-mykhasv01,Svi Mykhailiuk,SF,28,UTA,UTA,3850000,3830702,-19298,Fair,0.63,-0.07,0.9,-0.1,1.1,0.52,3,2329,No,9.4,2.5,1.9,2,No,Yes,
-reidna01,Naz Reid,C,26,MIN,CHO,23275862,23229808,-46054,Fair,4.87,1.73,4.9,5.7,4.0,0.69,3,6171,No,13.6,6.2,2.2,4,No,Yes,
-powelno01,Norman Powell,SG,32,MIA,CHI,21500000,21399703,-100297,Fair,4.47,1.3,4.1,5.3,4.0,0.59,3,5665,No,21.7,3.5,2.5,2,No,Yes,
-grimequ01,Quentin Grimes,SG,25,PHI,LAL,13953489,13621760,-331729,Fair,2.77,0.43,1.3,3.4,3.6,1.04,3,5244,No,13.4,3.6,3.3,4,No,Yes,
-smartma01,Marcus Smart,SG,31,LAL,HOU,6064000,5386291,-677709,Fair,0.97,0.0,0.2,0.7,2.0,0.76,3,3054,No,9.3,2.8,3.0,2,No,Yes,
-mannte01,Terance Mann,SG,29,BRK,BRK,15500000,14674070,-825930,Fair,3.0,-0.07,4.2,3.0,1.8,0.98,3,4816,No,7.2,3.2,3.0,2,No,Yes,
-dosunay01,Ayo Dosunmu,SG,26,2TM,MIN,19310345,18471537,-838808,Fair,3.83,0.73,4.1,2.5,4.9,1.0,3,5487,No,14.8,3.4,3.6,5,No,Yes,
-durenja01,Jalen Duren,C,22,DET,DET,40160643,39060209,-1100434,Fair,8.33,2.37,4.8,9.2,11.0,2.6,3,5787,No,19.5,10.5,2.0,5,No,Yes,
-branhma01,Malaki Branham,SG,22,WAS,ORL,2537526,1357763,-1179763,Fair,0.07,-0.53,-0.3,0.1,0.4,0.29,3,2296,No,4.6,1.6,0.8,1,No,Yes,
-landajo01,Jock Landale,C,30,2TM,ATL,14100000,12843966,-1256034,Fair,2.6,0.47,2.3,1.7,3.8,0.88,3,2769,No,10.6,5.7,1.7,1,No,Yes,
-aldamsa01,Santi Aldama,PF,25,MEM,DAL,17007043,15726380,-1280663,Fair,3.23,1.33,2.4,5.0,2.3,1.25,3,4476,No,14.0,6.7,2.9,2,No,Yes,
-carusal01,Alex Caruso,SG,31,OKC,OKC,19550160,18197021,-1353139,Fair,3.77,1.63,4.9,3.9,2.5,0.98,3,4101,No,6.2,2.8,2.0,3,No,Yes,
-nnajize01,Zeke Nnaji,PF,25,DEN,DEN,7466667,5981075,-1485592,Fair,1.1,-0.13,1.2,1.2,0.9,0.14,3,1810,No,3.7,2.6,0.6,2,No,Yes,
-schrode01,Dennis Schröder,PG,32,2TM,CHO,14809200,13164234,-1644966,Fair,2.67,-0.03,3.3,3.2,1.5,0.83,3,6288,No,10.8,2.7,4.9,2,No,Yes,
-daniedy01,Dyson Daniels,SG,22,ATL,ATL,25000000,23046797,-1953203,Fair,4.83,1.77,2.9,5.0,6.6,1.52,3,6449,No,11.9,6.8,5.9,4,No,Yes,
-adamsst01,Steven Adams,C,32,HOU,HOU,13000000,11013862,-1986138,Fair,2.2,0.4,,2.3,2.1,0.1,2,1524,No,5.8,8.6,1.5,2,No,Yes,
-diengou01,Ousmane Dieng,C,22,2TM,MIL,5750000,3373176,-2376824,Overpaid,0.53,-0.17,0.4,0.9,0.3,0.26,3,1869,No,7.6,3.2,2.4,3,No,Yes,
-mcdanja02,Jaden McDaniels,PF,25,MIN,MIN,26200001,23687334,-2512667,Overpaid,4.97,0.7,3.4,6.3,5.2,1.2,3,7035,No,14.8,4.2,2.7,3,No,Yes,
-joneshe01,Herbert Jones,SF,27,NOP,NOP,14898786,12249182,-2649604,Overpaid,2.47,0.27,6.3,0.4,0.7,2.71,3,4557,No,8.9,3.4,2.8,4,No,Yes,
-martica02,Caleb Martin,SF,30,DAL,DAL,10001493,6896127,-3105366,Overpaid,1.3,-0.13,2.4,0.6,0.9,0.79,3,3830,No,3.9,2.5,1.4,2,No,Yes,
-finnedo01,Dorian Finney-Smith,PF,32,HOU,ATL,13335000,10098810,-3236190,Overpaid,2.0,0.03,2.6,2.9,0.5,1.07,3,4372,No,3.3,2.5,1.0,3,No,Yes,
-murphtr02,Trey Murphy III,SF,25,NOP,NOP,27000000,23687334,-3312666,Overpaid,4.97,1.93,5.4,3.5,6.0,1.07,3,5885,No,21.5,5.7,3.8,3,No,Yes,
-strusma01,Max Strus,SF,29,CLE,LAC,16660836,13164234,-3496602,Overpaid,2.67,0.67,3.9,3.4,0.7,1.41,3,3800,No,11.2,5.4,2.0,1,No,Yes,
-halibty01,Tyrese Haliburton,PG,25,IND,IND,48924624,45328317,-3596307,Overpaid,9.7,4.95,9.0,10.4,,0.7,2,4675,Yes,,,,3,No,Yes,
-johnsca02,Cameron Johnson,SF,29,DEN,DEN,23062500,19386589,-3675911,Overpaid,4.03,1.3,3.3,5.1,3.7,0.77,3,5046,No,12.2,3.8,2.4,1,No,Yes,
-bridgmi02,Miles Bridges,PF,27,CHO,PHO,22826087,19112073,-3714014,Overpaid,3.97,1.5,2.2,3.2,6.5,1.84,3,6997,No,17.1,5.8,3.2,1,No,Yes,
-caldwke01,Kentavious Caldwell-Pope,SG,32,MEM,MEM,20194392,16366917,-3827475,Overpaid,3.37,0.2,4.8,4.6,0.7,1.89,3,5769,No,8.4,2.5,2.7,1,No,Yes,
-brookdi01,Dillon Brooks,SF,30,PHO,PHO,19992727,16046648,-3946079,Overpaid,3.3,-0.2,2.7,5.1,2.1,1.3,3,6317,No,20.2,3.6,1.8,4,No,Yes,
-mccolcj01,CJ McCollum,PG,34,2TM,ATL,21000000,16824443,-4175557,Overpaid,3.47,1.37,5.9,1.5,3.0,1.83,3,6255,No,18.7,3.3,3.9,1,No,Yes,
-giddejo01,Josh Giddey,PG,23,CHI,CHI,25000000,20484651,-4515349,Overpaid,4.27,2.17,4.3,5.3,3.2,0.86,3,5859,No,17.0,8.3,9.1,3,No,Yes,
-hardyja02,Jaden Hardy,SG,23,2TM,LAL,6000000,1357763,-4642237,Overpaid,-0.07,-0.57,0.3,-0.3,-0.2,0.26,3,2794,No,9.2,1.5,1.0,2,No,Yes,
-whiteco01,Coby White,SG,25,2TM,CHO,22839506,18014010,-4825496,Overpaid,3.73,0.6,4.7,4.5,2.0,1.23,3,6580,No,17.4,3.4,4.0,3,No,Yes,
-vandeja01,Jarred Vanderbilt,PF,26,LAL,LAL,12428571,7490911,-4937660,Overpaid,1.43,0.1,1.1,1.4,1.8,0.29,3,2290,No,4.4,4.5,1.3,2,No,Yes,
-turnemy01,Myles Turner,C,29,MIL,MIL,26584164,21536961,-5047203,Overpaid,4.5,1.1,5.8,4.7,3.0,1.15,3,6162,No,11.9,5.3,1.5,3,No,Yes,
-manntr01,Tre Mann,PG,24,CHO,WAS,8000000,2915650,-5084350,Overpaid,0.43,-0.1,1.2,0.1,0.0,0.54,3,1975,No,5.5,1.7,1.6,2,No,Yes,
-greenjo02,Josh Green,SG,25,CHO,UTA,14679012,9504026,-5174986,Overpaid,1.87,-0.37,2.2,1.5,1.9,0.29,3,4300,No,4.3,1.8,0.8,1,No,Yes,
-bridgmi01,Mikal Bridges,SF,29,NYK,NYK,33482145,28262594,-5219551,Overpaid,5.97,1.87,4.2,5.7,8.0,1.56,3,8582,No,14.4,3.8,3.7,4,No,Yes,
-kispeco01,Corey Kispert,SF,26,2TM,ATL,13975000,8588974,-5386026,Overpaid,1.67,-0.27,2.1,1.1,1.8,0.42,3,4749,No,9.2,2.3,1.6,3,No,Yes,
-willigr01,Grant Williams,PF,27,CHO,CHO,14265750,8863489,-5402261,Overpaid,1.73,0.17,2.6,0.7,1.9,0.78,3,3320,No,7.0,3.9,1.6,1,No,Yes,
-randlju01,Julius Randle,PF,31,MIN,BRK,33333334,27484800,-5848534,Overpaid,5.8,1.9,3.8,6.2,7.4,1.5,3,6466,No,21.1,6.7,5.0,2,No,Yes,
-duranke01,Kevin Durant,SF,37,HOU,HOU,43902439,37870642,-6031797,Overpaid,8.07,4.0,8.3,5.2,10.7,2.25,3,7896,No,26.0,5.5,4.8,2,No,Yes,
-trentga02,Gary Trent Jr.,SG,27,MIL,MIL,15200000,8405963,-6794037,Overpaid,1.63,-0.43,1.7,3.3,-0.1,1.39,3,5264,No,8.1,1.0,1.2,4,No,Yes,
-nembhan01,Andrew Nembhard,PG,26,IND,IND,19550160,12523698,-7026462,Overpaid,2.53,0.13,2.0,2.8,2.8,0.38,3,5364,No,16.9,2.8,7.7,2,No,Yes,
-doncilu01,Luka Dončić,PG,26,LAL,LAL,49800000,42720418,-7079582,Overpaid,9.13,6.17,12.0,5.9,9.5,2.5,3,6682,No,33.5,7.7,8.3,3,No,Yes,
-watsope01,Peyton Watson,SF,23,DEN,CLE,20465116,12523698,-7941418,Overpaid,2.53,0.1,2.5,2.5,2.6,0.05,3,4742,No,14.6,4.9,2.1,4,No,Yes,
-monkma01,Malik Monk,SG,27,SAC,SAC,20190035,12066172,-8123863,Overpaid,2.43,0.67,3.5,2.8,1.0,1.05,3,5290,No,12.5,1.9,3.0,2,No,Yes,
-johnsja05,Jalen Johnson,SF,24,ATL,ATL,30000000,21857229,-8142771,Overpaid,4.57,2.23,3.8,2.4,7.5,2.15,3,5705,No,22.5,10.3,7.9,4,No,Yes,
-holmgch01,Chet Holmgren,PF,23,OKC,OKC,41500000,33295381,-8204619,Overpaid,7.07,2.47,8.9,3.2,9.1,2.74,3,5287,No,17.1,8.9,1.7,5,No,Yes,
-murrake02,Keegan Murray,PF,25,SAC,SAC,24137936,15909391,-8228545,Overpaid,3.27,0.27,5.2,4.4,0.2,2.19,3,5991,No,14.0,5.7,1.7,5,No,Yes,
-sabondo01,Domantas Sabonis,C,29,SAC,SAC,45472000,37230105,-8241895,Overpaid,7.93,3.67,12.6,10.1,1.1,4.94,3,5921,No,15.8,11.4,4.1,2,No,Yes,
-maxeyty01,Tyrese Maxey,PG,25,PHI,PHI,40770520,32380329,-8390191,Overpaid,6.87,3.43,8.1,3.8,8.7,2.18,3,7247,No,28.3,4.1,6.6,3,No,Yes,
-jovicni01,Nikola Jović,PF,22,MIA,MIA,16200000,7673921,-8526079,Overpaid,1.47,0.3,1.9,2.5,0.0,1.07,3,2860,No,7.3,3.3,2.2,4,No,Yes,
-washipj01,P.J. Washington,PF,27,DAL,DAL,19813044,10098810,-9714234,Overpaid,2.0,0.2,1.9,2.4,1.7,0.29,3,5792,No,14.2,7.0,1.8,4,No,Yes,
-vassede01,Devin Vassell,SG,25,SAS,SAS,27000000,17281969,-9718031,Overpaid,3.57,0.93,3.6,2.2,4.9,1.1,3,6275,No,13.9,4.0,2.5,3,No,Yes,
-gordoaa01,Aaron Gordon,PF,30,DEN,DEN,33658037,23229808,-10428229,Big overpay,4.87,1.33,7.1,4.3,3.2,1.64,3,4749,No,16.2,5.8,2.7,3,No,Yes,
-quickim01,Immanuel Quickley,PG,26,TOR,TOR,32500000,21857229,-10642771,Big overpay,4.57,1.73,4.7,2.5,6.5,1.64,3,5134,No,16.4,4.0,5.9,3,No,Yes,
-holidjr01,Jrue Holiday,PG,35,POR,POR,34800000,23824592,-10975408,Big overpay,5.0,1.77,6.3,5.1,3.6,1.1,3,5719,No,16.3,4.6,6.1,2,No,Yes,
-reaveau01,Austin Reaves,SG,27,LAL,LAL,41240250,30092699,-11147551,Big overpay,6.37,2.1,5.9,7.6,5.6,0.88,3,6941,No,23.3,4.7,5.5,4,No,Yes,
-sharpsh01,Shaedon Sharpe,SG,22,POR,POR,20089287,8268705,-11820582,Big overpay,1.6,0.13,0.5,3.0,1.3,1.04,3,4782,No,20.8,4.3,2.6,4,No,Yes,
-wiggian01,Andrew Wiggins,SF,30,MIA,MIA,30169644,18334279,-11835365,Big overpay,3.8,0.93,2.8,4.0,4.6,0.75,3,5825,No,15.4,4.8,2.7,3,No,Yes,
-huntede01,De'Andre Hunter,SF,28,2TM,SAC,24910714,12706708,-12204006,Big overpay,2.57,0.07,2.2,4.4,1.1,1.37,3,4597,No,13.7,4.1,2.0,1,No,Yes,
-antetgi01,Giannis Antetokounmpo,PF,31,MIL,MIA,58456566,46243369,-12213197,Big overpay,9.9,5.6,13.2,11.5,5.0,3.53,3,5895,No,27.6,9.8,5.4,2,No,Yes,
-irvinky01,Kyrie Irving,SG,33,DAL,DAL,39491282,27256037,-12235245,Big overpay,5.75,3.05,6.9,4.6,,1.15,2,3834,Yes,,,,2,No,Yes,
-banede01,Desmond Bane,SG,27,ORL,ORL,39446090,26890016,-12556074,Big overpay,5.67,2.3,3.1,6.5,7.4,1.85,3,6404,No,20.1,4.1,4.1,3,No,Yes,
-willija06,Jalen Williams,SG,24,OKC,OKC,41500000,28537110,-12962890,Big overpay,6.03,2.27,7.3,7.8,3.0,2.15,3,5396,No,17.1,4.6,5.5,5,No,Yes,
-greendr01,Draymond Green,PF,35,GSW,GSW,27678571,14674070,-13004501,Big overpay,3.0,1.07,3.6,3.7,1.7,0.92,3,5342,No,8.4,5.5,5.5,1,No,Yes,
-thompkl01,Klay Thompson,SF,35,DAL,DAL,23060317,9961552,-13098765,Big overpay,1.97,0.53,3.6,1.8,0.5,1.27,3,5746,No,11.7,2.1,1.4,2,No,Yes,
-edwaran01,Anthony Edwards,SG,24,MIN,MIN,48924624,35125485,-13799139,Big overpay,7.47,3.93,7.5,8.4,6.5,0.78,3,7778,No,28.8,5.0,3.7,3,No,Yes,
-kesslwa01,Walker Kessler,C,24,UTA,LAL,30232558,16183906,-14048652,Big overpay,3.33,1.0,4.1,5.4,0.5,2.07,3,3387,No,14.4,10.8,3.0,4,No,Yes,
-herroty01,Tyler Herro,SG,26,MIA,MIL,33000000,18929063,-14070937,Big overpay,3.93,1.87,2.0,7.4,2.4,2.46,3,5165,No,20.5,4.8,4.1,1,No,Yes,
-barrerj01,RJ Barrett,SF,25,TOR,TOR,29616071,15131596,-14484475,Big overpay,3.1,0.93,2.9,2.4,4.0,0.67,3,5433,No,19.3,5.3,3.3,1,No,Yes,
-willipa01,Patrick Williams,PF,24,CHI,CHI,18000000,3235919,-14764081,Big overpay,0.5,-0.57,1.2,0.4,-0.1,0.54,3,4224,No,7.0,3.0,1.5,3,No,Yes,
-mitchdo01,Donovan Mitchell,SG,29,CLE,CLE,50105628,34805217,-15300411,Big overpay,7.4,3.77,6.4,7.6,8.2,0.75,3,6516,No,27.9,4.5,5.7,5,No,Yes,
-bealbr01,Bradley Beal,SG,32,LAC,PHO,25807810,10236067,-15571743,Big overpay,2.03,0.4,3.9,2.4,-0.2,1.69,3,3590,No,8.2,0.8,1.7,4,No,Yes,
-portemi01,Michael Porter Jr.,SF,27,BRK,BRK,40806150,24602386,-16203764,Big overpay,5.17,1.53,6.2,6.4,2.9,1.6,3,6847,No,24.2,7.1,3.0,1,No,Yes,
-murraja01,Jamal Murray,PG,28,DEN,DEN,50105628,33890165,-16215463,Big overpay,7.2,2.9,5.9,6.2,9.5,1.63,3,6931,No,25.4,4.4,7.1,3,No,Yes,
-leonaka01,Kawhi Leonard,SF,34,LAC,TOR,50300000,33890165,-16409835,Big overpay,7.2,3.73,8.9,3.5,9.2,2.62,3,5595,No,27.9,6.4,3.6,3,No,Yes,
-townska01,Karl-Anthony Towns,C,30,NYK,NYK,57078728,40432788,-16645940,Big overpay,8.63,2.97,6.3,10.1,9.5,1.67,3,6865,No,20.1,11.9,3.0,2,No,Yes,
-willizi01,Zion Williamson,PF,25,NOP,NOP,42166510,25517438,-16649072,Big overpay,5.37,2.5,7.5,2.5,6.1,2.11,3,4905,No,21.0,5.7,3.2,2,No,Yes,
-adebaba01,Bam Adebayo,C,28,MIA,MIA,49800000,33112371,-16687629,Big overpay,7.03,2.6,7.2,7.5,6.4,0.46,3,7455,No,20.1,10.0,3.2,3,No,Yes,
-barnesc01,Scottie Barnes,PF,24,TOR,TOR,41754690,24739644,-17015046,Big overpay,5.2,3.17,4.3,3.5,7.8,1.87,3,6909,No,18.1,7.5,5.9,4,No,Yes,
-mobleev01,Evan Mobley,PF,24,CLE,CLE,50105628,32975113,-17130515,Big overpay,7.0,2.7,5.5,9.0,6.5,1.47,3,5773,No,18.2,9.0,3.6,4,No,Yes,
-kuzmaky01,Kyle Kuzma,PF,30,MIL,MIL,20345152,2778393,-17566759,Big overpay,0.4,-0.33,0.2,-0.9,1.9,1.15,3,6023,No,13.0,4.5,2.7,1,No,Yes,
-anunoog01,OG Anunoby,PF,28,NYK,NYK,42500000,24419375,-18080625,Big overpay,5.13,1.6,2.6,6.5,6.3,1.79,3,6632,No,16.7,5.2,2.2,3,No,Yes,
-wagnefr01,Franz Wagner,SF,24,ORL,ORL,41754690,23504323,-18250367,Big overpay,4.93,1.9,6.4,5.6,2.8,1.54,3,5379,No,20.6,5.2,3.3,4,No,Yes,
-suggsja01,Jalen Suggs,PG,24,ORL,ORL,32400000,13896276,-18503724,Big overpay,2.83,1.3,4.7,1.1,2.7,1.47,3,4601,No,13.8,3.9,5.5,4,No,Yes,
-banchpa01,Paolo Banchero,PF,23,ORL,ORL,41500000,21994487,-19505513,Big overpay,4.6,2.2,5.3,3.5,5.0,0.79,3,6883,No,22.2,8.4,5.2,5,No,Yes,
-butleji01,Jimmy Butler,SF,36,GSW,GSW,56832773,36772579,-20060194,Big overpay,7.83,2.9,9.1,8.7,5.7,1.52,3,4970,No,20.0,5.6,4.9,1,No,Yes,
-grantje01,Jerami Grant,PF,31,POR,MEM,34206898,13896276,-20310622,Big overpay,2.83,0.63,2.7,1.8,4.0,0.9,3,5049,No,18.6,3.5,2.1,2,No,Yes,
-garlada01,Darius Garland,PG,26,2TM,LAC,42166510,21399703,-20766807,Big overpay,4.47,1.37,2.7,8.1,2.6,2.57,3,5546,No,18.8,2.4,6.7,2,No,Yes,
-siakapa01,Pascal Siakam,PF,31,IND,IND,48924624,26890016,-22034608,Big overpay,5.67,2.17,6.9,7.5,2.6,2.18,3,7262,No,24.0,6.6,3.8,2,No,Yes,
-greenja05,Jalen Green,SG,23,PHO,PHO,36251166,13896276,-22354890,Big overpay,2.83,0.97,3.1,5.1,0.3,1.97,3,6126,No,17.8,3.6,2.8,2,No,Yes,
-bookede01,Devin Booker,SG,29,PHO,PHO,57078728,34667959,-22410769,Big overpay,7.37,2.37,9.2,6.4,6.5,1.3,3,7388,No,26.1,3.9,6.0,4,No,Yes,
-foxde01,De'Aaron Fox,PG,28,SAS,SAS,49800000,27164532,-22635468,Big overpay,5.73,2.3,6.5,4.3,6.4,1.01,3,7131,No,18.6,3.8,6.2,4,No,Yes,
-murrade01,Dejounte Murray,PG,29,NOP,NOP,32785071,9641283,-23143788,Big overpay,1.9,1.0,4.9,0.2,0.6,2.13,3,4184,No,16.7,5.4,6.4,2,No,Yes,
-ingrabr01,Brandon Ingram,SF,28,TOR,LAC,40000000,15726380,-24273620,Big overpay,3.23,1.23,5.1,0.0,4.6,2.3,3,5302,No,21.5,5.6,3.7,2,No,Yes,
-tatumja01,Jayson Tatum,PF,27,BOS,BOS,58456566,33752907,-24703659,Big overpay,7.17,3.47,10.4,9.5,1.6,3.95,3,5791,No,21.8,10.0,5.3,4,No,Yes,
-cunnica01,Cade Cunningham,PG,24,DET,DET,50105628,24739644,-25365984,Big overpay,5.2,3.17,1.8,5.9,7.9,2.54,3,6698,No,23.9,5.5,9.9,4,No,Yes,
-ballla01,LaMelo Ball,PG,24,CHO,MIN,40770520,15131596,-25638924,Big overpay,3.1,2.13,1.1,2.0,6.2,2.22,3,4233,No,20.1,4.8,7.1,3,No,Yes,
-markkla01,Lauri Markkanen,PF,28,UTA,UTA,46113154,19112073,-27001081,Big overpay,3.97,1.63,6.2,2.2,3.5,1.67,3,4739,No,26.7,6.9,2.1,3,No,Yes,
-davisan02,Anthony Davis,PF,32,DAL,WAS,58456566,31145009,-27311557,Big overpay,6.6,2.93,11.8,6.7,1.3,4.29,3,5032,No,20.4,11.1,2.8,2,No,Yes,
-brownja02,Jaylen Brown,SF,29,BOS,PHI,57078728,28399852,-28678876,Big overpay,6.0,2.0,5.9,5.2,6.9,0.7,3,6944,No,28.7,6.9,5.1,3,No,Yes,
-poolejo01,Jordan Poole,PG,26,NOP,NOP,34044642,3373176,-30671466,Big overpay,0.53,-0.13,-0.6,2.0,0.2,1.09,3,5280,No,13.4,2.0,3.1,1,No,Yes,
-youngtr01,Trae Young,PG,27,2TM,WAS,49488300,18791805,-30696495,Big overpay,3.9,1.47,4.6,5.7,1.4,1.82,3,5065,No,17.9,2.0,8.0,4,No,Yes,
-jacksja02,Jaren Jackson Jr.,C,26,2TM,UTA,49000000,17419227,-31580773,Big overpay,3.6,1.4,3.0,6.4,1.4,2.08,3,5785,No,19.4,5.7,2.0,4,No,Yes,
-curryst01,Stephen Curry,PG,37,GSW,GSW,62587158,30229956,-32357202,Big overpay,6.4,3.9,7.2,7.9,4.1,1.65,3,6002,No,26.6,3.6,4.7,3,No,Yes,
-moranja01,Ja Morant,PG,26,MEM,POR,42166510,7948437,-34218073,Big overpay,1.53,0.73,0.8,3.5,0.3,1.41,3,2406,No,19.5,3.3,8.1,2,No,Yes,
-lavinza01,Zach LaVine,SG,30,SAC,SAC,48967380,12981224,-35986156,Big overpay,2.63,0.83,1.5,5.1,1.3,1.75,3,4698,No,19.2,2.8,2.3,1,No,Yes,
-georgpa01,Paul George,PF,35,PHI,BOS,54126380,17419227,-36707153,Big overpay,3.6,1.63,7.3,1.0,2.5,2.69,3,4971,No,17.3,5.3,3.6,2,No,Yes,
-embiijo01,Joel Embiid,C,31,PHI,PHI,58100000,20759167,-37340833,Big overpay,4.33,2.47,7.5,1.4,4.1,2.5,3,3084,No,26.9,7.7,3.9,3,No,Yes,
-wembavi01,Victor Wembanyama,C,22,SAS,SAS,16868246,,,Not rated,5.83,4.37,3.7,3.8,10.0,2.95,3,5499,No,25.0,11.5,3.1,6,Yes (2023 #1),No,Rookie-scale contract
-millebr02,Brandon Miller,SF,23,CHO,CHO,15104626,,,Not rated,1.9,0.63,0.8,0.4,4.5,1.85,3,5275,No,20.2,4.9,3.3,1,Yes (2023 #2),No,Rookie-scale contract
-flaggco01,Cooper Flagg,SF,19,DAL,DAL,14517480,,,Not rated,3.8,2.0,,,3.8,,1,2344,No,21.0,6.7,4.5,3,Yes (2025 #1),No,Rookie-scale contract
-williro04,Robert Williams,C,28,POR,POR,13968254,,,Not rated,2.07,0.73,0.4,1.3,4.5,1.76,3,1478,No,6.7,7.0,1.0,3,No,No,"Under 1,500 minutes"
-risacza01,Zaccharie Risacher,SF,20,ATL,DAL,13826040,,,Not rated,2.05,-0.45,,1.8,2.3,0.25,2,3346,No,9.6,3.8,1.1,2,Yes (2024 #1),No,Rookie-scale contract
-hendesc01,Scoot Henderson,PG,21,POR,POR,13585523,,,Not rated,0.37,-0.6,-1.7,1.8,1.0,1.5,3,4272,No,14.2,2.7,3.7,1,Yes (2023 #3),No,Rookie-scale contract
-harpedy01,Dylan Harper,SG,19,SAS,SAS,12989040,,,Not rated,4.2,1.3,,,4.2,,1,1558,No,11.8,3.4,3.9,3,Yes (2025 #2),No,Rookie-scale contract
-sarral01,Alex Sarr,C,20,WAS,WAS,12370680,,,Not rated,0.65,0.15,,-0.3,1.6,0.95,2,3119,No,16.3,7.4,2.7,2,Yes (2024 #2),No,Rookie-scale contract
-thompam01,Amen Thompson,PG,23,HOU,HOU,12258609,,,Not rated,7.53,2.7,4.3,8.0,10.3,2.47,3,6566,No,18.3,7.8,5.3,6,Yes (2023 #4),No,Rookie-scale contract
-edgecvj01,VJ Edgecombe,SG,20,PHI,PHI,11663880,,,Not rated,4.4,1.0,,,4.4,,1,2623,No,16.0,5.6,4.2,3,Yes (2025 #3),No,Rookie-scale contract
-thompau01,Ausar Thompson,SF,23,DET,DET,11117925,,,Not rated,3.77,1.17,1.8,3.8,5.7,1.59,3,4807,No,9.9,5.7,3.1,6,Yes (2023 #5),No,Rookie-scale contract
-sheppre01,Reed Sheppard,SG,21,HOU,HOU,11108880,,,Not rated,3.35,1.3,,0.8,5.9,2.55,2,2801,No,13.5,2.9,3.4,2,Yes (2024 #3),No,Rookie-scale contract
-knuepko01,Kon Knueppel,SF,20,CHO,CHO,10516560,,,Not rated,8.0,3.1,,,8.0,,1,2551,No,18.5,5.3,3.4,3,Yes (2025 #4),No,Rookie-scale contract
-blackan01,Anthony Black,PG,22,ORL,ORL,10106316,,,Not rated,2.2,0.13,1.6,2.4,2.6,0.43,3,4961,No,15.0,3.8,3.7,1,Yes (2023 #6),No,Rookie-scale contract
-castlst01,Stephon Castle,PG,21,SAS,SAS,10015920,,,Not rated,3.45,0.7,,1.1,5.8,2.35,2,4200,No,16.7,5.3,7.4,2,Yes (2024 #4),No,Rookie-scale contract
-baileac01,Ace Bailey,SF,19,UTA,UTA,9523080,,,Not rated,-0.1,-1.2,,,-0.1,,1,1988,No,13.8,4.2,1.8,3,Yes (2025 #5),No,Rookie-scale contract
-coulibi01,Bilal Coulibaly,SG,21,WAS,WAS,9240012,,,Not rated,0.57,-0.6,0.4,0.3,1.0,0.31,3,5131,No,11.7,4.3,2.6,1,Yes (2023 #7),No,Rookie-scale contract
-hollaro01,Ron Holland,SF,20,DET,DET,9069600,,,Not rated,2.3,-0.15,,1.8,2.8,0.5,2,2817,No,8.2,4.0,1.2,2,Yes (2024 #5),No,Rookie-scale contract
-johnstr03,Tre Johnson,SG,19,WAS,WAS,8649600,,,Not rated,-0.7,-1.1,,,-0.7,,1,1443,No,12.2,2.8,2.0,3,Yes (2025 #6),No,Rookie-scale contract
-walkeja02,Jarace Walker,PF,22,IND,IND,8478542,,,Not rated,0.83,0.1,0.4,1.6,0.5,0.54,3,3480,No,11.6,5.1,2.5,1,Yes (2023 #8),No,Rookie-scale contract
-salauti01,Tidjane Salaün,PF,20,CHO,CHO,8237880,,,Not rated,0.7,-0.4,,0.0,1.4,0.7,2,1819,No,6.0,4.0,0.7,2,Yes (2024 #6),No,Rookie-scale contract
-fearsje01,Jeremiah Fears,PG,19,NOP,NOP,7896240,,,Not rated,0.6,-0.4,,,0.6,,1,2112,No,14.3,3.7,3.4,3,Yes (2025 #7),No,Rookie-scale contract
-hendrta01,Taylor Hendricks,PF,22,2TM,MEM,7805900,,,Not rated,0.77,0.0,1.2,0.0,1.1,0.54,3,2049,No,7.4,3.7,0.9,1,Yes (2023 #9),No,Rookie-scale contract
-clingdo01,Donovan Clingan,C,21,POR,POR,7519920,,,Not rated,6.3,1.6,,4.0,8.6,2.3,2,3418,No,12.1,11.6,2.1,2,Yes (2024 #7),No,Rookie-scale contract
-wallaca01,Cason Wallace,SG,22,OKC,OKC,7420806,,,Not rated,4.8,1.37,4.0,5.2,5.2,0.57,3,5614,No,8.6,3.1,2.6,1,Yes (2023 #10),No,Rookie-scale contract
-livelde01,Dereck Lively II,C,21,DAL,DAL,7239131,,,Not rated,2.87,0.67,4.9,3.4,0.3,1.92,3,2242,No,4.3,5.3,1.9,1,Yes (2023 #12),No,Rookie-scale contract
-demineg01,Egor Dëmin,PG,19,BRK,BRK,7233720,,,Not rated,0.9,0.1,,,0.9,,1,1308,No,10.3,3.2,3.3,3,Yes (2025 #8),No,Rookie-scale contract
-dickgr01,Gradey Dick,SG,22,TOR,LAC,7131511,,,Not rated,1.03,-0.67,0.3,1.4,1.4,0.52,3,3922,No,6.0,1.9,0.7,1,Yes (2023 #13),No,Rookie-scale contract
-hawkijo01,Jordan Hawkins,SG,23,NOP,MEM,7021895,,,Not rated,0.13,-0.73,1.3,-0.5,-0.4,0.83,3,3173,No,5.1,1.7,0.8,1,Yes (2023 #14),No,Rookie-scale contract
-dilliro01,Rob Dillingham,PG,21,2TM,CHO,6889320,,,Not rated,-0.5,-0.8,,0.1,-1.1,0.6,2,1486,No,6.3,2.0,2.2,1,Yes (2024 #8),No,Rookie-scale contract
-murraco01,Collin Murray-Boyles,PF,20,TOR,TOR,6649560,,,Not rated,4.0,1.0,,,4.0,,1,1246,No,8.5,5.0,1.9,3,Yes (2025 #9),No,Rookie-scale contract
-georgke01,Keyonte George,PG,22,UTA,UTA,6563925,,,Not rated,1.37,-0.07,-0.3,1.1,3.3,1.48,3,5918,No,23.6,3.7,6.1,6,Yes (2023 #16),No,Rookie-scale contract
-edeyza01,Zach Edey,C,23,MEM,MEM,6332760,,,Not rated,2.85,0.45,,4.9,0.8,2.05,2,1700,No,13.6,11.1,1.1,2,Yes (2024 #9),No,Rookie-scale contract
-maluakh01,Khaman Maluach,C,19,PHO,PHO,6316680,,,Not rated,0.8,-0.2,,,0.8,,1,411,No,3.0,2.9,0.1,3,Yes (2025 #10),No,Rookie-scale contract
-willico04,Cody Williams,SG,21,UTA,MIN,6015600,,,Not rated,-0.55,-1.45,,-1.2,0.1,0.65,2,2691,No,8.8,3.0,2.0,2,Yes (2024 #10),No,Rookie-scale contract
-cowarce01,Cedric Coward,SG,22,MEM,MEM,6001080,,,Not rated,2.5,0.7,,,2.5,,1,1598,No,13.6,5.9,2.8,3,Yes (2025 #11),No,Rookie-scale contract
-jaqueja01,Jaime Jaquez Jr.,SF,24,MIA,MIL,5939141,,,Not rated,3.5,0.53,4.0,2.3,4.2,0.85,3,5602,No,15.4,5.0,4.7,1,Yes (2023 #18),No,Rookie-scale contract
-buzelma01,Matas Buzelis,PF,21,CHI,CHI,5715360,,,Not rated,2.25,0.15,,1.9,2.6,0.35,2,3759,No,16.3,5.8,2.1,2,Yes (2024 #11),No,Rookie-scale contract
-essenno01,Noa Essengue,PF,19,CHI,CHI,5701200,,,Not rated,-0.1,0.0,,,-0.1,,1,6,No,0.0,0.0,0.0,3,Yes (2025 #12),No,Rookie-scale contract
-podzibr01,Brandin Podziemski,SG,22,GSW,GSW,5679459,,,Not rated,4.47,1.13,4.1,4.2,5.1,0.45,3,6017,No,13.8,5.1,3.7,6,Yes (2023 #19),No,Rookie-scale contract
-topicni01,Nikola Topić,PG,20,OKC,OKC,5429760,,,Not rated,0.0,-0.3,,,0.0,,1,160,No,5.2,1.9,4.4,2,Yes (2024 #12),No,Rookie-scale contract
-queende01,Derik Queen,C,21,NOP,NOP,5416080,,,Not rated,2.7,0.6,,,2.7,,1,2023,No,11.7,7.1,3.7,3,Yes (2025 #13),No,Rookie-scale contract
-clownno01,Noah Clowney,PF,21,BRK,BRK,5414034,,,Not rated,0.83,-0.33,0.9,0.5,1.1,0.25,3,3192,No,12.3,4.1,1.6,1,Yes (2023 #21),No,Rookie-scale contract
-murrakr01,Kris Murray,SF,25,POR,MEM,5315004,,,Not rated,1.2,-0.23,0.7,0.7,2.2,0.71,3,3721,No,5.8,3.6,1.4,1,Yes (2023 #23),No,Rookie-scale contract
-sassema01,Marcus Sasser,PG,25,DET,DAL,5198983,,,Not rated,1.17,0.03,0.9,1.8,0.8,0.45,3,2619,No,5.2,1.0,2.0,1,Yes (2023 #25),No,Rookie-scale contract
-cartede02,Devin Carter,PG,23,SAC,ATL,7607501,,,Not rated,0.3,-0.1,,0.4,0.2,0.1,2,1096,No,8.9,3.3,2.7,1,Yes (2024 #13),No,Rookie-scale contract
-bryanca01,Carter Bryant,PF,20,SAS,SAS,5145360,,,Not rated,1.3,-0.2,,,1.3,,1,818,No,4.2,2.5,0.7,3,Yes (2025 #14),No,Rookie-scale contract
-sheppbe01,Ben Sheppard,SG,24,IND,IND,5031669,,,Not rated,1.43,-0.23,0.8,2.1,1.4,0.53,3,3433,No,7.1,3.0,1.8,1,Yes (2023 #26),No,Rookie-scale contract
-carrica01,Bub Carrington,PG,20,WAS,WAS,4900560,,,Not rated,-0.1,-1.6,,0.2,-0.4,0.3,2,4729,No,10.7,3.4,4.6,2,Yes (2024 #14),No,Rookie-scale contract
-sensabr01,Brice Sensabaugh,SF,22,UTA,UTA,4862237,,,Not rated,0.67,-0.17,-0.3,1.2,1.1,0.68,3,3778,No,14.9,3.1,1.9,1,Yes (2023 #28),No,Rookie-scale contract
-strawju01,Julian Strawther,SG,23,DEN,DEN,4826931,,,Not rated,0.93,-0.53,0.2,1.3,1.3,0.52,3,2790,No,7.2,2.0,1.1,1,Yes (2023 #29),No,Rookie-scale contract
-wareke01,Kel'el Ware,C,21,MIA,MIL,4654920,,,Not rated,5.15,1.25,,4.1,6.2,1.05,2,3126,No,11.1,9.0,0.7,2,Yes (2024 #15),No,Rookie-scale contract
-yangha01,Yang Hansen,C,20,POR,POR,4643520,,,Not rated,-0.5,-0.6,,,-0.5,,1,300,No,2.2,1.5,0.5,3,Yes (2025 #16),No,Rookie-scale contract
-minotjo01,Josh Minott,PF,23,2TM,BRK,4500000,,,Not rated,1.23,0.5,0.4,0.9,2.4,0.85,3,1201,No,7.4,3.2,0.9,2,No,No,"Under 1,500 minutes"
-mccaija01,Jared McCain,SG,21,2TM,OKC,4422600,,,Not rated,1.1,0.1,,0.7,1.5,0.4,2,1752,No,8.3,2.0,1.3,2,Yes (2024 #16),No,Rookie-scale contract
-berinjo01,Joan Beringer,PF,19,MIN,MIN,4411200,,,Not rated,1.5,0.2,,,1.5,,1,314,No,3.9,2.3,0.3,3,Yes (2025 #17),No,Rookie-scale contract
-knechda01,Dalton Knecht,SF,24,LAL,LAL,4201080,,,Not rated,1.55,-0.05,,2.7,0.4,1.15,2,2047,No,4.2,1.4,0.4,2,Yes (2024 #17),No,Rookie-scale contract
-claytwa01,Walter Clayton,PG,22,2TM,MEM,4190520,,,Not rated,0.3,-0.8,,,0.3,,1,1410,No,7.8,2.0,4.0,3,Yes (2025 #18),No,Rookie-scale contract
-traorno01,Nolan Traoré,PG,19,BRK,BRK,4002000,,,Not rated,-1.6,-1.5,,,-1.6,,1,1243,No,8.9,1.8,3.8,3,Yes (2025 #19),No,Rookie-scale contract
-jenkida01,Daniss Jenkins,PG,24,DET,DET,4000000,,,Not rated,1.4,0.2,,-0.1,2.9,1.5,2,1478,No,9.3,2.3,3.9,1,No,No,"Under 1,500 minutes"
-dasiltr01,Tristan Da Silva,SF,24,ORL,ORL,3991200,,,Not rated,2.9,0.2,,2.5,3.3,0.4,2,3528,No,9.9,3.7,1.6,2,Yes (2024 #18),No,Rookie-scale contract
-jordade01,DeAndre Jordan,C,37,NOP,NOP,3876529,,,Not rated,1.2,0.1,1.2,1.8,0.6,0.49,3,1286,No,4.4,6.3,0.9,2,No,No,"Under 1,500 minutes"
-jakucka01,Kasparas Jakučionis,PG,19,MIA,MIL,3841680,,,Not rated,2.3,0.4,,,2.3,,1,945,No,6.2,2.6,2.6,3,Yes (2025 #20),No,Rookie-scale contract
-walteja01,Ja'Kobe Walter,SG,21,TOR,TOR,3811800,,,Not rated,2.45,0.15,,1.2,3.7,1.25,2,2577,No,7.5,2.6,1.2,2,Yes (2024 #19),No,Rookie-scale contract
-rileywi01,Will Riley,SF,19,WAS,WAS,3688320,,,Not rated,0.4,-1.0,,,0.4,,1,1633,No,10.3,2.9,2.0,3,Yes (2025 #21),No,Rookie-scale contract
-tysonja01,Jaylon Tyson,SG,23,CLE,CLE,3658560,,,Not rated,2.4,0.4,,0.8,4.0,1.6,2,2230,No,13.2,5.1,2.2,2,Yes (2024 #20),No,Rookie-scale contract
-poweldr01,Drake Powell,SG,20,BRK,BRK,3540600,,,Not rated,-0.1,-1.3,,,-0.1,,1,1320,No,6.5,1.8,1.4,3,Yes (2025 #22),No,Rookie-scale contract
-missiyv01,Yves Missi,C,21,NOP,NOP,3512760,,,Not rated,3.15,-0.2,,3.6,2.7,0.45,2,3253,No,5.7,5.8,1.3,2,Yes (2024 #21),No,Rookie-scale contract
-hukpoar01,Ariel Hukporti,C,23,NYK,PHI,3400000,,,Not rated,0.65,-0.1,,0.1,1.2,0.55,2,715,No,2.2,2.9,0.5,1,No,No,"Under 1,500 minutes"
-newelas01,Asa Newell,PF,20,ATL,ATL,3399480,,,Not rated,1.2,0.1,,,1.2,,1,500,No,5.2,2.2,0.6,3,Yes (2025 #23),No,Rookie-scale contract
-holmeda01,DaRon Holmes,PF,23,DEN,DEN,3372120,,,Not rated,0.4,0.1,,,0.4,,1,210,No,3.7,1.4,0.6,2,Yes (2024 #22),No,Rookie-scale contract
-bambamo01,Mo Bamba,C,27,2TM,UTA,3286399,,,Not rated,1.03,0.07,2.0,1.0,0.1,0.78,3,1197,No,2.5,5.5,0.3,2,No,No,"Under 1,500 minutes"
-cliffni01,Nique Clifford,SG,23,SAC,SAC,3263400,,,Not rated,-0.6,-1.4,,,-0.6,,1,1882,No,8.6,3.8,2.4,3,Yes (2025 #24),No,Rookie-scale contract
-johnsaj01,AJ Johnson,SG,21,2TM,NOP,3237120,,,Not rated,-0.65,-0.9,,-0.4,-0.9,0.25,2,1093,No,3.3,1.1,1.0,2,Yes (2024 #23),No,Rookie-scale contract
-harpero02,Ron Harper Jr.,SF,25,BOS,BOS,3150752,,,Not rated,0.27,0.1,0.0,0.0,0.8,0.38,3,339,No,4.2,1.7,0.8,4,No,No,"Under 1,500 minutes"
-richaja02,Jase Richardson,SG,20,ORL,ORL,3132360,,,Not rated,1.0,-0.1,,,1.0,,1,587,No,4.4,1.2,1.1,3,Yes (2025 #25),No,Rookie-scale contract
-georgky01,Kyshawn George,SF,22,WAS,WAS,3108000,,,Not rated,0.35,-0.3,,0.1,0.6,0.25,2,3193,No,14.8,5.1,4.5,2,Yes (2024 #24),No,Rookie-scale contract
-littlna01,Nassir Little,SF,25,PHO,PHO,3107143,,,Not rated,0.7,-0.1,0.7,,,,1,458,Yes,,,,3,No,No,"Under 1,500 minutes"
-clarkja02,Jaylen Clark,SG,24,MIN,MIN,3086420,,,Not rated,1.65,0.05,,1.6,1.7,0.05,2,1410,No,4.0,1.8,0.6,3,No,No,"Under 1,500 minutes"
-sarafbe01,Ben Saraf,SG,19,BRK,BRK,3028560,,,Not rated,-1.1,-1.2,,,-1.1,,1,916,No,7.5,2.1,3.3,3,Yes (2025 #26),No,Rookie-scale contract
-dadiepa01,Pacôme Dadiet,SG,20,NYK,NYK,2983680,,,Not rated,0.1,-0.05,,0.0,0.2,0.1,2,247,No,1.7,0.9,0.4,2,Yes (2024 #25),No,Rookie-scale contract
-wolfda01,Danny Wolf,PF,21,BRK,BRK,2941440,,,Not rated,0.8,-0.2,,,0.8,,1,1187,No,8.9,4.9,2.2,3,Yes (2025 #27),No,Rookie-scale contract
-gonzahu01,Hugo González,SF,19,BOS,BOS,2923560,,,Not rated,2.2,0.1,,,2.2,,1,1084,No,3.9,3.3,0.5,3,Yes (2025 #28),No,Rookie-scale contract
-mcneeli01,Liam McNeeley,SF,20,CHO,CHO,2902080,,,Not rated,0.9,0.1,,,0.9,,1,368,No,4.3,2.4,0.8,3,Yes (2025 #29),No,Rookie-scale contract
-konanya01,Yanic Konan Niederhäuser,C,22,LAC,LAC,2880960,,,Not rated,1.3,0.0,,,1.3,,1,424,No,4.3,2.9,0.3,3,Yes (2025 #30),No,Rookie-scale contract
-shannte01,Terrence Shannon Jr.,SG,25,MIN,MIN,2801640,,,Not rated,0.8,-0.1,,0.6,1.0,0.2,2,877,No,5.6,1.1,0.9,2,Yes (2024 #27),No,Rookie-scale contract
-garzalu01,Luka Garza,C,27,BOS,BOS,2801346,,,Not rated,2.13,0.4,0.4,0.7,5.3,2.24,3,1459,No,8.1,4.1,1.0,1,No,No,"Under 1,500 minutes"
-dunnry01,Ryan Dunn,SF,23,PHO,PHO,2784240,,,Not rated,1.8,-0.15,,1.0,2.6,0.8,2,2765,No,5.8,4.2,1.5,2,Yes (2024 #28),No,Rookie-scale contract
-colliis01,Isaiah Collier,PG,21,UTA,UTA,2763960,,,Not rated,0.45,-0.9,,-0.8,1.7,1.25,2,3356,No,11.7,2.5,7.2,2,Yes (2024 #29),No,Rookie-scale contract
-scheiba01,Baylor Scheierman,SG,25,BOS,BOS,2744040,,,Not rated,2.25,0.45,,0.7,3.8,1.55,2,1813,No,5.5,3.5,1.5,2,Yes (2024 #30),No,Rookie-scale contract
-davisjd01,JD Davison,PG,23,HOU,ORL,2625627,,,Not rated,0.17,0.0,0.2,-0.2,0.5,0.29,3,350,No,2.5,1.2,1.3,1,No,No,"Under 1,500 minutes"
-sandeko01,Kobe Sanders,SG,23,LAC,LAC,2622139,,,Not rated,1.4,-0.3,,,1.4,,1,1351,No,7.3,2.3,1.6,4,No,No,"Under 1,500 minutes"
-bouyeja01,Jamaree Bouyea,PG,26,PHO,PHO,2584539,,,Not rated,0.27,0.03,-0.3,0.0,1.1,0.6,3,801,No,5.7,1.8,1.8,1,No,No,"Under 1,500 minutes"
-cainja01,Jamal Cain,SF,26,ORL,ORL,2584539,,,Not rated,0.7,-0.03,0.5,0.4,1.2,0.36,3,1247,No,5.4,2.0,0.7,1,No,No,"Under 1,500 minutes"
-nancepe01,Pete Nance,PF,25,MIL,MIL,2537526,,,Not rated,0.4,-0.1,-0.1,0.2,1.1,0.51,3,902,No,5.4,2.7,1.0,2,No,No,"Under 1,500 minutes"
-tshieos01,Oscar Tshiebwe,C,26,UTA,HOU,2537526,,,Not rated,0.83,0.0,0.2,1.0,1.3,0.46,3,745,No,7.8,6.6,1.2,1,No,No,"Under 1,500 minutes"
-prospol01,Olivier-Maxence Prosper,PF,23,MEM,MEM,3500172,,,Not rated,1.27,0.13,0.5,0.9,2.4,0.82,3,1904,No,10.0,3.5,1.0,2,Yes (2023 #24),No,Rookie-scale contract
-plowdda01,Daeqwon Plowden,SG,27,SAC,SAC,2449421,,,Not rated,0.5,-0.25,,0.2,0.8,0.3,2,916,No,10.8,3.0,1.3,2,No,No,"Under 1,500 minutes"
-crawfis01,Isaiah Crawford,SF,24,HOU,HOU,2449421,,,Not rated,0.05,0.0,,0.0,0.1,0.05,2,138,No,2.0,1.1,0.4,2,No,No,"Under 1,500 minutes"
-ingraha01,Harrison Ingram,SF,23,SAS,UTA,2449421,,,Not rated,0.1,0.0,,0.1,0.1,0.0,2,61,No,1.6,0.4,0.1,1,No,No,"Under 1,500 minutes"
-mclaujo01,Jordan McLaughlin,PG,29,SAS,SAS,2449421,,,Not rated,1.23,0.4,2.5,0.6,0.6,0.9,3,1222,No,2.0,0.7,0.9,1,No,No,"Under 1,500 minutes"
-carlsbr01,Branden Carlson,C,26,OKC,POR,2449421,,,Not rated,1.3,0.3,,0.9,1.7,0.4,2,734,No,5.8,3.0,0.7,1,No,No,"Under 1,500 minutes"
-bufkiko01,Kobe Bufkin,SG,22,LAL,NOP,2449421,,,Not rated,-0.07,-0.13,-0.1,0.0,-0.1,0.05,3,439,No,2.9,0.8,0.6,1,Yes (2023 #15),No,Rookie-scale contract
-bassech01,Charles Bassey,C,25,4TM,GSW,2449421,,,Not rated,0.83,0.17,0.7,1.1,0.7,0.19,3,734,No,5.8,4.4,0.5,1,No,No,"Under 1,500 minutes"
-simmobe01,Ben Simmons,PG,29,2TM,SAC,2449421,,,Not rated,1.4,0.4,1.0,1.8,,0.4,2,1479,Yes,,,,1,No,No,"Under 1,500 minutes"
-jonesdi01,Dillon Jones,SF,24,NYK,PHI,2449421,,,Not rated,0.45,-0.15,,0.8,0.1,0.35,2,591,No,1.3,1.0,0.6,1,Yes (2024 #26),No,Rookie-scale contract
-wisemja01,James Wiseman,C,24,IND,NYK,2449421,,,Not rated,0.7,-0.17,2.1,0.0,0.0,0.99,3,1154,No,3.3,2.0,0.8,1,No,No,"Under 1,500 minutes"
-smithto05,Tolu Smith,PF,25,DET,DET,2411090,,,Not rated,0.3,0.05,,0.1,0.5,0.2,2,159,No,3.7,3.3,0.9,1,No,No,"Under 1,500 minutes"
-tomlina01,Nae'Qwan Tomlin,PF,25,CLE,CLE,2411090,,,Not rated,1.15,-0.05,,0.1,2.2,1.05,2,1067,No,5.8,2.9,0.8,1,No,No,"Under 1,500 minutes"
-kalkbry01,Ryan Kalkbrenner,C,24,CHO,CHO,2411090,,,Not rated,5.7,1.4,,,5.7,,1,1479,No,7.6,5.5,0.8,3,No,No,"Under 1,500 minutes"
-millele01,Leonard Miller,SF,22,2TM,CHI,2406205,,,Not rated,0.67,0.1,0.3,0.1,1.6,0.66,3,803,No,7.8,3.9,0.9,1,No,No,"Under 1,500 minutes"
-kolekty01,Tyler Kolek,PG,24,NYK,NYK,2296271,,,Not rated,0.9,0.1,,0.4,1.4,0.5,2,1023,No,4.4,1.6,2.7,2,No,No,"Under 1,500 minutes"
-furphjo01,Johnny Furphy,SG,21,IND,IND,2296271,,,Not rated,0.5,-0.15,,0.5,0.5,0.0,2,1022,No,5.1,4.4,1.2,2,No,No,"Under 1,500 minutes"
-jamesbr02,Bronny James,SG,21,LAL,LAL,2296271,,,Not rated,-0.05,-0.2,,-0.2,0.1,0.15,2,556,No,2.9,0.5,1.2,2,No,No,"Under 1,500 minutes"
-diawamo01,Mohamed Diawara,SF,20,NYK,NYK,2232143,,,Not rated,0.9,0.0,,,0.9,,1,634,No,3.6,1.4,0.8,4,No,No,"Under 1,500 minutes"
-mcgeeja01,JaVale McGee,C,38,SAC,DAL,2208856,,,Not rated,0.7,0.1,0.7,,,,1,339,Yes,,,,2,No,No,"Under 1,500 minutes"
-martial01,Alijah Martin,SG,24,TOR,TOR,2185116,,,Not rated,0.0,-0.1,,,0.0,,1,146,No,2.2,0.9,0.5,2,No,No,"Under 1,500 minutes"
-cissemo01,Moussa Cisse,C,23,DAL,DAL,2185116,,,Not rated,1.3,-0.1,,,1.3,,1,530,No,4.5,5.7,0.2,2,No,No,"Under 1,500 minutes"
-mbengbe01,Bez Mbeng,SG,22,UTA,MIA,2185116,,,Not rated,0.5,-0.4,,,0.5,,1,492,No,8.1,3.8,4.1,1,No,No,"Under 1,500 minutes"
-flemira01,Rasheer Fleming,PF,21,PHO,PHO,2150917,,,Not rated,0.8,-0.3,,,0.8,,1,673,No,4.3,2.3,0.3,3,No,No,"Under 1,500 minutes"
-pendano01,Noah Penda,SF,21,ORL,ORL,2150917,,,Not rated,1.1,0.1,,,1.1,,1,757,No,3.8,3.2,1.2,3,No,No,"Under 1,500 minutes"
-peavymi01,Micah Peavy,SG,24,NOP,MEM,2150917,,,Not rated,0.4,-0.7,,,0.4,,1,913,No,4.3,1.9,1.0,3,No,No,"Under 1,500 minutes"
-thierad01,Adou Thiero,SF,21,LAL,LAL,2150917,,,Not rated,0.2,-0.1,,,0.2,,1,149,No,1.9,1.1,0.4,2,No,No,"Under 1,500 minutes"
-broomjo01,Johni Broome,C,23,PHI,LAC,2150917,,,Not rated,-0.2,-0.2,,,-0.2,,1,55,No,0.9,1.5,0.4,1,No,No,"Under 1,500 minutes"
-richawi02,Will Richard,SG,23,GSW,GSW,2150917,,,Not rated,2.5,0.1,,,2.5,,1,1377,No,6.4,2.5,1.3,3,No,No,"Under 1,500 minutes"
-laniech01,Chaz Lanier,SG,24,DET,DET,2150917,,,Not rated,0.3,-0.2,,,0.3,,1,262,No,2.4,0.7,0.5,3,No,No,"Under 1,500 minutes"
-proctty01,Tyrese Proctor,PG,21,CLE,CLE,2150917,,,Not rated,0.7,-0.1,,,0.7,,1,545,No,5.4,1.3,1.5,3,No,No,"Under 1,500 minutes"
-nembhry01,Ryan Nembhard,PG,22,DAL,CHO,2150917,,,Not rated,0.8,-0.6,,,0.8,,1,1171,No,6.6,2.2,5.3,1,No,No,"Under 1,500 minutes"
-gardnmy01,Myron Gardner,SF,24,MIA,MIA,2150917,,,Not rated,1.4,0.3,,,1.4,,1,411,No,3.6,2.7,1.0,2,No,No,"Under 1,500 minutes"
-whitmca01,Cam Whitmore,SF,21,WAS,CLE,1819437,,,Not rated,1.1,0.3,1.5,1.8,0.0,0.79,3,2061,No,9.2,2.8,0.7,3,Yes (2023 #20),No,Rookie-scale contract
-liddeej01,E.J. Liddell,PF,25,BRK,PHO,706898,,,Not rated,0.2,-0.03,0.0,0.1,0.5,0.22,3,425,No,5.7,2.7,0.9,1,No,No,"Under 1,500 minutes"
-diakima01,Mamadi Diakite,PF,29,2TM,MEM,464050,,,Not rated,0.1,0.0,0.1,,,,1,24,Yes,,,,1,No,No,"Under 1,500 minutes"
-gibsota01,Taj Gibson,C,40,MEM,NOP,148828,,,Not rated,0.3,-0.17,0.2,0.4,0.3,0.08,3,710,No,3.4,2.7,0.6,1,No,No,"Under 1,500 minutes"
+﻿player_id,player,pos,age_2025_26,age_band,latest_team,contract_team,contract_type,salary_2026_27,market_salary,surplus_value,value_tier,ws_per_season,vorp_per_season,ws_2023_24,ws_2024_25,ws_2025_26,ws_spread,seasons_played,total_minutes,missed_2025_26,ppg_2025_26,rpg_2025_26,apg_2025_26,seasons_listed,rookie_scale,eligible,exclusion_reason
+derozde01,DeMar DeRozan,PF,36,34+,SAC,DEN,Veteran minimum,2449421,34347691,31898270,Steal,7.3,1.73,9.2,7.1,5.6,1.48,3,8163,No,18.4,2.9,4.1,1,No,Yes,
+gilgesh01,Shai Gilgeous-Alexander,PG,27,25-29,OKC,OKC,Max-level,40806150,71864828,31058678,Steal,15.5,7.93,14.6,16.7,15.2,0.88,3,7410,No,31.1,4.3,6.6,5,No,Yes,
+jamesle01,LeBron James,SF,41,34+,LAL,PHI,Veteran minimum,3876529,33890165,30013636,Steal,7.2,4.3,8.5,7.7,5.4,1.31,3,6937,No,20.9,6.1,7.2,2,No,Yes,
+pritcpa01,Payton Pritchard,PG,28,25-29,BOS,BOS,Standard,7767857,36315053,28547196,Steal,7.73,2.47,6.1,8.6,8.5,1.16,3,6652,No,17.0,3.9,5.2,2,No,Yes,
+vucevni01,Nikola Vučević,C,35,34+,2TM,ORL,Veteran minimum,2449421,27027274,24577853,Steal,5.7,1.9,5.4,7.3,4.4,1.2,3,6706,No,15.1,8.4,3.3,1,No,Yes,
+conlemi01,Mike Conley,PG,38,34+,MIN,BOS,Veteran minimum,2449421,24282118,21832697,Steal,5.1,1.53,8.2,5.2,1.9,2.57,3,4940,No,4.5,1.7,2.9,1,No,Yes,
+quetane01,Neemias Queta,C,26,25-29,BOS,BOS,Standard,2667944,22314755,19646811,Steal,4.67,1.0,1.8,3.2,9.0,3.12,3,3122,No,10.2,8.4,1.7,5,No,Yes,
+kornelu01,Luke Kornet,C,30,30-33,SAS,SAS,Standard,10450000,29909688,19459688,Steal,6.33,1.7,5.1,7.0,6.9,0.87,3,3774,No,6.5,6.1,1.9,3,No,Yes,
+allenja01,Jarrett Allen,C,27,25-29,CLE,CLE,Standard,28000000,44733533,16733533,Steal,9.57,2.83,10.7,11.6,6.4,2.27,3,6257,No,15.4,8.5,1.8,3,No,Yes,
+barneha02,Harrison Barnes,PF,33,30-33,SAS,SAS,Standard,8000000,23961849,15961849,Steal,5.03,0.77,4.7,5.6,4.8,0.4,3,6597,No,9.9,2.8,1.9,1,No,Yes,
+jokicni01,Nikola Jokić,C,30,30-33,DEN,DEN,Max-level,59033114,74609985,15576871,Steal,16.1,9.87,17.0,16.4,14.9,0.88,3,7573,No,27.7,12.9,10.7,2,No,Yes,
+raynama01,Maxime Raynaud,C,22,Under 25,SAC,SAC,Standard,2150917,17419227,15268310,Steal,3.6,-0.2,,,3.6,,1,1964,No,12.5,7.5,1.4,2,No,Yes,
+zubaciv01,Ivica Zubac,C,28,25-29,2TM,IND,Standard,20342140,35583011,15240871,Steal,7.57,1.77,6.8,11.7,4.2,3.11,3,5864,No,14.1,10.6,2.2,2,No,Yes,
+diabamo01,Moussa Diabaté,C,24,Under 25,CHO,CHO,Standard,2461462,17556484,15095022,Steal,3.63,0.63,0.3,3.2,7.4,2.91,3,3204,No,7.9,8.7,1.9,1,No,Yes,
+beysa01,Saddiq Bey,SF,26,25-29,NOP,NOP,Standard,6440678,21308198,14867520,Steal,4.45,0.75,3.5,,5.4,0.95,2,4308,No,17.7,5.6,2.5,4,No,Yes,
+bitadgo01,Goga Bitadze,C,26,25-29,ORL,ORL,Standard,7608696,22131745,14523049,Steal,4.63,1.27,3.7,5.8,4.4,0.87,3,3359,No,5.9,5.0,1.3,1,No,Yes,
+lopezbr01,Brook Lopez,C,37,34+,LAC,LAC,Standard,9187500,23504323,14316823,Steal,4.93,1.37,5.9,6.6,2.3,1.88,3,6592,No,8.5,3.6,1.3,1,No,Yes,
+jonesty01,Tyus Jones,PG,29,25-29,3TM,DEN,Standard,2449421,16046648,13597227,Steal,3.3,0.77,4.5,4.4,1.0,1.63,3,5086,No,3.0,1.1,2.4,1,No,Yes,
+jonestr01,Tre Jones,PG,26,25-29,CHI,CHI,Standard,8000000,21536961,13536961,Steal,4.5,1.07,4.9,2.9,5.7,1.18,3,4795,No,14.1,3.1,5.4,2,No,Yes,
+horfoal01,Al Horford,C,39,34+,GSW,GSW,Standard,6822000,20301641,13479641,Steal,4.23,1.57,6.2,4.4,2.1,1.68,3,4368,No,8.3,4.9,2.6,2,No,Yes,
+jackstr02,Trayce Jackson-Davis,C,25,25-29,2TM,TOR,Standard,2406205,15589122,13182917,Steal,3.2,0.8,4.8,3.4,1.4,1.4,3,2593,No,3.4,2.7,0.7,1,No,Yes,
+ighodos01,Oso Ighodaro,PF,23,Under 25,PHO,PHO,Standard,2296271,15360359,13064088,Steal,3.15,0.35,,1.6,4.7,1.55,2,2853,No,6.5,5.1,2.3,2,No,Yes,
+drumman01,Andre Drummond,C,32,30-33,PHI,NYK,Veteran minimum,2449421,15451865,13002444,Steal,3.17,0.3,4.9,1.2,3.4,1.52,3,3333,No,6.4,8.4,1.3,1,No,Yes,
+capelca01,Clint Capela,C,31,30-33,HOU,HOU,Standard,7035000,20027125,12992125,Steal,4.17,0.63,6.3,3.2,3.0,1.51,3,3985,No,3.8,4.6,0.7,2,No,Yes,
+jamessi01,Sion James,SG,23,Under 25,CHO,CHO,Standard,2411090,15131596,12720506,Steal,3.1,0.0,,,3.1,,1,1843,No,5.4,3.5,2.0,3,No,Yes,
+anderky01,Kyle Anderson,SF,32,30-33,3TM,TOR,Veteran minimum,2449421,14994338,12544917,Steal,3.07,0.93,4.5,2.8,1.9,1.08,3,3637,No,6.2,3.5,2.9,1,No,Yes,
+aytonde01,Deandre Ayton,C,27,25-29,LAL,WAS,Standard,8104000,20621909,12517909,Steal,4.3,0.67,3.9,2.8,6.2,1.42,3,4948,No,12.5,8.0,0.8,1,No,Yes,
+mitchaj01,Ajay Mitchell,SG,23,Under 25,OKC,OKC,Standard,2850000,15360359,12510359,Steal,3.15,0.75,,1.5,4.8,1.65,2,2070,No,13.6,3.3,3.6,2,No,Yes,
+spencca01,Cam Spencer,SG,25,25-29,MEM,MEM,Standard,2411090,14902833,12491743,Steal,3.05,1.0,,0.8,5.3,2.25,2,1966,No,11.1,2.5,5.6,3,No,Yes,
+reedpa01,Paul Reed,C,26,25-29,DET,DET,Standard,5602689,18014010,12411321,Steal,3.73,1.0,5.1,1.6,4.5,1.53,3,2929,No,7.8,4.5,1.2,1,No,Yes,
+divindo01,Donte DiVincenzo,SG,29,25-29,MIN,MIN,Standard,12535000,24876901,12341901,Steal,5.23,2.17,6.6,3.9,5.2,1.1,3,6460,No,12.2,4.1,3.8,1,No,Yes,
+looneke01,Kevon Looney,C,29,25-29,NOP,LAL,Standard,2449421,14674070,12224649,Steal,3.0,0.5,4.0,4.3,0.7,1.63,3,2645,No,2.8,5.6,1.6,1,No,Yes,
+hartjo01,Josh Hart,SF,30,30-33,NYK,NYK,Standard,20923760,32975113,12051353,Steal,7.0,2.5,5.7,9.2,6.1,1.56,3,7598,No,12.0,7.4,4.8,2,No,Yes,
+hayesja02,Jaxson Hayes,C,25,25-29,LAL,UTA,Standard,6000000,18014010,12014010,Steal,3.73,0.5,2.5,3.7,5.0,1.02,3,3177,No,7.5,4.1,0.9,2,No,Yes,
+avdijde01,Deni Avdija,SF,25,25-29,POR,POR,Standard,13125000,25059912,11934912,Steal,5.27,2.1,3.2,5.6,7.0,1.57,3,6617,No,24.2,6.9,6.7,2,No,Yes,
+hausesa01,Sam Hauser,PF,28,25-29,BOS,BOS,Standard,10848215,22772282,11924067,Steal,4.77,1.27,4.9,4.4,5.0,0.26,3,5216,No,9.2,3.8,1.5,3,No,Yes,
+okongon01,Onyeka Okongwu,C,25,25-29,ATL,ATL,Standard,16120000,27942326,11822326,Steal,5.9,1.27,4.5,7.2,6.0,1.1,3,5766,No,15.2,7.6,3.1,2,No,Yes,
+richani01,Nick Richards,C,28,25-29,2TM,MIA,Standard,2449421,14216544,11767123,Steal,2.9,-0.4,5.1,3.0,0.6,1.84,3,3716,No,5.8,5.1,0.3,1,No,Yes,
+mcbrimi01,Miles McBride,SG,25,25-29,NYK,NYK,Standard,3956523,15451865,11495342,Steal,3.17,0.77,3.6,3.2,2.7,0.37,3,4001,No,12.0,2.4,2.6,1,No,Yes,
+larsspe01,Pelle Larsson,SG,24,Under 25,MIA,MIA,Standard,2296271,13530255,11233984,Steal,2.75,0.1,,1.4,4.1,1.35,2,2631,No,11.4,3.5,3.4,5,No,Yes,
+paytoga02,Gary Payton II,SG,33,30-33,GSW,GSW,Veteran minimum,2449421,13621760,11172339,Steal,2.77,0.8,1.8,3.0,3.5,0.71,3,2749,No,7.5,3.6,1.7,1,No,Yes,
+joeis01,Isaiah Joe,SG,26,25-29,OKC,DET,Standard,11323006,22452013,11129007,Steal,4.7,1.37,3.5,5.1,5.5,0.86,3,4556,No,11.1,2.5,1.3,2,No,Yes,
+harrito02,Tobias Harris,PF,33,30-33,DET,SAS,Standard,15044000,25974964,10930964,Steal,5.47,1.47,5.9,5.2,5.3,0.31,3,6420,No,13.3,5.1,2.5,2,No,Yes,
+kennalu01,Luke Kennard,SG,29,25-29,2TM,PHO,Standard,6064000,16961701,10897701,Steal,3.5,0.83,2.1,3.9,4.5,1.02,3,4152,No,8.4,2.3,2.2,2,No,Yes,
+gaffoda01,Daniel Gafford,C,27,25-29,DAL,DAL,Standard,17263584,28079584,10816000,Steal,5.93,1.57,7.8,5.9,4.1,1.51,3,4236,No,9.5,6.9,1.1,3,No,Yes,
+goberru01,Rudy Gobert,C,33,30-33,MIN,MIN,Standard,36500000,47295679,10795679,Steal,10.13,2.23,11.6,10.1,8.7,1.18,3,7362,No,10.9,11.5,1.7,2,No,Yes,
+filipky01,Kyle Filipowski,C,22,Under 25,UTA,UTA,Standard,3000000,13759018,10759018,Steal,2.8,0.4,,2.5,3.1,0.3,2,3323,No,11.4,7.2,2.6,2,No,Yes,
+niangge01,Georges Niang,PF,32,30-33,2TM,GSW,Veteran minimum,2449421,13072729,10623308,Steal,2.65,-0.25,2.4,2.9,,0.25,2,3528,Yes,,,,1,No,Yes,
+bonaad01,Adem Bona,C,22,Under 25,PHI,PHI,Standard,2296271,12843966,10547695,Steal,2.6,-0.25,,2.3,2.9,0.3,2,2139,No,4.8,4.3,0.5,2,No,Yes,
+dunnkr01,Kris Dunn,PG,31,30-33,LAC,LAC,Standard,5684800,16183906,10499106,Steal,3.33,0.8,2.0,4.0,4.0,0.94,3,5262,No,7.3,3.3,3.6,1,No,Yes,
+wellsja01,Jaylen Wells,SG,22,Under 25,MEM,MEM,Standard,2296271,12615203,10318932,Steal,2.55,-0.3,,3.5,1.6,0.95,2,3864,No,12.5,3.2,1.6,2,No,Yes,
+lylestr01,Trey Lyles,PF,30,30-33,SAC,MIN,Veteran minimum,2449421,12386440,9937019,Good value,2.5,0.35,2.4,2.6,,0.1,2,2507,Yes,,,,1,No,Yes,
+hardati02,Tim Hardaway Jr.,SG,33,30-33,DEN,MIA,Standard,6500000,16366917,9866917,Good value,3.37,0.07,2.2,3.5,4.4,0.9,3,6400,No,13.5,2.6,1.4,1,No,Yes,
+sextoco01,Collin Sexton,SG,27,25-29,2TM,LAL,Standard,9366000,18929063,9563063,Good value,3.93,1.23,5.5,2.4,3.9,1.27,3,5447,No,15.4,2.3,3.3,2,No,Yes,
+baglema01,Marvin Bagley III,PF,26,25-29,2TM,DEN,Standard,2449421,11791656,9342235,Good value,2.37,0.43,2.7,0.6,3.8,1.33,3,2519,No,10.5,6.1,1.4,1,No,Yes,
+alexani01,Nickeil Alexander-Walker,SG,27,25-29,ATL,ATL,Standard,14403710,23687334,9283624,Good value,4.97,1.33,4.3,4.3,6.3,0.94,3,6597,No,20.8,3.4,3.7,3,No,Yes,
+willima07,Mark Williams,C,24,Under 25,PHO,PHO,Standard,11728395,20942177,9213782,Good value,4.37,1.1,2.1,4.7,6.3,1.73,3,3095,No,11.7,8.0,1.0,3,No,Yes,
+bryanth01,Thomas Bryant,C,28,25-29,CLE,CLE,Standard,2449421,11608646,9159225,Good value,2.33,0.4,1.6,3.1,2.3,0.61,3,2136,No,6.2,3.4,0.6,1,No,Yes,
+simonan01,Anfernee Simons,SG,26,25-29,2TM,PHI,Standard,6000000,15131596,9131596,Good value,3.1,0.87,2.2,4.2,2.9,0.83,3,5246,No,14.3,2.5,2.4,2,No,Yes,
+wiggiaa01,Aaron Wiggins,SG,27,25-29,OKC,ATL,Standard,9224300,18014010,8789710,Good value,3.73,0.87,3.7,5.4,2.1,1.35,3,4386,No,9.4,3.1,1.7,3,No,Yes,
+willike04,Kenrich Williams,PF,31,30-33,OKC,OKC,Standard,5000000,13759018,8759018,Good value,2.8,0.5,2.5,3.6,2.3,0.57,3,3016,No,6.5,3.3,1.4,1,No,Yes,
+achiupr01,Precious Achiuwa,C,26,25-29,SAC,SAC,Standard,5477000,14079286,8602286,Good value,2.87,0.13,3.4,2.3,2.9,0.45,3,4539,No,10.1,6.7,1.4,2,No,Yes,
+harteis01,Isaiah Hartenstein,C,27,25-29,OKC,OKC,Standard,23148148,31739792,8591644,Good value,6.73,2.17,8.1,6.8,5.3,1.14,3,4623,No,9.2,9.4,3.5,3,No,Yes,
+matkoka01,Karlo Matković,PF,24,Under 25,NOP,NOP,Standard,2296271,10785099,8488828,Good value,2.15,0.3,,1.6,2.7,0.55,2,1703,No,5.7,3.7,0.8,1,No,Yes,
+walkeja01,Jabari Walker,PF,23,Under 25,PHI,PHI,Standard,2584539,11013862,8429323,Good value,2.2,-0.17,2.9,2.0,1.7,0.51,3,3211,No,4.3,3.0,0.5,1,No,Yes,
+batumni01,Nicolas Batum,PF,37,34+,LAC,LAC,Standard,5881680,14079286,8197606,Good value,2.87,0.63,3.3,3.5,1.8,0.76,3,4191,No,4.0,2.5,0.9,1,No,Yes,
+konchjo01,John Konchar,SG,29,25-29,2TM,MIN,Standard,2055000,10236067,8181067,Good value,2.03,0.6,2.2,1.5,2.4,0.39,3,2846,No,4.4,4.3,2.1,3,No,Yes,
+willija07,Jaylin Williams,PF,23,Under 25,OKC,OKC,Standard,7774648,15909391,8134743,Good value,3.27,1.13,2.4,3.3,4.1,0.69,3,2958,No,7.2,5.5,2.4,2,No,Yes,
+fontesi01,Simone Fontecchio,SF,30,30-33,MIA,MIA,Veteran minimum,2449421,10556336,8106915,Good value,2.1,0.27,2.1,1.6,2.6,0.41,3,4054,No,8.5,3.0,1.4,1,No,Yes,
+highsha01,Haywood Highsmith,SF,29,25-29,PHO,PHO,Standard,3449421,11471388,8021967,Good value,2.3,0.23,3.1,3.3,0.5,1.28,3,3275,No,5.4,1.9,1.0,1,No,Yes,
+greenja02,Javonte Green,SG,32,30-33,DET,DET,Veteran minimum,3943679,11928914,7985235,Good value,2.4,0.53,0.9,1.6,4.7,1.65,3,2934,No,6.9,2.8,0.7,1,No,Yes,
+champju01,Justin Champagnie,SF,24,Under 25,WAS,WAS,Standard,2667944,10419078,7751134,Good value,2.07,0.37,0.3,2.8,3.1,1.26,3,2952,No,8.7,5.6,1.2,2,No,Yes,
+nancela02,Larry Nance Jr.,PF,33,30-33,CLE,IND,Veteran minimum,2449421,10098810,7649389,Good value,2.0,0.47,4.1,1.3,0.6,1.51,3,2128,No,3.7,2.7,1.0,1,No,Yes,
+bogdabo01,Bogdan Bogdanović,SG,33,30-33,LAC,HOU,Veteran minimum,2449421,10098810,7649389,Good value,2.0,0.43,3.9,1.9,0.2,1.51,3,4201,No,7.4,2.6,2.2,1,No,Yes,
+krejcvi01,Vít Krejčí,PG,25,25-29,2TM,POR,Standard,2667944,10236067,7568123,Good value,2.03,0.23,0.6,2.6,2.9,1.02,3,3086,No,8.5,2.3,1.5,2,No,Yes,
+hardeja01,James Harden,PG,36,34+,2TM,CLE,Standard,30647619,38145157,7497538,Good value,8.13,3.93,8.4,8.3,7.7,0.31,3,7697,No,23.6,4.8,8.0,3,No,Yes,
+marshna01,Naji Marshall,SF,28,25-29,DAL,DAL,Standard,9428571,16824443,7395872,Good value,3.47,0.6,2.6,3.5,4.3,0.69,3,5360,No,15.2,4.7,3.3,4,No,Yes,
+brownbr01,Bruce Brown,SG,29,25-29,DEN,NYK,Standard,2449421,9778541,7329120,Good value,1.93,-0.4,2.2,0.7,2.9,0.92,3,4786,No,7.9,3.9,2.1,1,No,Yes,
+pippesc02,Scotty Pippen Jr.,PG,25,25-29,MEM,MEM,Standard,2461462,9778541,7317079,Good value,1.93,0.7,1.0,4.7,0.1,1.99,3,2422,No,11.4,2.2,4.7,2,No,Yes,
+simsje01,Jericho Sims,C,27,25-29,MIL,MIL,Standard,2801346,10098810,7297464,Good value,2.0,-0.2,1.5,1.3,3.2,0.85,3,2535,No,5.0,5.5,1.6,1,No,Yes,
+huffja01,Jay Huff,C,27,25-29,IND,IND,Standard,2667944,9961552,7293608,Good value,1.97,0.73,0.2,2.5,3.2,1.28,3,2516,No,9.5,4.0,1.5,2,No,Yes,
+whitede01,Derrick White,SG,31,30-33,BOS,BOS,Standard,30348000,37550373,7202373,Good value,8.0,3.53,8.5,8.5,7.0,0.71,3,7580,No,16.5,4.4,5.4,3,No,Yes,
+vanvlfr01,Fred VanVleet,PG,31,30-33,HOU,HOU,Standard,25000000,32060061,7060061,Good value,6.8,2.55,8.4,5.2,,1.6,2,4795,Yes,,,,1,No,Yes,
+porteke02,Kevin Porter Jr.,PG,25,25-29,MIL,MIL,Standard,5390700,12386440,6995740,Good value,2.5,0.9,,2.2,2.8,0.3,2,2743,No,17.4,5.2,7.4,1,No,Yes,
+portecr01,Craig Porter Jr.,PG,25,25-29,CLE,CLE,Standard,2406205,9183757,6777552,Good value,1.8,0.67,1.5,1.1,2.8,0.73,3,2310,No,4.5,3.4,3.2,1,No,Yes,
+merrisa01,Sam Merrill,SG,29,25-29,CLE,CLE,Standard,9160715,15909391,6748676,Good value,3.27,0.73,2.8,3.3,3.7,0.37,3,3847,No,12.8,2.6,2.4,3,No,Yes,
+laravja01,Jake LaRavia,PF,24,Under 25,LAL,LAL,Standard,6000000,12706708,6706708,Good value,2.57,0.37,1.0,2.9,3.8,1.17,3,4216,No,8.2,4.0,1.8,1,No,Yes,
+barlodo01,Dominick Barlow,PF,22,Under 25,PHI,PHI,Standard,3415000,10098810,6683810,Good value,2.0,0.13,1.1,1.0,3.9,1.34,3,2484,No,7.7,4.8,1.2,1,No,Yes,
+elliske01,Keon Ellis,SG,26,25-29,2TM,BRK,Standard,8780488,15451865,6671377,Good value,3.17,1.1,2.3,5.0,2.2,1.3,3,4404,No,6.7,1.9,1.0,2,No,Yes,
+sheadja01,Jamal Shead,PG,23,Under 25,TOR,TOR,Standard,2296271,8954994,6658723,Good value,1.75,-0.45,,0.8,2.7,0.95,2,3319,No,6.6,1.7,5.4,4,No,Yes,
+jonesde02,Derrick Jones Jr.,SF,28,25-29,LAC,LAC,Standard,10476190,17098958,6622768,Good value,3.53,0.5,3.1,4.7,2.8,0.83,3,5006,No,10.1,3.5,1.4,1,No,Yes,
+sochaje01,Jeremy Sochan,PF,22,Under 25,2TM,POR,Standard,2449421,9046500,6597079,Good value,1.77,-0.13,1.4,2.7,1.2,0.66,3,4026,No,3.6,2.4,0.9,1,No,Yes,
+onealro01,Royce O'Neale,SF,32,30-33,PHO,CHO,Standard,10875000,17419227,6544227,Good value,3.6,1.17,3.4,2.8,4.6,0.75,3,6004,No,9.8,4.8,2.7,2,No,Yes,
+brunsja01,Jalen Brunson,PG,29,25-29,NYK,NYK,Standard,37739521,44092996,6353475,Good value,9.43,3.93,11.2,8.3,8.8,1.27,3,7617,No,26.0,3.3,6.8,3,No,Yes,
+kuminjo01,Jonathan Kuminga,PF,23,Under 25,2TM,MIN,Standard,6064000,12386440,6322440,Good value,2.5,0.4,4.6,1.9,1.0,1.53,3,3923,No,12.2,5.6,2.3,2,No,Yes,
+princta02,Taurean Prince,SF,31,30-33,MIL,DET,Veteran minimum,3815861,9961552,6145691,Good value,1.97,-0.17,1.9,3.5,0.5,1.23,3,4885,No,9.2,3.1,1.8,1,No,Yes,
+cartewe01,Wendell Carter Jr.,C,26,25-29,ORL,ORL,Standard,18102000,24144860,6042860,Good value,5.07,0.7,4.4,4.6,6.2,0.81,3,5452,No,11.8,7.4,2.0,3,No,Yes,
+smithja04,Jalen Smith,C,25,25-29,CHI,CHI,Standard,9428571,15451865,6023294,Good value,3.17,0.77,4.0,2.9,2.6,0.6,3,3104,No,10.2,6.7,1.2,1,No,Yes,
+russeda01,D'Angelo Russell,PG,29,25-29,DAL,MEM,Standard,5969250,11608646,5639396,Good value,2.33,0.8,5.1,1.9,0.0,2.1,3,4459,No,10.2,2.3,4.0,1,No,Yes,
+oubreke01,Kelly Oubre Jr.,SF,30,30-33,PHI,IND,Standard,8050000,13621760,5571760,Good value,2.77,0.0,3.0,2.6,2.7,0.17,3,5707,No,14.1,5.0,1.6,2,No,Yes,
+walshjo01,Jordan Walsh,PF,21,Under 25,BOS,BOS,Standard,2406205,7673921,5267716,Good value,1.47,0.17,0.2,0.4,3.8,1.65,3,1698,No,5.4,4.0,0.8,4,No,Yes,
+porzikr01,Kristaps Porziņģis,C,30,30-33,2TM,GSW,Standard,19512195,24739644,5227449,Good value,5.2,1.97,7.9,5.3,2.4,2.25,3,3669,No,16.7,5.2,2.5,2,No,Yes,
+thybuma01,Matisse Thybulle,SG,28,25-29,POR,LAL,Standard,2449421,7673921,5224500,Good value,1.47,0.77,2.2,0.9,1.3,0.54,3,2279,No,5.8,2.0,0.9,1,No,Yes,
+rolliry01,Ryan Rollins,PG,23,Under 25,MIL,MIL,Standard,4000000,9183757,5183757,Good value,1.8,0.6,0.3,1.7,3.4,1.27,3,3274,No,17.3,4.6,5.6,2,No,Yes,
+wadede01,Dean Wade,PF,29,25-29,CLE,PHI,Standard,9000000,14079286,5079286,Good value,2.87,0.67,2.5,3.0,3.1,0.26,3,3678,No,5.8,4.2,1.5,4,No,Yes,
+anthoco01,Cole Anthony,PG,25,25-29,MIL,MEM,Standard,3700000,8726231,5026231,Good value,1.7,0.43,3.6,2.0,-0.5,1.69,3,3578,No,6.7,2.5,3.5,2,No,Yes,
+tateja01,Jae'Sean Tate,SF,30,30-33,HOU,HOU,Veteran minimum,2449421,7353653,4904232,Good value,1.4,-0.03,1.8,1.6,0.8,0.43,3,2024,No,2.8,1.6,0.5,1,No,Yes,
+alvarjo01,Jose Alvarado,PG,27,25-29,2TM,NYK,Standard,4500000,9321015,4821015,Good value,1.83,0.33,2.1,1.2,2.2,0.45,3,3764,No,7.4,2.5,3.4,3,No,Yes,
+sharpda01,Day'Ron Sharpe,C,24,Under 25,BRK,BRK,Standard,10000000,14811328,4811328,Good value,3.03,0.73,2.9,2.7,3.5,0.34,3,2989,No,8.7,6.7,2.3,2,No,Yes,
+gueyemo02,Mouhamed Gueye,PF,23,Under 25,ATL,ATL,Standard,2406205,7216395,4810190,Good value,1.37,0.13,0.2,1.2,2.7,1.03,3,1785,No,4.4,3.6,0.9,1,No,Yes,
+mccontj01,T.J. McConnell,PG,33,30-33,IND,IND,Standard,11000000,15726380,4726380,Good value,3.23,1.3,3.9,3.2,2.6,0.53,3,3669,No,9.4,2.2,5.1,3,No,Yes,
+hachiru01,Rui Hachimura,PF,27,25-29,LAL,LAC,Standard,14000000,18654547,4654547,Good value,3.87,0.33,4.1,4.3,3.2,0.48,3,5622,No,11.5,3.3,0.8,2,No,Yes,
+wagnemo01,Moritz Wagner,C,28,25-29,ORL,BRK,Standard,9268293,13896276,4627983,Good value,2.83,0.77,5.6,2.0,0.9,2.01,3,2406,No,6.9,3.2,0.8,2,No,Yes,
+battlja01,Jamison Battle,SF,24,Under 25,TOR,TOR,Standard,2296271,6896127,4599856,Good value,1.3,-0.1,,1.7,0.9,0.4,2,1559,No,3.1,1.5,0.4,1,No,Yes,
+edwarju01,Justin Edwards,SF,22,Under 25,PHI,PHI,Standard,2411090,6896127,4485037,Good value,1.3,-0.15,,0.9,1.7,0.4,2,2132,No,6.0,1.5,1.3,2,No,Yes,
+smithdr01,Dru Smith,SG,28,25-29,MIA,MIA,Standard,2584539,7033385,4448846,Good value,1.33,0.53,0.3,0.7,3.0,1.19,3,1540,No,5.6,2.5,2.6,2,No,Yes,
+willizi02,Ziaire Williams,SF,24,Under 25,BRK,LAL,Standard,2449421,6896127,4446706,Good value,1.3,-0.2,0.2,2.1,1.6,0.8,3,3860,No,10.2,2.4,1.1,1,No,Yes,
+watfotr01,Trendon Watford,PF,25,25-29,PHI,NOP,Standard,2449421,6896127,4446706,Good value,1.3,0.0,1.8,0.7,1.4,0.45,3,2633,No,6.5,3.3,2.5,1,No,Yes,
+goodwjo01,Jordan Goodwin,PG,27,25-29,PHO,PHO,Standard,5864198,10236067,4371869,Good value,2.03,0.67,1.2,1.0,3.9,1.32,3,3170,No,8.7,4.9,2.2,3,No,Yes,
+connapa01,Pat Connaughton,SG,33,30-33,CHO,CHO,Veteran minimum,3815861,8131447,4315586,Good value,1.57,0.13,2.8,1.2,0.7,0.9,3,2576,No,2.6,1.5,0.4,1,No,Yes,
+okogijo01,Josh Okogie,SG,27,25-29,HOU,UTA,Standard,6000000,10236067,4236067,Good value,2.03,0.43,2.1,1.3,2.7,0.57,3,2939,No,4.5,2.6,0.9,2,No,Yes,
+willibr03,Brandon Williams,PG,26,25-29,DAL,GSW,Standard,2449421,6575859,4126438,Good value,1.23,0.4,-0.1,1.3,2.5,1.06,3,2063,No,13.0,2.9,3.9,1,No,Yes,
+santogu01,Gui Santos,PF,23,Under 25,GSW,GSW,Standard,4629630,8726231,4096601,Good value,1.7,0.23,0.7,1.7,2.7,0.82,3,2349,No,9.2,3.9,2.3,3,No,Yes,
+middlkh01,Khris Middleton,SF,34,34+,2TM,WAS,Standard,5591122,9641283,4050161,Good value,1.9,0.3,3.4,2.0,0.3,1.27,3,3769,No,10.2,3.7,2.8,3,No,Yes,
+harriga01,Gary Harris,SG,31,30-33,MIL,DET,Veteran minimum,3815861,7673921,3858060,Good value,1.47,0.03,2.7,1.0,0.7,0.88,3,2669,No,2.7,1.3,1.1,1,No,Yes,
+robindu01,Duncan Robinson,SG,31,30-33,DET,DET,Standard,15992957,19844115,3851158,Good value,4.13,0.73,3.6,2.7,6.1,1.44,3,5804,No,12.2,2.7,2.1,2,No,Yes,
+nurkiju01,Jusuf Nurkić,C,31,30-33,UTA,UTA,Standard,10576923,14353802,3776879,Good value,2.93,0.9,5.8,1.5,1.5,2.03,3,4224,No,10.9,10.4,4.8,2,No,Yes,
+huertke01,Kevin Huerter,SF,27,25-29,2TM,DET,Standard,8333333,12066172,3732839,Good value,2.43,0.37,2.9,1.9,2.5,0.41,3,4790,No,10.0,3.5,2.6,3,No,Yes,
+hylanbo01,Bones Hyland,PG,25,25-29,MIN,MIN,Standard,2845883,6438601,3592718,Good value,1.2,0.4,0.0,0.5,3.1,1.36,3,1956,No,8.5,1.8,2.6,1,No,Yes,
+terryda01,Dalen Terry,SG,23,Under 25,2TM,GSW,Standard,1357763,4928765,3571002,Good value,0.87,-0.17,0.8,1.1,0.7,0.17,3,2219,No,3.7,1.8,1.4,1,No,Yes,
+jacksis01,Isaiah Jackson,C,24,Under 25,2TM,LAC,Standard,7000000,10419078,3419078,Good value,2.07,0.33,3.3,0.3,2.6,1.28,3,1763,No,6.7,5.3,0.9,2,No,Yes,
+pottemi01,Micah Potter,C,27,25-29,IND,POR,Standard,2801346,5981075,3179729,Good value,1.1,0.1,0.3,0.4,2.6,1.06,3,1799,No,9.7,5.0,1.5,1,No,Yes,
+allengr01,Grayson Allen,SG,30,30-33,PHO,CHO,Standard,18125000,21216693,3091693,Good value,4.43,1.4,6.9,2.5,3.9,1.84,3,5524,No,16.5,3.0,3.8,2,No,Yes,
+champju02,Julian Champagnie,SF,24,Under 25,SAS,SAS,Standard,13888889,16961701,3072812,Good value,3.5,0.77,1.8,2.5,6.2,1.93,3,5666,No,11.1,5.8,1.5,3,No,Yes,
+mathube01,Bennedict Mathurin,SF,23,Under 25,2TM,NOP,Standard,7804878,10876604,3071726,Good value,2.17,-0.43,1.4,3.0,2.1,0.65,3,5307,No,17.6,5.4,2.4,2,No,Yes,
+dortlu01,Luguentz Dort,SF,26,25-29,OKC,ATL,Standard,18222222,21079435,2857213,Good value,4.4,0.47,4.6,5.6,3.0,1.07,3,6168,No,8.3,3.6,1.2,1,No,Yes,
+okorois01,Isaac Okoro,SG,25,25-29,CHI,CHI,Standard,11814814,14536812,2721998,Good value,2.97,0.0,4.2,2.5,2.2,0.88,3,4635,No,9.3,2.7,1.6,1,No,Yes,
+jeromty01,Ty Jerome,SG,28,25-29,MEM,MEM,Standard,9220050,11928914,2708864,Good value,2.4,1.0,0.0,5.9,1.3,2.53,3,1747,No,19.7,2.8,5.7,2,No,Yes,
+johnske04,Keldon Johnson,SF,26,25-29,SAS,SAS,Standard,17500000,20164383,2664383,Good value,4.2,0.6,3.0,3.2,6.4,1.56,3,5787,No,13.2,5.4,1.4,1,No,Yes,
+isaacjo01,Jonathan Isaac,PF,28,25-29,ORL,ORL,Standard,10449421,12981224,2531803,Good value,2.63,0.73,3.6,3.4,0.9,1.23,3,2525,No,2.6,2.5,0.4,1,No,Yes,
+jacksgg01,GG Jackson II,PF,21,Under 25,MEM,MEM,Standard,2406205,4928765,2522560,Good value,0.87,-0.07,1.2,0.1,1.3,0.54,3,2870,No,12.5,4.3,1.5,1,No,Yes,
+gillan01,Anthony Gill,PF,33,30-33,WAS,WAS,Veteran minimum,2449421,4928765,2479344,Good value,0.87,-0.27,0.4,0.5,1.7,0.59,3,1814,No,5.8,2.9,1.3,1,No,Yes,
+hieldbu01,Buddy Hield,SG,33,30-33,2TM,CHI,Standard,9658536,12066172,2407636,Good value,2.43,0.67,3.5,2.8,1.0,1.05,3,4842,No,7.6,2.3,1.4,2,No,Yes,
+phillju01,Julian Phillips,SF,22,Under 25,2TM,HOU,Standard,2537526,4928765,2391239,Good value,0.87,-0.27,0.2,1.9,0.5,0.74,3,1874,No,2.9,1.0,0.2,1,No,Yes,
+smithja05,Jabari Smith Jr.,PF,22,Under 25,HOU,HOU,Standard,23643411,25974964,2331553,Good value,5.47,0.83,5.6,4.2,6.6,0.98,3,6845,No,15.8,6.9,1.9,5,No,Yes,
+clarkjo01,Jordan Clarkson,SG,33,30-33,NYK,NYK,Veteran minimum,2449421,4745755,2296334,Good value,0.83,-0.47,0.2,0.4,1.9,0.76,3,3923,No,8.6,1.8,1.3,1,No,Yes,
+mamuksa01,Sandro Mamukelashvili,C,26,25-29,TOR,LAL,Standard,13000000,15268854,2268854,Good value,3.13,1.0,1.0,2.2,6.2,2.22,3,2883,No,11.2,4.9,1.9,4,No,Yes,
+gilleco01,Collin Gillespie,PG,26,25-29,PHO,PHO,Standard,10714286,12981224,2266938,Good value,2.63,1.03,0.4,1.3,6.2,2.55,3,2968,No,12.7,4.1,4.6,4,No,Yes,
+poeltja01,Jakob Poeltl,C,30,30-33,TOR,TOR,Standard,19500000,21674219,2174219,Good value,4.53,1.2,3.8,5.5,4.3,0.71,3,4154,No,10.7,7.0,2.0,4,No,Yes,
+moodymo01,Moses Moody,SG,23,Under 25,GSW,GSW,Standard,12500000,14674070,2174070,Good value,3.0,0.6,2.4,3.5,3.1,0.45,3,4345,No,12.1,3.3,1.6,2,No,Yes,
+portibo01,Bobby Portis,PF,30,30-33,MIL,MIA,Standard,14521414,16504174,1982760,Fair,3.4,0.7,4.7,2.7,2.8,0.92,3,4871,No,13.7,6.4,1.6,2,No,Yes,
+chrisma02,Max Christie,SG,22,Under 25,DAL,DAL,Standard,8285714,10236067,1950353,Fair,2.03,-0.13,0.7,2.7,2.7,0.94,3,5315,No,12.3,3.2,2.0,2,No,Yes,
+claxtni01,Nic Claxton,C,26,25-29,BRK,CHI,Standard,23147727,25059912,1912185,Fair,5.27,1.4,6.7,4.3,4.8,1.03,3,5918,No,11.7,6.9,3.7,2,No,Yes,
+millejo02,Jordan Miller,SF,26,25-29,LAC,LAC,Standard,5300000,7033385,1733385,Fair,1.33,0.23,0.1,0.4,3.5,1.54,3,1773,No,10.0,3.0,2.3,3,No,Yes,
+nesmiaa01,Aaron Nesmith,SF,26,25-29,IND,IND,Standard,11000000,12706708,1706708,Fair,2.57,0.23,4.1,2.9,0.7,1.41,3,4452,No,13.8,4.2,1.9,3,No,Yes,
+mcgowbr01,Bryce McGowens,SG,23,Under 25,NOP,NOP,Standard,2584539,4288229,1703690,Fair,0.73,-0.3,0.6,-0.1,1.7,0.74,3,1794,No,8.1,2.1,1.5,2,No,Yes,
+mitchda01,Davion Mitchell,PG,27,25-29,MIA,MIA,Standard,12400000,14079286,1679286,Fair,2.87,-0.03,1.3,3.0,4.3,1.23,3,5128,No,9.3,2.7,6.5,1,No,Yes,
+shamela01,Landry Shamet,SG,28,25-29,NYK,NYK,Standard,5357143,6896127,1538984,Fair,1.3,-0.0,0.3,1.0,2.6,0.96,3,2659,No,9.3,1.8,1.4,4,No,Yes,
+toppiob01,Obi Toppin,PF,27,25-29,IND,IND,Standard,15000000,16504174,1504174,Fair,3.4,1.13,4.8,4.3,1.1,1.64,3,3699,No,11.6,4.4,2.3,2,No,Yes,
+collijo01,John Collins,PF,28,25-29,LAC,DET,Standard,17000000,18471537,1471537,Fair,3.83,0.7,4.4,2.5,4.6,0.95,3,4993,No,13.6,5.3,1.0,3,No,Yes,
+stewais01,Isaiah Stewart,C,24,Under 25,DET,MEM,Standard,15000000,16366917,1366917,Fair,3.37,0.5,1.7,4.3,4.1,1.18,3,4174,No,10.0,5.0,1.1,2,No,Yes,
+braunch01,Christian Braun,SG,24,Under 25,DEN,DEN,Standard,21551726,22909539,1357813,Fair,4.8,0.63,3.4,8.0,3.0,2.27,3,5729,No,12.0,4.8,2.7,5,No,Yes,
+camarto01,Toumani Camara,PF,25,25-29,POR,POR,Standard,18080358,19249331,1168973,Fair,4.0,0.47,2.0,5.2,4.8,1.42,3,7018,No,13.4,5.1,2.5,4,No,Yes,
+easonta01,Tari Eason,PF,24,Under 25,HOU,HOU,Standard,14051724,14994338,942614,Fair,3.07,0.87,1.3,5.0,2.9,1.52,3,3449,No,10.5,6.3,1.5,5,No,Yes,
+postqu01,Quinten Post,PF,25,25-29,GSW,MEM,Standard,8285714,9183757,898043,Fair,1.8,0.35,,1.7,1.9,0.1,2,1845,No,7.7,4.0,1.4,3,No,Yes,
+cissosi01,Sidy Cissoko,SF,21,Under 25,POR,POR,Standard,2497812,3235919,738107,Fair,0.5,-0.27,0.3,-0.1,1.3,0.59,3,1690,No,5.1,2.2,1.5,1,No,Yes,
+micicva01,Vasilije Micić,PG,32,30-33,2TM,MIL,Veteran minimum,666667,1357763,691096,Fair,-0.3,-0.9,0.4,-1.0,,0.7,2,1961,Yes,,,,2,No,Yes,
+sengual01,Alperen Şengün,C,23,Under 25,HOU,HOU,Standard,35642202,36315053,672851,Fair,7.73,3.7,6.9,8.3,8.0,0.6,3,6839,No,20.4,8.9,6.2,4,No,Yes,
+jonessp01,Spencer Jones,SF,24,Under 25,DEN,DEN,Standard,6000000,6667364,667364,Fair,1.25,-0.15,,-0.1,2.6,1.35,2,1542,No,5.5,3.3,0.8,2,No,Yes,
+carteje01,Jevon Carter,PG,30,30-33,2TM,ORL,Veteran minimum,2449421,3098661,649240,Fair,0.47,-0.1,0.2,0.3,0.9,0.31,3,2192,No,6.4,1.7,1.6,1,No,Yes,
+robinmi01,Mitchell Robinson,C,27,25-29,NYK,BOS,Standard,15044000,15589122,545122,Fair,3.2,0.8,2.5,1.3,5.8,1.9,3,2233,No,5.7,8.8,0.9,3,No,Yes,
+greenaj01,A.J. Green,SG,26,25-29,MIL,MIL,Standard,10044644,10556336,511692,Fair,2.1,-0.3,1.1,2.8,2.4,0.73,3,4543,No,10.4,2.7,1.9,4,No,Yes,
+colliza01,Zach Collins,C,28,25-29,CHI,CHI,Standard,8292683,8588974,296291,Fair,1.67,0.2,1.8,2.7,0.5,0.9,3,2687,No,9.7,5.6,1.5,2,No,Yes,
+leverca01,Caris LeVert,SG,31,30-33,DET,MIL,Standard,14809200,14994338,185138,Fair,3.07,0.93,3.6,4.0,1.6,1.05,3,4708,No,7.4,2.0,2.7,1,No,Yes,
+meltode01,De'Anthony Melton,PG,27,25-29,GSW,GSW,Standard,5477000,5523549,46549,Fair,1.0,0.2,2.1,0.2,0.7,0.8,3,2269,No,12.3,3.2,2.6,2,No,Yes,
+lillada01,Damian Lillard,PG,35,34+,MIL,MIL,Standard,35915403,35949032,33629,Fair,7.65,2.95,7.7,7.6,,0.05,2,4672,Yes,,,,4,No,Yes,
+mykhasv01,Svi Mykhailiuk,SF,28,25-29,UTA,UTA,Standard,3850000,3830702,-19298,Fair,0.63,-0.07,0.9,-0.1,1.1,0.52,3,2329,No,9.4,2.5,1.9,2,No,Yes,
+reidna01,Naz Reid,C,26,25-29,MIN,CHO,Standard,23275862,23229808,-46054,Fair,4.87,1.73,4.9,5.7,4.0,0.69,3,6171,No,13.6,6.2,2.2,4,No,Yes,
+powelno01,Norman Powell,SG,32,30-33,MIA,CHI,Standard,21500000,21399703,-100297,Fair,4.47,1.3,4.1,5.3,4.0,0.59,3,5665,No,21.7,3.5,2.5,2,No,Yes,
+grimequ01,Quentin Grimes,SG,25,25-29,PHI,LAL,Standard,13953489,13621760,-331729,Fair,2.77,0.43,1.3,3.4,3.6,1.04,3,5244,No,13.4,3.6,3.3,4,No,Yes,
+smartma01,Marcus Smart,SG,31,30-33,LAL,HOU,Standard,6064000,5386291,-677709,Fair,0.97,0.0,0.2,0.7,2.0,0.76,3,3054,No,9.3,2.8,3.0,2,No,Yes,
+mannte01,Terance Mann,SG,29,25-29,BRK,BRK,Standard,15500000,14674070,-825930,Fair,3.0,-0.07,4.2,3.0,1.8,0.98,3,4816,No,7.2,3.2,3.0,2,No,Yes,
+dosunay01,Ayo Dosunmu,SG,26,25-29,2TM,MIN,Standard,19310345,18471537,-838808,Fair,3.83,0.73,4.1,2.5,4.9,1.0,3,5487,No,14.8,3.4,3.6,5,No,Yes,
+durenja01,Jalen Duren,C,22,Under 25,DET,DET,Max-level,40160643,39060209,-1100434,Fair,8.33,2.37,4.8,9.2,11.0,2.6,3,5787,No,19.5,10.5,2.0,5,No,Yes,
+branhma01,Malaki Branham,SG,22,Under 25,WAS,ORL,Standard,2537526,1357763,-1179763,Fair,0.07,-0.53,-0.3,0.1,0.4,0.29,3,2296,No,4.6,1.6,0.8,1,No,Yes,
+landajo01,Jock Landale,C,30,30-33,2TM,ATL,Standard,14100000,12843966,-1256034,Fair,2.6,0.47,2.3,1.7,3.8,0.88,3,2769,No,10.6,5.7,1.7,1,No,Yes,
+aldamsa01,Santi Aldama,PF,25,25-29,MEM,DAL,Standard,17007043,15726380,-1280663,Fair,3.23,1.33,2.4,5.0,2.3,1.25,3,4476,No,14.0,6.7,2.9,2,No,Yes,
+carusal01,Alex Caruso,SG,31,30-33,OKC,OKC,Standard,19550160,18197021,-1353139,Fair,3.77,1.63,4.9,3.9,2.5,0.98,3,4101,No,6.2,2.8,2.0,3,No,Yes,
+nnajize01,Zeke Nnaji,PF,25,25-29,DEN,DEN,Standard,7466667,5981075,-1485592,Fair,1.1,-0.13,1.2,1.2,0.9,0.14,3,1810,No,3.7,2.6,0.6,2,No,Yes,
+schrode01,Dennis Schröder,PG,32,30-33,2TM,CHO,Standard,14809200,13164234,-1644966,Fair,2.67,-0.03,3.3,3.2,1.5,0.83,3,6288,No,10.8,2.7,4.9,2,No,Yes,
+daniedy01,Dyson Daniels,SG,22,Under 25,ATL,ATL,Standard,25000000,23046797,-1953203,Fair,4.83,1.77,2.9,5.0,6.6,1.52,3,6449,No,11.9,6.8,5.9,4,No,Yes,
+adamsst01,Steven Adams,C,32,30-33,HOU,HOU,Standard,13000000,11013862,-1986138,Fair,2.2,0.4,,2.3,2.1,0.1,2,1524,No,5.8,8.6,1.5,2,No,Yes,
+diengou01,Ousmane Dieng,C,22,Under 25,2TM,MIL,Standard,5750000,3373176,-2376824,Overpaid,0.53,-0.17,0.4,0.9,0.3,0.26,3,1869,No,7.6,3.2,2.4,3,No,Yes,
+mcdanja02,Jaden McDaniels,PF,25,25-29,MIN,MIN,Standard,26200001,23687334,-2512667,Overpaid,4.97,0.7,3.4,6.3,5.2,1.2,3,7035,No,14.8,4.2,2.7,3,No,Yes,
+joneshe01,Herbert Jones,SF,27,25-29,NOP,NOP,Standard,14898786,12249182,-2649604,Overpaid,2.47,0.27,6.3,0.4,0.7,2.71,3,4557,No,8.9,3.4,2.8,4,No,Yes,
+martica02,Caleb Martin,SF,30,30-33,DAL,DAL,Standard,10001493,6896127,-3105366,Overpaid,1.3,-0.13,2.4,0.6,0.9,0.79,3,3830,No,3.9,2.5,1.4,2,No,Yes,
+finnedo01,Dorian Finney-Smith,PF,32,30-33,HOU,ATL,Standard,13335000,10098810,-3236190,Overpaid,2.0,0.03,2.6,2.9,0.5,1.07,3,4372,No,3.3,2.5,1.0,3,No,Yes,
+murphtr02,Trey Murphy III,SF,25,25-29,NOP,NOP,Standard,27000000,23687334,-3312666,Overpaid,4.97,1.93,5.4,3.5,6.0,1.07,3,5885,No,21.5,5.7,3.8,3,No,Yes,
+strusma01,Max Strus,SF,29,25-29,CLE,LAC,Standard,16660836,13164234,-3496602,Overpaid,2.67,0.67,3.9,3.4,0.7,1.41,3,3800,No,11.2,5.4,2.0,1,No,Yes,
+halibty01,Tyrese Haliburton,PG,25,25-29,IND,IND,Max-level,48924624,45328317,-3596307,Overpaid,9.7,4.95,9.0,10.4,,0.7,2,4675,Yes,,,,3,No,Yes,
+johnsca02,Cameron Johnson,SF,29,25-29,DEN,DEN,Standard,23062500,19386589,-3675911,Overpaid,4.03,1.3,3.3,5.1,3.7,0.77,3,5046,No,12.2,3.8,2.4,1,No,Yes,
+bridgmi02,Miles Bridges,PF,27,25-29,CHO,PHO,Standard,22826087,19112073,-3714014,Overpaid,3.97,1.5,2.2,3.2,6.5,1.84,3,6997,No,17.1,5.8,3.2,1,No,Yes,
+caldwke01,Kentavious Caldwell-Pope,SG,32,30-33,MEM,MEM,Standard,20194392,16366917,-3827475,Overpaid,3.37,0.2,4.8,4.6,0.7,1.89,3,5769,No,8.4,2.5,2.7,1,No,Yes,
+brookdi01,Dillon Brooks,SF,30,30-33,PHO,PHO,Standard,19992727,16046648,-3946079,Overpaid,3.3,-0.2,2.7,5.1,2.1,1.3,3,6317,No,20.2,3.6,1.8,4,No,Yes,
+mccolcj01,CJ McCollum,PG,34,34+,2TM,ATL,Standard,21000000,16824443,-4175557,Overpaid,3.47,1.37,5.9,1.5,3.0,1.83,3,6255,No,18.7,3.3,3.9,1,No,Yes,
+giddejo01,Josh Giddey,PG,23,Under 25,CHI,CHI,Standard,25000000,20484651,-4515349,Overpaid,4.27,2.17,4.3,5.3,3.2,0.86,3,5859,No,17.0,8.3,9.1,3,No,Yes,
+hardyja02,Jaden Hardy,SG,23,Under 25,2TM,LAL,Standard,6000000,1357763,-4642237,Overpaid,-0.07,-0.57,0.3,-0.3,-0.2,0.26,3,2794,No,9.2,1.5,1.0,2,No,Yes,
+whiteco01,Coby White,SG,25,25-29,2TM,CHO,Standard,22839506,18014010,-4825496,Overpaid,3.73,0.6,4.7,4.5,2.0,1.23,3,6580,No,17.4,3.4,4.0,3,No,Yes,
+vandeja01,Jarred Vanderbilt,PF,26,25-29,LAL,LAL,Standard,12428571,7490911,-4937660,Overpaid,1.43,0.1,1.1,1.4,1.8,0.29,3,2290,No,4.4,4.5,1.3,2,No,Yes,
+turnemy01,Myles Turner,C,29,25-29,MIL,MIL,Standard,26584164,21536961,-5047203,Overpaid,4.5,1.1,5.8,4.7,3.0,1.15,3,6162,No,11.9,5.3,1.5,3,No,Yes,
+manntr01,Tre Mann,PG,24,Under 25,CHO,WAS,Standard,8000000,2915650,-5084350,Overpaid,0.43,-0.1,1.2,0.1,0.0,0.54,3,1975,No,5.5,1.7,1.6,2,No,Yes,
+greenjo02,Josh Green,SG,25,25-29,CHO,UTA,Standard,14679012,9504026,-5174986,Overpaid,1.87,-0.37,2.2,1.5,1.9,0.29,3,4300,No,4.3,1.8,0.8,1,No,Yes,
+bridgmi01,Mikal Bridges,SF,29,25-29,NYK,NYK,Standard,33482145,28262594,-5219551,Overpaid,5.97,1.87,4.2,5.7,8.0,1.56,3,8582,No,14.4,3.8,3.7,4,No,Yes,
+kispeco01,Corey Kispert,SF,26,25-29,2TM,ATL,Standard,13975000,8588974,-5386026,Overpaid,1.67,-0.27,2.1,1.1,1.8,0.42,3,4749,No,9.2,2.3,1.6,3,No,Yes,
+willigr01,Grant Williams,PF,27,25-29,CHO,CHO,Standard,14265750,8863489,-5402261,Overpaid,1.73,0.17,2.6,0.7,1.9,0.78,3,3320,No,7.0,3.9,1.6,1,No,Yes,
+randlju01,Julius Randle,PF,31,30-33,MIN,BRK,Standard,33333334,27484800,-5848534,Overpaid,5.8,1.9,3.8,6.2,7.4,1.5,3,6466,No,21.1,6.7,5.0,2,No,Yes,
+duranke01,Kevin Durant,SF,37,34+,HOU,HOU,Max-level,43902439,37870642,-6031797,Overpaid,8.07,4.0,8.3,5.2,10.7,2.25,3,7896,No,26.0,5.5,4.8,2,No,Yes,
+trentga02,Gary Trent Jr.,SG,27,25-29,MIL,MIL,Standard,15200000,8405963,-6794037,Overpaid,1.63,-0.43,1.7,3.3,-0.1,1.39,3,5264,No,8.1,1.0,1.2,4,No,Yes,
+nembhan01,Andrew Nembhard,PG,26,25-29,IND,IND,Standard,19550160,12523698,-7026462,Overpaid,2.53,0.13,2.0,2.8,2.8,0.38,3,5364,No,16.9,2.8,7.7,2,No,Yes,
+doncilu01,Luka Dončić,PG,26,25-29,LAL,LAL,Max-level,49800000,42720418,-7079582,Overpaid,9.13,6.17,12.0,5.9,9.5,2.5,3,6682,No,33.5,7.7,8.3,3,No,Yes,
+watsope01,Peyton Watson,SF,23,Under 25,DEN,CLE,Standard,20465116,12523698,-7941418,Overpaid,2.53,0.1,2.5,2.5,2.6,0.05,3,4742,No,14.6,4.9,2.1,4,No,Yes,
+monkma01,Malik Monk,SG,27,25-29,SAC,SAC,Standard,20190035,12066172,-8123863,Overpaid,2.43,0.67,3.5,2.8,1.0,1.05,3,5290,No,12.5,1.9,3.0,2,No,Yes,
+johnsja05,Jalen Johnson,SF,24,Under 25,ATL,ATL,Standard,30000000,21857229,-8142771,Overpaid,4.57,2.23,3.8,2.4,7.5,2.15,3,5705,No,22.5,10.3,7.9,4,No,Yes,
+holmgch01,Chet Holmgren,PF,23,Under 25,OKC,OKC,Max-level,41500000,33295381,-8204619,Overpaid,7.07,2.47,8.9,3.2,9.1,2.74,3,5287,No,17.1,8.9,1.7,5,No,Yes,
+murrake02,Keegan Murray,PF,25,25-29,SAC,SAC,Standard,24137936,15909391,-8228545,Overpaid,3.27,0.27,5.2,4.4,0.2,2.19,3,5991,No,14.0,5.7,1.7,5,No,Yes,
+sabondo01,Domantas Sabonis,C,29,25-29,SAC,SAC,Max-level,45472000,37230105,-8241895,Overpaid,7.93,3.67,12.6,10.1,1.1,4.94,3,5921,No,15.8,11.4,4.1,2,No,Yes,
+maxeyty01,Tyrese Maxey,PG,25,25-29,PHI,PHI,Max-level,40770520,32380329,-8390191,Overpaid,6.87,3.43,8.1,3.8,8.7,2.18,3,7247,No,28.3,4.1,6.6,3,No,Yes,
+jovicni01,Nikola Jović,PF,22,Under 25,MIA,MIA,Standard,16200000,7673921,-8526079,Overpaid,1.47,0.3,1.9,2.5,0.0,1.07,3,2860,No,7.3,3.3,2.2,4,No,Yes,
+washipj01,P.J. Washington,PF,27,25-29,DAL,DAL,Standard,19813044,10098810,-9714234,Overpaid,2.0,0.2,1.9,2.4,1.7,0.29,3,5792,No,14.2,7.0,1.8,4,No,Yes,
+vassede01,Devin Vassell,SG,25,25-29,SAS,SAS,Standard,27000000,17281969,-9718031,Overpaid,3.57,0.93,3.6,2.2,4.9,1.1,3,6275,No,13.9,4.0,2.5,3,No,Yes,
+gordoaa01,Aaron Gordon,PF,30,30-33,DEN,DEN,Standard,33658037,23229808,-10428229,Big overpay,4.87,1.33,7.1,4.3,3.2,1.64,3,4749,No,16.2,5.8,2.7,3,No,Yes,
+quickim01,Immanuel Quickley,PG,26,25-29,TOR,TOR,Standard,32500000,21857229,-10642771,Big overpay,4.57,1.73,4.7,2.5,6.5,1.64,3,5134,No,16.4,4.0,5.9,3,No,Yes,
+holidjr01,Jrue Holiday,PG,35,34+,POR,POR,Standard,34800000,23824592,-10975408,Big overpay,5.0,1.77,6.3,5.1,3.6,1.1,3,5719,No,16.3,4.6,6.1,2,No,Yes,
+reaveau01,Austin Reaves,SG,27,25-29,LAL,LAL,Max-level,41240250,30092699,-11147551,Big overpay,6.37,2.1,5.9,7.6,5.6,0.88,3,6941,No,23.3,4.7,5.5,4,No,Yes,
+sharpsh01,Shaedon Sharpe,SG,22,Under 25,POR,POR,Standard,20089287,8268705,-11820582,Big overpay,1.6,0.13,0.5,3.0,1.3,1.04,3,4782,No,20.8,4.3,2.6,4,No,Yes,
+wiggian01,Andrew Wiggins,SF,30,30-33,MIA,MIA,Standard,30169644,18334279,-11835365,Big overpay,3.8,0.93,2.8,4.0,4.6,0.75,3,5825,No,15.4,4.8,2.7,3,No,Yes,
+huntede01,De'Andre Hunter,SF,28,25-29,2TM,SAC,Standard,24910714,12706708,-12204006,Big overpay,2.57,0.07,2.2,4.4,1.1,1.37,3,4597,No,13.7,4.1,2.0,1,No,Yes,
+antetgi01,Giannis Antetokounmpo,PF,31,30-33,MIL,MIA,Max-level,58456566,46243369,-12213197,Big overpay,9.9,5.6,13.2,11.5,5.0,3.53,3,5895,No,27.6,9.8,5.4,2,No,Yes,
+irvinky01,Kyrie Irving,SG,33,30-33,DAL,DAL,Standard,39491282,27256037,-12235245,Big overpay,5.75,3.05,6.9,4.6,,1.15,2,3834,Yes,,,,2,No,Yes,
+banede01,Desmond Bane,SG,27,25-29,ORL,ORL,Standard,39446090,26890016,-12556074,Big overpay,5.67,2.3,3.1,6.5,7.4,1.85,3,6404,No,20.1,4.1,4.1,3,No,Yes,
+willija06,Jalen Williams,SG,24,Under 25,OKC,OKC,Max-level,41500000,28537110,-12962890,Big overpay,6.03,2.27,7.3,7.8,3.0,2.15,3,5396,No,17.1,4.6,5.5,5,No,Yes,
+greendr01,Draymond Green,PF,35,34+,GSW,GSW,Standard,27678571,14674070,-13004501,Big overpay,3.0,1.07,3.6,3.7,1.7,0.92,3,5342,No,8.4,5.5,5.5,1,No,Yes,
+thompkl01,Klay Thompson,SF,35,34+,DAL,DAL,Standard,23060317,9961552,-13098765,Big overpay,1.97,0.53,3.6,1.8,0.5,1.27,3,5746,No,11.7,2.1,1.4,2,No,Yes,
+edwaran01,Anthony Edwards,SG,24,Under 25,MIN,MIN,Max-level,48924624,35125485,-13799139,Big overpay,7.47,3.93,7.5,8.4,6.5,0.78,3,7778,No,28.8,5.0,3.7,3,No,Yes,
+kesslwa01,Walker Kessler,C,24,Under 25,UTA,LAL,Standard,30232558,16183906,-14048652,Big overpay,3.33,1.0,4.1,5.4,0.5,2.07,3,3387,No,14.4,10.8,3.0,4,No,Yes,
+herroty01,Tyler Herro,SG,26,25-29,MIA,MIL,Standard,33000000,18929063,-14070937,Big overpay,3.93,1.87,2.0,7.4,2.4,2.46,3,5165,No,20.5,4.8,4.1,1,No,Yes,
+barrerj01,RJ Barrett,SF,25,25-29,TOR,TOR,Standard,29616071,15131596,-14484475,Big overpay,3.1,0.93,2.9,2.4,4.0,0.67,3,5433,No,19.3,5.3,3.3,1,No,Yes,
+willipa01,Patrick Williams,PF,24,Under 25,CHI,CHI,Standard,18000000,3235919,-14764081,Big overpay,0.5,-0.57,1.2,0.4,-0.1,0.54,3,4224,No,7.0,3.0,1.5,3,No,Yes,
+mitchdo01,Donovan Mitchell,SG,29,25-29,CLE,CLE,Max-level,50105628,34805217,-15300411,Big overpay,7.4,3.77,6.4,7.6,8.2,0.75,3,6516,No,27.9,4.5,5.7,5,No,Yes,
+bealbr01,Bradley Beal,SG,32,30-33,LAC,PHO,Standard,25807810,10236067,-15571743,Big overpay,2.03,0.4,3.9,2.4,-0.2,1.69,3,3590,No,8.2,0.8,1.7,4,No,Yes,
+portemi01,Michael Porter Jr.,SF,27,25-29,BRK,BRK,Max-level,40806150,24602386,-16203764,Big overpay,5.17,1.53,6.2,6.4,2.9,1.6,3,6847,No,24.2,7.1,3.0,1,No,Yes,
+murraja01,Jamal Murray,PG,28,25-29,DEN,DEN,Max-level,50105628,33890165,-16215463,Big overpay,7.2,2.9,5.9,6.2,9.5,1.63,3,6931,No,25.4,4.4,7.1,3,No,Yes,
+leonaka01,Kawhi Leonard,SF,34,34+,LAC,TOR,Max-level,50300000,33890165,-16409835,Big overpay,7.2,3.73,8.9,3.5,9.2,2.62,3,5595,No,27.9,6.4,3.6,3,No,Yes,
+townska01,Karl-Anthony Towns,C,30,30-33,NYK,NYK,Max-level,57078728,40432788,-16645940,Big overpay,8.63,2.97,6.3,10.1,9.5,1.67,3,6865,No,20.1,11.9,3.0,2,No,Yes,
+willizi01,Zion Williamson,PF,25,25-29,NOP,NOP,Max-level,42166510,25517438,-16649072,Big overpay,5.37,2.5,7.5,2.5,6.1,2.11,3,4905,No,21.0,5.7,3.2,2,No,Yes,
+adebaba01,Bam Adebayo,C,28,25-29,MIA,MIA,Max-level,49800000,33112371,-16687629,Big overpay,7.03,2.6,7.2,7.5,6.4,0.46,3,7455,No,20.1,10.0,3.2,3,No,Yes,
+barnesc01,Scottie Barnes,PF,24,Under 25,TOR,TOR,Max-level,41754690,24739644,-17015046,Big overpay,5.2,3.17,4.3,3.5,7.8,1.87,3,6909,No,18.1,7.5,5.9,4,No,Yes,
+mobleev01,Evan Mobley,PF,24,Under 25,CLE,CLE,Max-level,50105628,32975113,-17130515,Big overpay,7.0,2.7,5.5,9.0,6.5,1.47,3,5773,No,18.2,9.0,3.6,4,No,Yes,
+kuzmaky01,Kyle Kuzma,PF,30,30-33,MIL,MIL,Standard,20345152,2778393,-17566759,Big overpay,0.4,-0.33,0.2,-0.9,1.9,1.15,3,6023,No,13.0,4.5,2.7,1,No,Yes,
+anunoog01,OG Anunoby,PF,28,25-29,NYK,NYK,Max-level,42500000,24419375,-18080625,Big overpay,5.13,1.6,2.6,6.5,6.3,1.79,3,6632,No,16.7,5.2,2.2,3,No,Yes,
+wagnefr01,Franz Wagner,SF,24,Under 25,ORL,ORL,Max-level,41754690,23504323,-18250367,Big overpay,4.93,1.9,6.4,5.6,2.8,1.54,3,5379,No,20.6,5.2,3.3,4,No,Yes,
+suggsja01,Jalen Suggs,PG,24,Under 25,ORL,ORL,Standard,32400000,13896276,-18503724,Big overpay,2.83,1.3,4.7,1.1,2.7,1.47,3,4601,No,13.8,3.9,5.5,4,No,Yes,
+banchpa01,Paolo Banchero,PF,23,Under 25,ORL,ORL,Max-level,41500000,21994487,-19505513,Big overpay,4.6,2.2,5.3,3.5,5.0,0.79,3,6883,No,22.2,8.4,5.2,5,No,Yes,
+butleji01,Jimmy Butler,SF,36,34+,GSW,GSW,Max-level,56832773,36772579,-20060194,Big overpay,7.83,2.9,9.1,8.7,5.7,1.52,3,4970,No,20.0,5.6,4.9,1,No,Yes,
+grantje01,Jerami Grant,PF,31,30-33,POR,MEM,Standard,34206898,13896276,-20310622,Big overpay,2.83,0.63,2.7,1.8,4.0,0.9,3,5049,No,18.6,3.5,2.1,2,No,Yes,
+garlada01,Darius Garland,PG,26,25-29,2TM,LAC,Max-level,42166510,21399703,-20766807,Big overpay,4.47,1.37,2.7,8.1,2.6,2.57,3,5546,No,18.8,2.4,6.7,2,No,Yes,
+siakapa01,Pascal Siakam,PF,31,30-33,IND,IND,Max-level,48924624,26890016,-22034608,Big overpay,5.67,2.17,6.9,7.5,2.6,2.18,3,7262,No,24.0,6.6,3.8,2,No,Yes,
+greenja05,Jalen Green,SG,23,Under 25,PHO,PHO,Standard,36251166,13896276,-22354890,Big overpay,2.83,0.97,3.1,5.1,0.3,1.97,3,6126,No,17.8,3.6,2.8,2,No,Yes,
+bookede01,Devin Booker,SG,29,25-29,PHO,PHO,Max-level,57078728,34667959,-22410769,Big overpay,7.37,2.37,9.2,6.4,6.5,1.3,3,7388,No,26.1,3.9,6.0,4,No,Yes,
+foxde01,De'Aaron Fox,PG,28,25-29,SAS,SAS,Max-level,49800000,27164532,-22635468,Big overpay,5.73,2.3,6.5,4.3,6.4,1.01,3,7131,No,18.6,3.8,6.2,4,No,Yes,
+murrade01,Dejounte Murray,PG,29,25-29,NOP,NOP,Standard,32785071,9641283,-23143788,Big overpay,1.9,1.0,4.9,0.2,0.6,2.13,3,4184,No,16.7,5.4,6.4,2,No,Yes,
+ingrabr01,Brandon Ingram,SF,28,25-29,TOR,LAC,Max-level,40000000,15726380,-24273620,Big overpay,3.23,1.23,5.1,0.0,4.6,2.3,3,5302,No,21.5,5.6,3.7,2,No,Yes,
+tatumja01,Jayson Tatum,PF,27,25-29,BOS,BOS,Max-level,58456566,33752907,-24703659,Big overpay,7.17,3.47,10.4,9.5,1.6,3.95,3,5791,No,21.8,10.0,5.3,4,No,Yes,
+cunnica01,Cade Cunningham,PG,24,Under 25,DET,DET,Max-level,50105628,24739644,-25365984,Big overpay,5.2,3.17,1.8,5.9,7.9,2.54,3,6698,No,23.9,5.5,9.9,4,No,Yes,
+ballla01,LaMelo Ball,PG,24,Under 25,CHO,MIN,Max-level,40770520,15131596,-25638924,Big overpay,3.1,2.13,1.1,2.0,6.2,2.22,3,4233,No,20.1,4.8,7.1,3,No,Yes,
+markkla01,Lauri Markkanen,PF,28,25-29,UTA,UTA,Max-level,46113154,19112073,-27001081,Big overpay,3.97,1.63,6.2,2.2,3.5,1.67,3,4739,No,26.7,6.9,2.1,3,No,Yes,
+davisan02,Anthony Davis,PF,32,30-33,DAL,WAS,Max-level,58456566,31145009,-27311557,Big overpay,6.6,2.93,11.8,6.7,1.3,4.29,3,5032,No,20.4,11.1,2.8,2,No,Yes,
+brownja02,Jaylen Brown,SF,29,25-29,BOS,PHI,Max-level,57078728,28399852,-28678876,Big overpay,6.0,2.0,5.9,5.2,6.9,0.7,3,6944,No,28.7,6.9,5.1,3,No,Yes,
+poolejo01,Jordan Poole,PG,26,25-29,NOP,NOP,Standard,34044642,3373176,-30671466,Big overpay,0.53,-0.13,-0.6,2.0,0.2,1.09,3,5280,No,13.4,2.0,3.1,1,No,Yes,
+youngtr01,Trae Young,PG,27,25-29,2TM,WAS,Max-level,49488300,18791805,-30696495,Big overpay,3.9,1.47,4.6,5.7,1.4,1.82,3,5065,No,17.9,2.0,8.0,4,No,Yes,
+jacksja02,Jaren Jackson Jr.,C,26,25-29,2TM,UTA,Max-level,49000000,17419227,-31580773,Big overpay,3.6,1.4,3.0,6.4,1.4,2.08,3,5785,No,19.4,5.7,2.0,4,No,Yes,
+curryst01,Stephen Curry,PG,37,34+,GSW,GSW,Max-level,62587158,30229956,-32357202,Big overpay,6.4,3.9,7.2,7.9,4.1,1.65,3,6002,No,26.6,3.6,4.7,3,No,Yes,
+moranja01,Ja Morant,PG,26,25-29,MEM,POR,Max-level,42166510,7948437,-34218073,Big overpay,1.53,0.73,0.8,3.5,0.3,1.41,3,2406,No,19.5,3.3,8.1,2,No,Yes,
+lavinza01,Zach LaVine,SG,30,30-33,SAC,SAC,Max-level,48967380,12981224,-35986156,Big overpay,2.63,0.83,1.5,5.1,1.3,1.75,3,4698,No,19.2,2.8,2.3,1,No,Yes,
+georgpa01,Paul George,PF,35,34+,PHI,BOS,Max-level,54126380,17419227,-36707153,Big overpay,3.6,1.63,7.3,1.0,2.5,2.69,3,4971,No,17.3,5.3,3.6,2,No,Yes,
+embiijo01,Joel Embiid,C,31,30-33,PHI,PHI,Max-level,58100000,20759167,-37340833,Big overpay,4.33,2.47,7.5,1.4,4.1,2.5,3,3084,No,26.9,7.7,3.9,3,No,Yes,
+wembavi01,Victor Wembanyama,C,22,Under 25,SAS,SAS,Rookie scale,16868246,,,Not rated,5.83,4.37,3.7,3.8,10.0,2.95,3,5499,No,25.0,11.5,3.1,6,Yes (2023 #1),No,Rookie-scale contract
+millebr02,Brandon Miller,SF,23,Under 25,CHO,CHO,Rookie scale,15104626,,,Not rated,1.9,0.63,0.8,0.4,4.5,1.85,3,5275,No,20.2,4.9,3.3,1,Yes (2023 #2),No,Rookie-scale contract
+flaggco01,Cooper Flagg,SF,19,Under 25,DAL,DAL,Rookie scale,14517480,,,Not rated,3.8,2.0,,,3.8,,1,2344,No,21.0,6.7,4.5,3,Yes (2025 #1),No,Rookie-scale contract
+williro04,Robert Williams,C,28,25-29,POR,POR,Standard,13968254,,,Not rated,2.07,0.73,0.4,1.3,4.5,1.76,3,1478,No,6.7,7.0,1.0,3,No,No,"Under 1,500 minutes"
+risacza01,Zaccharie Risacher,SF,20,Under 25,ATL,DAL,Rookie scale,13826040,,,Not rated,2.05,-0.45,,1.8,2.3,0.25,2,3346,No,9.6,3.8,1.1,2,Yes (2024 #1),No,Rookie-scale contract
+hendesc01,Scoot Henderson,PG,21,Under 25,POR,POR,Rookie scale,13585523,,,Not rated,0.37,-0.6,-1.7,1.8,1.0,1.5,3,4272,No,14.2,2.7,3.7,1,Yes (2023 #3),No,Rookie-scale contract
+harpedy01,Dylan Harper,SG,19,Under 25,SAS,SAS,Rookie scale,12989040,,,Not rated,4.2,1.3,,,4.2,,1,1558,No,11.8,3.4,3.9,3,Yes (2025 #2),No,Rookie-scale contract
+sarral01,Alex Sarr,C,20,Under 25,WAS,WAS,Rookie scale,12370680,,,Not rated,0.65,0.15,,-0.3,1.6,0.95,2,3119,No,16.3,7.4,2.7,2,Yes (2024 #2),No,Rookie-scale contract
+thompam01,Amen Thompson,PG,23,Under 25,HOU,HOU,Rookie scale,12258609,,,Not rated,7.53,2.7,4.3,8.0,10.3,2.47,3,6566,No,18.3,7.8,5.3,6,Yes (2023 #4),No,Rookie-scale contract
+edgecvj01,VJ Edgecombe,SG,20,Under 25,PHI,PHI,Rookie scale,11663880,,,Not rated,4.4,1.0,,,4.4,,1,2623,No,16.0,5.6,4.2,3,Yes (2025 #3),No,Rookie-scale contract
+thompau01,Ausar Thompson,SF,23,Under 25,DET,DET,Rookie scale,11117925,,,Not rated,3.77,1.17,1.8,3.8,5.7,1.59,3,4807,No,9.9,5.7,3.1,6,Yes (2023 #5),No,Rookie-scale contract
+sheppre01,Reed Sheppard,SG,21,Under 25,HOU,HOU,Rookie scale,11108880,,,Not rated,3.35,1.3,,0.8,5.9,2.55,2,2801,No,13.5,2.9,3.4,2,Yes (2024 #3),No,Rookie-scale contract
+knuepko01,Kon Knueppel,SF,20,Under 25,CHO,CHO,Rookie scale,10516560,,,Not rated,8.0,3.1,,,8.0,,1,2551,No,18.5,5.3,3.4,3,Yes (2025 #4),No,Rookie-scale contract
+blackan01,Anthony Black,PG,22,Under 25,ORL,ORL,Rookie scale,10106316,,,Not rated,2.2,0.13,1.6,2.4,2.6,0.43,3,4961,No,15.0,3.8,3.7,1,Yes (2023 #6),No,Rookie-scale contract
+castlst01,Stephon Castle,PG,21,Under 25,SAS,SAS,Rookie scale,10015920,,,Not rated,3.45,0.7,,1.1,5.8,2.35,2,4200,No,16.7,5.3,7.4,2,Yes (2024 #4),No,Rookie-scale contract
+baileac01,Ace Bailey,SF,19,Under 25,UTA,UTA,Rookie scale,9523080,,,Not rated,-0.1,-1.2,,,-0.1,,1,1988,No,13.8,4.2,1.8,3,Yes (2025 #5),No,Rookie-scale contract
+coulibi01,Bilal Coulibaly,SG,21,Under 25,WAS,WAS,Rookie scale,9240012,,,Not rated,0.57,-0.6,0.4,0.3,1.0,0.31,3,5131,No,11.7,4.3,2.6,1,Yes (2023 #7),No,Rookie-scale contract
+hollaro01,Ron Holland,SF,20,Under 25,DET,DET,Rookie scale,9069600,,,Not rated,2.3,-0.15,,1.8,2.8,0.5,2,2817,No,8.2,4.0,1.2,2,Yes (2024 #5),No,Rookie-scale contract
+johnstr03,Tre Johnson,SG,19,Under 25,WAS,WAS,Rookie scale,8649600,,,Not rated,-0.7,-1.1,,,-0.7,,1,1443,No,12.2,2.8,2.0,3,Yes (2025 #6),No,Rookie-scale contract
+walkeja02,Jarace Walker,PF,22,Under 25,IND,IND,Rookie scale,8478542,,,Not rated,0.83,0.1,0.4,1.6,0.5,0.54,3,3480,No,11.6,5.1,2.5,1,Yes (2023 #8),No,Rookie-scale contract
+salauti01,Tidjane Salaün,PF,20,Under 25,CHO,CHO,Rookie scale,8237880,,,Not rated,0.7,-0.4,,0.0,1.4,0.7,2,1819,No,6.0,4.0,0.7,2,Yes (2024 #6),No,Rookie-scale contract
+fearsje01,Jeremiah Fears,PG,19,Under 25,NOP,NOP,Rookie scale,7896240,,,Not rated,0.6,-0.4,,,0.6,,1,2112,No,14.3,3.7,3.4,3,Yes (2025 #7),No,Rookie-scale contract
+hendrta01,Taylor Hendricks,PF,22,Under 25,2TM,MEM,Rookie scale,7805900,,,Not rated,0.77,0.0,1.2,0.0,1.1,0.54,3,2049,No,7.4,3.7,0.9,1,Yes (2023 #9),No,Rookie-scale contract
+clingdo01,Donovan Clingan,C,21,Under 25,POR,POR,Rookie scale,7519920,,,Not rated,6.3,1.6,,4.0,8.6,2.3,2,3418,No,12.1,11.6,2.1,2,Yes (2024 #7),No,Rookie-scale contract
+wallaca01,Cason Wallace,SG,22,Under 25,OKC,OKC,Rookie scale,7420806,,,Not rated,4.8,1.37,4.0,5.2,5.2,0.57,3,5614,No,8.6,3.1,2.6,1,Yes (2023 #10),No,Rookie-scale contract
+livelde01,Dereck Lively II,C,21,Under 25,DAL,DAL,Rookie scale,7239131,,,Not rated,2.87,0.67,4.9,3.4,0.3,1.92,3,2242,No,4.3,5.3,1.9,1,Yes (2023 #12),No,Rookie-scale contract
+demineg01,Egor Dëmin,PG,19,Under 25,BRK,BRK,Rookie scale,7233720,,,Not rated,0.9,0.1,,,0.9,,1,1308,No,10.3,3.2,3.3,3,Yes (2025 #8),No,Rookie-scale contract
+dickgr01,Gradey Dick,SG,22,Under 25,TOR,LAC,Rookie scale,7131511,,,Not rated,1.03,-0.67,0.3,1.4,1.4,0.52,3,3922,No,6.0,1.9,0.7,1,Yes (2023 #13),No,Rookie-scale contract
+hawkijo01,Jordan Hawkins,SG,23,Under 25,NOP,MEM,Rookie scale,7021895,,,Not rated,0.13,-0.73,1.3,-0.5,-0.4,0.83,3,3173,No,5.1,1.7,0.8,1,Yes (2023 #14),No,Rookie-scale contract
+dilliro01,Rob Dillingham,PG,21,Under 25,2TM,CHO,Rookie scale,6889320,,,Not rated,-0.5,-0.8,,0.1,-1.1,0.6,2,1486,No,6.3,2.0,2.2,1,Yes (2024 #8),No,Rookie-scale contract
+murraco01,Collin Murray-Boyles,PF,20,Under 25,TOR,TOR,Rookie scale,6649560,,,Not rated,4.0,1.0,,,4.0,,1,1246,No,8.5,5.0,1.9,3,Yes (2025 #9),No,Rookie-scale contract
+georgke01,Keyonte George,PG,22,Under 25,UTA,UTA,Rookie scale,6563925,,,Not rated,1.37,-0.07,-0.3,1.1,3.3,1.48,3,5918,No,23.6,3.7,6.1,6,Yes (2023 #16),No,Rookie-scale contract
+edeyza01,Zach Edey,C,23,Under 25,MEM,MEM,Rookie scale,6332760,,,Not rated,2.85,0.45,,4.9,0.8,2.05,2,1700,No,13.6,11.1,1.1,2,Yes (2024 #9),No,Rookie-scale contract
+maluakh01,Khaman Maluach,C,19,Under 25,PHO,PHO,Rookie scale,6316680,,,Not rated,0.8,-0.2,,,0.8,,1,411,No,3.0,2.9,0.1,3,Yes (2025 #10),No,Rookie-scale contract
+willico04,Cody Williams,SG,21,Under 25,UTA,MIN,Rookie scale,6015600,,,Not rated,-0.55,-1.45,,-1.2,0.1,0.65,2,2691,No,8.8,3.0,2.0,2,Yes (2024 #10),No,Rookie-scale contract
+cowarce01,Cedric Coward,SG,22,Under 25,MEM,MEM,Rookie scale,6001080,,,Not rated,2.5,0.7,,,2.5,,1,1598,No,13.6,5.9,2.8,3,Yes (2025 #11),No,Rookie-scale contract
+jaqueja01,Jaime Jaquez Jr.,SF,24,Under 25,MIA,MIL,Rookie scale,5939141,,,Not rated,3.5,0.53,4.0,2.3,4.2,0.85,3,5602,No,15.4,5.0,4.7,1,Yes (2023 #18),No,Rookie-scale contract
+buzelma01,Matas Buzelis,PF,21,Under 25,CHI,CHI,Rookie scale,5715360,,,Not rated,2.25,0.15,,1.9,2.6,0.35,2,3759,No,16.3,5.8,2.1,2,Yes (2024 #11),No,Rookie-scale contract
+essenno01,Noa Essengue,PF,19,Under 25,CHI,CHI,Rookie scale,5701200,,,Not rated,-0.1,0.0,,,-0.1,,1,6,No,0.0,0.0,0.0,3,Yes (2025 #12),No,Rookie-scale contract
+podzibr01,Brandin Podziemski,SG,22,Under 25,GSW,GSW,Rookie scale,5679459,,,Not rated,4.47,1.13,4.1,4.2,5.1,0.45,3,6017,No,13.8,5.1,3.7,6,Yes (2023 #19),No,Rookie-scale contract
+topicni01,Nikola Topić,PG,20,Under 25,OKC,OKC,Rookie scale,5429760,,,Not rated,0.0,-0.3,,,0.0,,1,160,No,5.2,1.9,4.4,2,Yes (2024 #12),No,Rookie-scale contract
+queende01,Derik Queen,C,21,Under 25,NOP,NOP,Rookie scale,5416080,,,Not rated,2.7,0.6,,,2.7,,1,2023,No,11.7,7.1,3.7,3,Yes (2025 #13),No,Rookie-scale contract
+clownno01,Noah Clowney,PF,21,Under 25,BRK,BRK,Rookie scale,5414034,,,Not rated,0.83,-0.33,0.9,0.5,1.1,0.25,3,3192,No,12.3,4.1,1.6,1,Yes (2023 #21),No,Rookie-scale contract
+murrakr01,Kris Murray,SF,25,25-29,POR,MEM,Rookie scale,5315004,,,Not rated,1.2,-0.23,0.7,0.7,2.2,0.71,3,3721,No,5.8,3.6,1.4,1,Yes (2023 #23),No,Rookie-scale contract
+sassema01,Marcus Sasser,PG,25,25-29,DET,DAL,Rookie scale,5198983,,,Not rated,1.17,0.03,0.9,1.8,0.8,0.45,3,2619,No,5.2,1.0,2.0,1,Yes (2023 #25),No,Rookie-scale contract
+cartede02,Devin Carter,PG,23,Under 25,SAC,ATL,Rookie scale,7607501,,,Not rated,0.3,-0.1,,0.4,0.2,0.1,2,1096,No,8.9,3.3,2.7,1,Yes (2024 #13),No,Rookie-scale contract
+bryanca01,Carter Bryant,PF,20,Under 25,SAS,SAS,Rookie scale,5145360,,,Not rated,1.3,-0.2,,,1.3,,1,818,No,4.2,2.5,0.7,3,Yes (2025 #14),No,Rookie-scale contract
+sheppbe01,Ben Sheppard,SG,24,Under 25,IND,IND,Rookie scale,5031669,,,Not rated,1.43,-0.23,0.8,2.1,1.4,0.53,3,3433,No,7.1,3.0,1.8,1,Yes (2023 #26),No,Rookie-scale contract
+carrica01,Bub Carrington,PG,20,Under 25,WAS,WAS,Rookie scale,4900560,,,Not rated,-0.1,-1.6,,0.2,-0.4,0.3,2,4729,No,10.7,3.4,4.6,2,Yes (2024 #14),No,Rookie-scale contract
+sensabr01,Brice Sensabaugh,SF,22,Under 25,UTA,UTA,Rookie scale,4862237,,,Not rated,0.67,-0.17,-0.3,1.2,1.1,0.68,3,3778,No,14.9,3.1,1.9,1,Yes (2023 #28),No,Rookie-scale contract
+strawju01,Julian Strawther,SG,23,Under 25,DEN,DEN,Rookie scale,4826931,,,Not rated,0.93,-0.53,0.2,1.3,1.3,0.52,3,2790,No,7.2,2.0,1.1,1,Yes (2023 #29),No,Rookie-scale contract
+wareke01,Kel'el Ware,C,21,Under 25,MIA,MIL,Rookie scale,4654920,,,Not rated,5.15,1.25,,4.1,6.2,1.05,2,3126,No,11.1,9.0,0.7,2,Yes (2024 #15),No,Rookie-scale contract
+yangha01,Yang Hansen,C,20,Under 25,POR,POR,Rookie scale,4643520,,,Not rated,-0.5,-0.6,,,-0.5,,1,300,No,2.2,1.5,0.5,3,Yes (2025 #16),No,Rookie-scale contract
+minotjo01,Josh Minott,PF,23,Under 25,2TM,BRK,Standard,4500000,,,Not rated,1.23,0.5,0.4,0.9,2.4,0.85,3,1201,No,7.4,3.2,0.9,2,No,No,"Under 1,500 minutes"
+mccaija01,Jared McCain,SG,21,Under 25,2TM,OKC,Rookie scale,4422600,,,Not rated,1.1,0.1,,0.7,1.5,0.4,2,1752,No,8.3,2.0,1.3,2,Yes (2024 #16),No,Rookie-scale contract
+berinjo01,Joan Beringer,PF,19,Under 25,MIN,MIN,Rookie scale,4411200,,,Not rated,1.5,0.2,,,1.5,,1,314,No,3.9,2.3,0.3,3,Yes (2025 #17),No,Rookie-scale contract
+knechda01,Dalton Knecht,SF,24,Under 25,LAL,LAL,Rookie scale,4201080,,,Not rated,1.55,-0.05,,2.7,0.4,1.15,2,2047,No,4.2,1.4,0.4,2,Yes (2024 #17),No,Rookie-scale contract
+claytwa01,Walter Clayton,PG,22,Under 25,2TM,MEM,Rookie scale,4190520,,,Not rated,0.3,-0.8,,,0.3,,1,1410,No,7.8,2.0,4.0,3,Yes (2025 #18),No,Rookie-scale contract
+traorno01,Nolan Traoré,PG,19,Under 25,BRK,BRK,Rookie scale,4002000,,,Not rated,-1.6,-1.5,,,-1.6,,1,1243,No,8.9,1.8,3.8,3,Yes (2025 #19),No,Rookie-scale contract
+jenkida01,Daniss Jenkins,PG,24,Under 25,DET,DET,Standard,4000000,,,Not rated,1.4,0.2,,-0.1,2.9,1.5,2,1478,No,9.3,2.3,3.9,1,No,No,"Under 1,500 minutes"
+dasiltr01,Tristan Da Silva,SF,24,Under 25,ORL,ORL,Rookie scale,3991200,,,Not rated,2.9,0.2,,2.5,3.3,0.4,2,3528,No,9.9,3.7,1.6,2,Yes (2024 #18),No,Rookie-scale contract
+jordade01,DeAndre Jordan,C,37,34+,NOP,NOP,Veteran minimum,3876529,,,Not rated,1.2,0.1,1.2,1.8,0.6,0.49,3,1286,No,4.4,6.3,0.9,2,No,No,"Under 1,500 minutes"
+jakucka01,Kasparas Jakučionis,PG,19,Under 25,MIA,MIL,Rookie scale,3841680,,,Not rated,2.3,0.4,,,2.3,,1,945,No,6.2,2.6,2.6,3,Yes (2025 #20),No,Rookie-scale contract
+walteja01,Ja'Kobe Walter,SG,21,Under 25,TOR,TOR,Rookie scale,3811800,,,Not rated,2.45,0.15,,1.2,3.7,1.25,2,2577,No,7.5,2.6,1.2,2,Yes (2024 #19),No,Rookie-scale contract
+rileywi01,Will Riley,SF,19,Under 25,WAS,WAS,Rookie scale,3688320,,,Not rated,0.4,-1.0,,,0.4,,1,1633,No,10.3,2.9,2.0,3,Yes (2025 #21),No,Rookie-scale contract
+tysonja01,Jaylon Tyson,SG,23,Under 25,CLE,CLE,Rookie scale,3658560,,,Not rated,2.4,0.4,,0.8,4.0,1.6,2,2230,No,13.2,5.1,2.2,2,Yes (2024 #20),No,Rookie-scale contract
+poweldr01,Drake Powell,SG,20,Under 25,BRK,BRK,Rookie scale,3540600,,,Not rated,-0.1,-1.3,,,-0.1,,1,1320,No,6.5,1.8,1.4,3,Yes (2025 #22),No,Rookie-scale contract
+missiyv01,Yves Missi,C,21,Under 25,NOP,NOP,Rookie scale,3512760,,,Not rated,3.15,-0.2,,3.6,2.7,0.45,2,3253,No,5.7,5.8,1.3,2,Yes (2024 #21),No,Rookie-scale contract
+hukpoar01,Ariel Hukporti,C,23,Under 25,NYK,PHI,Standard,3400000,,,Not rated,0.65,-0.1,,0.1,1.2,0.55,2,715,No,2.2,2.9,0.5,1,No,No,"Under 1,500 minutes"
+newelas01,Asa Newell,PF,20,Under 25,ATL,ATL,Rookie scale,3399480,,,Not rated,1.2,0.1,,,1.2,,1,500,No,5.2,2.2,0.6,3,Yes (2025 #23),No,Rookie-scale contract
+holmeda01,DaRon Holmes,PF,23,Under 25,DEN,DEN,Rookie scale,3372120,,,Not rated,0.4,0.1,,,0.4,,1,210,No,3.7,1.4,0.6,2,Yes (2024 #22),No,Rookie-scale contract
+bambamo01,Mo Bamba,C,27,25-29,2TM,UTA,Standard,3286399,,,Not rated,1.03,0.07,2.0,1.0,0.1,0.78,3,1197,No,2.5,5.5,0.3,2,No,No,"Under 1,500 minutes"
+cliffni01,Nique Clifford,SG,23,Under 25,SAC,SAC,Rookie scale,3263400,,,Not rated,-0.6,-1.4,,,-0.6,,1,1882,No,8.6,3.8,2.4,3,Yes (2025 #24),No,Rookie-scale contract
+johnsaj01,AJ Johnson,SG,21,Under 25,2TM,NOP,Rookie scale,3237120,,,Not rated,-0.65,-0.9,,-0.4,-0.9,0.25,2,1093,No,3.3,1.1,1.0,2,Yes (2024 #23),No,Rookie-scale contract
+harpero02,Ron Harper Jr.,SF,25,25-29,BOS,BOS,Standard,3150752,,,Not rated,0.27,0.1,0.0,0.0,0.8,0.38,3,339,No,4.2,1.7,0.8,4,No,No,"Under 1,500 minutes"
+richaja02,Jase Richardson,SG,20,Under 25,ORL,ORL,Rookie scale,3132360,,,Not rated,1.0,-0.1,,,1.0,,1,587,No,4.4,1.2,1.1,3,Yes (2025 #25),No,Rookie-scale contract
+georgky01,Kyshawn George,SF,22,Under 25,WAS,WAS,Rookie scale,3108000,,,Not rated,0.35,-0.3,,0.1,0.6,0.25,2,3193,No,14.8,5.1,4.5,2,Yes (2024 #24),No,Rookie-scale contract
+littlna01,Nassir Little,SF,25,25-29,PHO,PHO,Standard,3107143,,,Not rated,0.7,-0.1,0.7,,,,1,458,Yes,,,,3,No,No,"Under 1,500 minutes"
+clarkja02,Jaylen Clark,SG,24,Under 25,MIN,MIN,Standard,3086420,,,Not rated,1.65,0.05,,1.6,1.7,0.05,2,1410,No,4.0,1.8,0.6,3,No,No,"Under 1,500 minutes"
+sarafbe01,Ben Saraf,SG,19,Under 25,BRK,BRK,Rookie scale,3028560,,,Not rated,-1.1,-1.2,,,-1.1,,1,916,No,7.5,2.1,3.3,3,Yes (2025 #26),No,Rookie-scale contract
+dadiepa01,Pacôme Dadiet,SG,20,Under 25,NYK,NYK,Rookie scale,2983680,,,Not rated,0.1,-0.05,,0.0,0.2,0.1,2,247,No,1.7,0.9,0.4,2,Yes (2024 #25),No,Rookie-scale contract
+wolfda01,Danny Wolf,PF,21,Under 25,BRK,BRK,Rookie scale,2941440,,,Not rated,0.8,-0.2,,,0.8,,1,1187,No,8.9,4.9,2.2,3,Yes (2025 #27),No,Rookie-scale contract
+gonzahu01,Hugo González,SF,19,Under 25,BOS,BOS,Rookie scale,2923560,,,Not rated,2.2,0.1,,,2.2,,1,1084,No,3.9,3.3,0.5,3,Yes (2025 #28),No,Rookie-scale contract
+mcneeli01,Liam McNeeley,SF,20,Under 25,CHO,CHO,Rookie scale,2902080,,,Not rated,0.9,0.1,,,0.9,,1,368,No,4.3,2.4,0.8,3,Yes (2025 #29),No,Rookie-scale contract
+konanya01,Yanic Konan Niederhäuser,C,22,Under 25,LAC,LAC,Rookie scale,2880960,,,Not rated,1.3,0.0,,,1.3,,1,424,No,4.3,2.9,0.3,3,Yes (2025 #30),No,Rookie-scale contract
+shannte01,Terrence Shannon Jr.,SG,25,25-29,MIN,MIN,Rookie scale,2801640,,,Not rated,0.8,-0.1,,0.6,1.0,0.2,2,877,No,5.6,1.1,0.9,2,Yes (2024 #27),No,Rookie-scale contract
+garzalu01,Luka Garza,C,27,25-29,BOS,BOS,Standard,2801346,,,Not rated,2.13,0.4,0.4,0.7,5.3,2.24,3,1459,No,8.1,4.1,1.0,1,No,No,"Under 1,500 minutes"
+dunnry01,Ryan Dunn,SF,23,Under 25,PHO,PHO,Rookie scale,2784240,,,Not rated,1.8,-0.15,,1.0,2.6,0.8,2,2765,No,5.8,4.2,1.5,2,Yes (2024 #28),No,Rookie-scale contract
+colliis01,Isaiah Collier,PG,21,Under 25,UTA,UTA,Rookie scale,2763960,,,Not rated,0.45,-0.9,,-0.8,1.7,1.25,2,3356,No,11.7,2.5,7.2,2,Yes (2024 #29),No,Rookie-scale contract
+scheiba01,Baylor Scheierman,SG,25,25-29,BOS,BOS,Rookie scale,2744040,,,Not rated,2.25,0.45,,0.7,3.8,1.55,2,1813,No,5.5,3.5,1.5,2,Yes (2024 #30),No,Rookie-scale contract
+davisjd01,JD Davison,PG,23,Under 25,HOU,ORL,Standard,2625627,,,Not rated,0.17,0.0,0.2,-0.2,0.5,0.29,3,350,No,2.5,1.2,1.3,1,No,No,"Under 1,500 minutes"
+sandeko01,Kobe Sanders,SG,23,Under 25,LAC,LAC,Standard,2622139,,,Not rated,1.4,-0.3,,,1.4,,1,1351,No,7.3,2.3,1.6,4,No,No,"Under 1,500 minutes"
+bouyeja01,Jamaree Bouyea,PG,26,25-29,PHO,PHO,Standard,2584539,,,Not rated,0.27,0.03,-0.3,0.0,1.1,0.6,3,801,No,5.7,1.8,1.8,1,No,No,"Under 1,500 minutes"
+cainja01,Jamal Cain,SF,26,25-29,ORL,ORL,Standard,2584539,,,Not rated,0.7,-0.03,0.5,0.4,1.2,0.36,3,1247,No,5.4,2.0,0.7,1,No,No,"Under 1,500 minutes"
+nancepe01,Pete Nance,PF,25,25-29,MIL,MIL,Standard,2537526,,,Not rated,0.4,-0.1,-0.1,0.2,1.1,0.51,3,902,No,5.4,2.7,1.0,2,No,No,"Under 1,500 minutes"
+tshieos01,Oscar Tshiebwe,C,26,25-29,UTA,HOU,Standard,2537526,,,Not rated,0.83,0.0,0.2,1.0,1.3,0.46,3,745,No,7.8,6.6,1.2,1,No,No,"Under 1,500 minutes"
+prospol01,Olivier-Maxence Prosper,PF,23,Under 25,MEM,MEM,Rookie scale,3500172,,,Not rated,1.27,0.13,0.5,0.9,2.4,0.82,3,1904,No,10.0,3.5,1.0,2,Yes (2023 #24),No,Rookie-scale contract
+plowdda01,Daeqwon Plowden,SG,27,25-29,SAC,SAC,Standard,2449421,,,Not rated,0.5,-0.25,,0.2,0.8,0.3,2,916,No,10.8,3.0,1.3,2,No,No,"Under 1,500 minutes"
+crawfis01,Isaiah Crawford,SF,24,Under 25,HOU,HOU,Standard,2449421,,,Not rated,0.05,0.0,,0.0,0.1,0.05,2,138,No,2.0,1.1,0.4,2,No,No,"Under 1,500 minutes"
+ingraha01,Harrison Ingram,SF,23,Under 25,SAS,UTA,Standard,2449421,,,Not rated,0.1,0.0,,0.1,0.1,0.0,2,61,No,1.6,0.4,0.1,1,No,No,"Under 1,500 minutes"
+mclaujo01,Jordan McLaughlin,PG,29,25-29,SAS,SAS,Standard,2449421,,,Not rated,1.23,0.4,2.5,0.6,0.6,0.9,3,1222,No,2.0,0.7,0.9,1,No,No,"Under 1,500 minutes"
+carlsbr01,Branden Carlson,C,26,25-29,OKC,POR,Standard,2449421,,,Not rated,1.3,0.3,,0.9,1.7,0.4,2,734,No,5.8,3.0,0.7,1,No,No,"Under 1,500 minutes"
+bufkiko01,Kobe Bufkin,SG,22,Under 25,LAL,NOP,Rookie scale,2449421,,,Not rated,-0.07,-0.13,-0.1,0.0,-0.1,0.05,3,439,No,2.9,0.8,0.6,1,Yes (2023 #15),No,Rookie-scale contract
+bassech01,Charles Bassey,C,25,25-29,4TM,GSW,Standard,2449421,,,Not rated,0.83,0.17,0.7,1.1,0.7,0.19,3,734,No,5.8,4.4,0.5,1,No,No,"Under 1,500 minutes"
+simmobe01,Ben Simmons,PG,29,25-29,2TM,SAC,Standard,2449421,,,Not rated,1.4,0.4,1.0,1.8,,0.4,2,1479,Yes,,,,1,No,No,"Under 1,500 minutes"
+jonesdi01,Dillon Jones,SF,24,Under 25,NYK,PHI,Rookie scale,2449421,,,Not rated,0.45,-0.15,,0.8,0.1,0.35,2,591,No,1.3,1.0,0.6,1,Yes (2024 #26),No,Rookie-scale contract
+wisemja01,James Wiseman,C,24,Under 25,IND,NYK,Standard,2449421,,,Not rated,0.7,-0.17,2.1,0.0,0.0,0.99,3,1154,No,3.3,2.0,0.8,1,No,No,"Under 1,500 minutes"
+smithto05,Tolu Smith,PF,25,25-29,DET,DET,Standard,2411090,,,Not rated,0.3,0.05,,0.1,0.5,0.2,2,159,No,3.7,3.3,0.9,1,No,No,"Under 1,500 minutes"
+tomlina01,Nae'Qwan Tomlin,PF,25,25-29,CLE,CLE,Standard,2411090,,,Not rated,1.15,-0.05,,0.1,2.2,1.05,2,1067,No,5.8,2.9,0.8,1,No,No,"Under 1,500 minutes"
+kalkbry01,Ryan Kalkbrenner,C,24,Under 25,CHO,CHO,Standard,2411090,,,Not rated,5.7,1.4,,,5.7,,1,1479,No,7.6,5.5,0.8,3,No,No,"Under 1,500 minutes"
+millele01,Leonard Miller,SF,22,Under 25,2TM,CHI,Standard,2406205,,,Not rated,0.67,0.1,0.3,0.1,1.6,0.66,3,803,No,7.8,3.9,0.9,1,No,No,"Under 1,500 minutes"
+kolekty01,Tyler Kolek,PG,24,Under 25,NYK,NYK,Standard,2296271,,,Not rated,0.9,0.1,,0.4,1.4,0.5,2,1023,No,4.4,1.6,2.7,2,No,No,"Under 1,500 minutes"
+furphjo01,Johnny Furphy,SG,21,Under 25,IND,IND,Standard,2296271,,,Not rated,0.5,-0.15,,0.5,0.5,0.0,2,1022,No,5.1,4.4,1.2,2,No,No,"Under 1,500 minutes"
+jamesbr02,Bronny James,SG,21,Under 25,LAL,LAL,Standard,2296271,,,Not rated,-0.05,-0.2,,-0.2,0.1,0.15,2,556,No,2.9,0.5,1.2,2,No,No,"Under 1,500 minutes"
+diawamo01,Mohamed Diawara,SF,20,Under 25,NYK,NYK,Standard,2232143,,,Not rated,0.9,0.0,,,0.9,,1,634,No,3.6,1.4,0.8,4,No,No,"Under 1,500 minutes"
+mcgeeja01,JaVale McGee,C,38,34+,SAC,DAL,Veteran minimum,2208856,,,Not rated,0.7,0.1,0.7,,,,1,339,Yes,,,,2,No,No,"Under 1,500 minutes"
+martial01,Alijah Martin,SG,24,Under 25,TOR,TOR,Standard,2185116,,,Not rated,0.0,-0.1,,,0.0,,1,146,No,2.2,0.9,0.5,2,No,No,"Under 1,500 minutes"
+cissemo01,Moussa Cisse,C,23,Under 25,DAL,DAL,Standard,2185116,,,Not rated,1.3,-0.1,,,1.3,,1,530,No,4.5,5.7,0.2,2,No,No,"Under 1,500 minutes"
+mbengbe01,Bez Mbeng,SG,22,Under 25,UTA,MIA,Standard,2185116,,,Not rated,0.5,-0.4,,,0.5,,1,492,No,8.1,3.8,4.1,1,No,No,"Under 1,500 minutes"
+flemira01,Rasheer Fleming,PF,21,Under 25,PHO,PHO,Standard,2150917,,,Not rated,0.8,-0.3,,,0.8,,1,673,No,4.3,2.3,0.3,3,No,No,"Under 1,500 minutes"
+pendano01,Noah Penda,SF,21,Under 25,ORL,ORL,Standard,2150917,,,Not rated,1.1,0.1,,,1.1,,1,757,No,3.8,3.2,1.2,3,No,No,"Under 1,500 minutes"
+peavymi01,Micah Peavy,SG,24,Under 25,NOP,MEM,Standard,2150917,,,Not rated,0.4,-0.7,,,0.4,,1,913,No,4.3,1.9,1.0,3,No,No,"Under 1,500 minutes"
+thierad01,Adou Thiero,SF,21,Under 25,LAL,LAL,Standard,2150917,,,Not rated,0.2,-0.1,,,0.2,,1,149,No,1.9,1.1,0.4,2,No,No,"Under 1,500 minutes"
+broomjo01,Johni Broome,C,23,Under 25,PHI,LAC,Standard,2150917,,,Not rated,-0.2,-0.2,,,-0.2,,1,55,No,0.9,1.5,0.4,1,No,No,"Under 1,500 minutes"
+richawi02,Will Richard,SG,23,Under 25,GSW,GSW,Standard,2150917,,,Not rated,2.5,0.1,,,2.5,,1,1377,No,6.4,2.5,1.3,3,No,No,"Under 1,500 minutes"
+laniech01,Chaz Lanier,SG,24,Under 25,DET,DET,Standard,2150917,,,Not rated,0.3,-0.2,,,0.3,,1,262,No,2.4,0.7,0.5,3,No,No,"Under 1,500 minutes"
+proctty01,Tyrese Proctor,PG,21,Under 25,CLE,CLE,Standard,2150917,,,Not rated,0.7,-0.1,,,0.7,,1,545,No,5.4,1.3,1.5,3,No,No,"Under 1,500 minutes"
+nembhry01,Ryan Nembhard,PG,22,Under 25,DAL,CHO,Standard,2150917,,,Not rated,0.8,-0.6,,,0.8,,1,1171,No,6.6,2.2,5.3,1,No,No,"Under 1,500 minutes"
+gardnmy01,Myron Gardner,SF,24,Under 25,MIA,MIA,Standard,2150917,,,Not rated,1.4,0.3,,,1.4,,1,411,No,3.6,2.7,1.0,2,No,No,"Under 1,500 minutes"
+whitmca01,Cam Whitmore,SF,21,Under 25,WAS,CLE,Rookie scale,1819437,,,Not rated,1.1,0.3,1.5,1.8,0.0,0.79,3,2061,No,9.2,2.8,0.7,3,Yes (2023 #20),No,Rookie-scale contract
+liddeej01,E.J. Liddell,PF,25,25-29,BRK,PHO,Standard,706898,,,Not rated,0.2,-0.03,0.0,0.1,0.5,0.22,3,425,No,5.7,2.7,0.9,1,No,No,"Under 1,500 minutes"
+diakima01,Mamadi Diakite,PF,29,25-29,2TM,MEM,Standard,464050,,,Not rated,0.1,0.0,0.1,,,,1,24,Yes,,,,1,No,No,"Under 1,500 minutes"
+gibsota01,Taj Gibson,C,40,34+,MEM,NOP,Veteran minimum,148828,,,Not rated,0.3,-0.17,0.2,0.4,0.3,0.08,3,710,No,3.4,2.7,0.6,1,No,No,"Under 1,500 minutes"
